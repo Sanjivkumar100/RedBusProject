@@ -1,0 +1,619 @@
+Bus_no,From,To,Bus_Name,Bus_Type,Bus_Dept,Bus_Arrival,Duration,Rating,Price,Seats
+0,Pune,Goa,Laxmi-Princess Nova,Non AC Seater/Sleeper,20:00:00,07:15:00,11h 15m,4.2,699,24
+1,Pune,Goa,IntrCity SmartBus,AC Seater/Sleeper,21:15:00,07:55:00,10h 40m,4.2,1087,11
+2,Pune,Goa,Ashray Vip Yellows,AC Sleeper,20:35:00,08:00:00,11h 25m,4.2,1270,13
+3,Pune,Goa,AdRajmudra tours and travels,AC Sleeper,22:25:00,09:41:00,11h 16m,4.2,1214,16
+4,Pune,Goa,Ashray Travels,Non AC Seater/Sleeper,21:20:00,08:50:00,11h 30m,4.2,780,15
+5,Pune,Goa,Prasanna - Purple Bus,AC Sleeper,22:30:00,09:30:00,11h 00m,4.2,1320,12
+6,Pune,Goa,Ashray Travels,AC Sleeper,21:05:00,08:30:00,11h 25m,4.2,1290,13
+7,Pune,Goa,AdShreyash Travels,AC Sleeper,21:45:00,08:30:00,10h 45m,4.2,1401,6
+8,Pune,Goa,Gogte Anand Travels,AC Sleeper,23:30:00,10:25:00,10h 55m,4.2,1201,14
+9,Pune,Goa,Dolphin Travel House (37),AC Sleeper,19:45:00,06:00:00,10h 15m,4.2,1710,2
+10,Pune,Goa,IntrCity SmartBus,AC Sleeper,22:35:00,09:00:00,10h 25m,4.2,1638,19
+11,Pune,Goa,Ashray National Express,Non AC Sleeper,20:00:00,06:45:00,10h 45m,4.2,880,6
+12,Pune,Goa,Indumati Travels,AC Sleeper,22:20:00,08:30:00,10h 10m,4.2,1378,11
+13,Pune,Goa,Gogte Anand Travels,AC Sleeper,21:15:00,07:55:00,10h 40m,4.2,1251,13
+14,Pune,Goa,Ashray Grand,AC Sleeper,23:00:00,10:00:00,11h 00m,4.2,1500,15
+15,Pune,Goa,Ashray Amrutyog,AC Sleeper,22:05:00,09:30:00,11h 25m,4.2,1250,8
+16,Pune,Goa,IntrCity SmartBus,AC Sleeper,20:35:00,07:30:00,10h 55m,4.2,1369,13
+17,Pune,Goa,IntrCity SmartBus,AC Sleeper,21:00:00,07:40:00,10h 40m,4.2,1398,9
+18,Pune,Goa,Sangitam Travels Tanzanite,AC Sleeper,21:00:00,06:45:00,09h 45m,4.2,1305,8
+19,Pune,Goa,IntrCity SmartBus,AC Sleeper,23:20:00,10:00:00,10h 40m,4.2,1967,12
+20,Pune,Goa,Atmaram Gobus,AC Sleeper,22:30:00,08:45:00,10h 15m,4.2,1250,5
+21,Pune,Goa,Laxmi Queen Asta,AC Sleeper,21:30:00,08:00:00,10h 30m,4.2,1600,16
+22,Pune,Goa,IntrCity SmartBus,AC Sleeper,22:10:00,08:50:00,10h 40m,4.2,1638,11
+23,Pune,Goa,Gogte Travels,Non AC Sleeper,19:30:00,06:15:00,10h 45m,4.2,899,10
+24,Pune,Goa,Atmaram Gobus,AC Sleeper,21:00:00,07:45:00,10h 45m,4.2,1250,8
+25,Pune,Goa,IntrCity SmartBus,AC Sleeper,22:00:00,09:35:00,11h 35m,4.2,1369,13
+26,Pune,Goa,Zingbus Plus,AC Sleeper,23:45:00,10:55:00,11h 10m,4.2,1385,8
+27,Pune,Goa,IntrCity SmartBus,AC Sleeper,22:30:00,09:35:00,11h 05m,4.2,1396,12
+28,Pune,Goa,Prasanna - Purple Bus,AC Sleeper,23:00:00,10:00:00,11h 00m,4.2,1420,18
+29,Pune,Goa,Anand Ashray Travels,AC Sleeper,22:30:00,09:00:00,10h 30m,4.2,1599,7
+30,Pune,Goa,Zingbus Plus,AC Sleeper,22:45:00,09:55:00,11h 10m,4.2,1349,10
+31,Pune,Goa,KVT Narmada Benz,AC Sleeper,21:25:00,08:01:00,10h 36m,4.2,1200,21
+32,Pune,Goa,Prasanna - Purple Bus,AC Sleeper,21:45:00,08:45:00,11h 00m,4.2,1920,25
+33,Pune,Goa,Prasanna - Purple Bus,AC Sleeper,22:15:00,09:30:00,11h 15m,4.2,2020,19
+34,Pune,Goa,Traveltime Travels (St.Christopher),Non AC Seater,20:00:00,07:00:00,11h 00m,4.2,700,20
+35,Pune,Goa,Ashray Atmaram Divine,Non AC Sleeper,19:45:00,06:45:00,11h 00m,4.2,880,7
+36,Pune,Goa,Gogte Shree Travels,AC Sleeper,20:40:00,07:25:00,10h 45m,4.2,1099,5
+37,Pune,Goa,Humsafar Travels,AC Sleeper,22:50:00,09:30:00,10h 40m,4.2,1273,11
+38,Pune,Goa,Traveltime Travels (Kelkar),Non AC Seater/Sleeper,21:15:00,08:45:00,11h 30m,4.2,750,17
+39,Pune,Goa,Gogte Travels (Manish),Non AC Seater,19:20:00,07:30:00,12h 10m,4.2,621,15
+40,Pune,Goa,Abhishek Vishal Travels,AC Sleeper,23:00:00,08:40:00,09h 40m,4.2,1499,17
+41,Pune,Goa,Anand Tours And Travels,Non AC Seater/Sleeper,21:00:00,07:15:00,10h 15m,4.2,725,33
+42,Pune,Goa,IntrCity SmartBus,AC Sleeper,20:55:00,07:35:00,10h 40m,4.2,1667,9
+43,Pune,Goa,M R Travels,AC Seater/Sleeper,21:00:00,10:30:00,13h 30m,4.2,2000,35
+44,Pune,Goa,M R Travels,AC Seater/Sleeper,19:00:00,09:10:00,14h 10m,4.2,2000,35
+45,Pune,Goa,Laxmi Queen Prime,AC Sleeper,20:30:00,07:30:00,11h 00m,4.2,1600,14
+46,Pune,Goa,Laxmi Empress Stellar,Non AC Sleeper,21:00:00,08:00:00,11h 00m,4.2,1299,18
+47,Pune,Goa,Rajdhani Travels Corporation,AC Sleeper,23:15:00,09:35:00,10h 20m,4.2,1800,1
+48,Pune,Goa,Atmaram Gobus,Non AC Sleeper,20:30:00,07:00:00,10h 30m,4.2,1100,9
+49,Pune,Goa,PSR Travels Goa (Parrikar),AC Sleeper,23:45:00,09:30:00,09h 45m,4.2,1499,8
+50,Pune,Goa,Gogte Shreyas,AC Sleeper,21:45:00,09:00:00,11h 15m,4.2,999,2
+51,Pune,Goa,Prasanna - Purple Bus,AC Sleeper,21:30:00,08:30:00,11h 00m,4.2,1220,22
+52,Pune,Goa,Dolphin Travel House (38),AC Sleeper,21:30:00,07:30:00,10h 00m,4.2,1710,17
+53,Pune,Goa,Abhishek Vishal Travels,Non AC Push Back,21:25:00,07:10:00,09h 45m,4.2,800,14
+54,Pune,Goa,Dolphin travel house,AC Sleeper,23:00:00,10:45:00,11h 45m,4.2,1619,28
+55,Pune,Goa,KVT Narmada Benz,AC Sleeper,22:00:00,08:00:00,10h 00m,4.2,1200,21
+56,Pune,Goa,VRL Travels,AC Sleeper,23:30:00,09:45:00,10h 15m,4.2,1250,8
+57,Pune,Goa,Naik Travels (Syndicate),Non AC Sleeper,22:05:00,09:00:00,10h 55m,4.2,1200,10
+58,Pune,Goa,Dolphin Travel House (39),AC Sleeper,22:25:00,08:30:00,10h 05m,4.2,1619,18
+59,Pune,Goa,Humsafar Travels,AC Sleeper,22:15:00,09:00:00,10h 45m,4.2,1260,11
+60,Pune,Goa,Hans Travels (I) Private Limited,AC Sleeper,23:59:00,12:14:00,12h 15m,4.2,1300,17
+61,Pune,Goa,Gujarat Travels,AC Sleeper,23:55:00,10:40:00,10h 45m,4.2,1100,13
+62,Pune,Goa,IntrCity SmartBus,AC Sleeper,21:55:00,09:30:00,11h 35m,4.2,1369,13
+63,Pune,Goa,Laxmi holidays,AC Seater/Sleeper,23:00:00,10:30:00,11h 30m,4.2,752,18
+64,Pune,Goa,Abhishek Vishal Travels,AC Sleeper,00:15:00,10:15:00,10h 00m,4.2,1499,16
+65,Pune,Goa,Gogte Travels,Non AC Sleeper,21:30:00,08:15:00,10h 45m,4.2,899,17
+66,Pune,Goa,Gogte Shree Travels,AC Sleeper,20:40:00,08:10:00,11h 30m,4.2,1099,5
+67,Pune,Goa,Gogte Travels,AC Sleeper,20:15:00,07:45:00,11h 30m,4.2,1199,1
+68,Pune,Goa,Traveltime Travels (St.Christopher),Non AC Seater,20:00:00,07:00:00,11h 00m,4.2,700,20
+69,Pune,Goa,AAINATH TRAVELS,AC Sleeper,21:15:00,07:00:00,09h 45m,4.2,950,17
+70,Pune,Goa,Kokan Holidays,Non AC Push Back,21:30:00,09:45:00,12h 15m,4.2,3000,2
+71,Pune,Goa,Laxmi holidays,AC Seater/Sleeper,20:00:00,07:50:00,11h 50m,4.2,700,21
+72,Pune,Goa,Shivrameshwar Bane Tours & Travels,AC Sleeper,00:20:00,10:15:00,09h 55m,4.2,5000,30
+73,Pune,Goa,Shivrameshwar Bane Tours & Travels,AC Sleeper,22:20:00,08:15:00,09h 55m,4.2,5000,30
+74,Pune,Goa,Global Travels Black Horse,Non AC Sleeper,21:00:00,07:30:00,10h 30m,4.2,1100,16
+75,Pune,Goa,Ashray Divine Yellow,Non AC Sleeper,22:10:00,09:35:00,11h 25m,4.2,1500,29
+76,Pune,Goa,Rajendra Tours And Travels,AC Sleeper,21:15:00,06:45:00,09h 30m,4.2,1805,28
+77,Pune,Goa,SAI BHAKTI HOLIDAYS,AC Sleeper,21:10:00,07:45:00,10h 35m,4.2,5000,30
+78,Pune,Goa,KOKAN TOURS & TRAVELS,Non AC Sleeper,21:45:00,08:00:00,10h 15m,4.2,5000,32
+79,Pune,Goa,Royal Gajraj Travels,Non AC Sleeper,20:00:00,08:30:00,12h 30m,4.2,5000,31
+80,Goa,Pune,Kadamba Transport Corporation Limited (KTCL) - 6032,Non AC Seater,18:00:00,08:00:00,14h 00m,4,600,21
+81,Goa,Pune,Kadamba Transport Corporation Limited (KTCL) - 89820,AC Sleeper,19:00:00,07:00:00,12h 00m,4,800,23
+82,Goa,Pune,Prasanna - Purple Bus,AC Sleeper,17:00:00,05:00:00,12h 00m,4,995,18
+83,Goa,Pune,Ashray Travels,AC Sleeper,22:30:00,10:00:00,11h 30m,4,940,13
+84,Goa,Pune,Prasanna - Purple Bus,AC Sleeper,22:00:00,07:30:00,09h 30m,4,999,22
+85,Goa,Pune,Atmaram Gobus,Non AC Sleeper,19:01:00,05:31:00,10h 30m,4,700,13
+86,Goa,Pune,Sangitam Travels Tanzanite,AC Sleeper,21:00:00,07:30:00,10h 30m,4,905,10
+87,Goa,Pune,IntrCity SmartBus,AC Seater/Sleeper,20:30:00,06:45:00,10h 15m,4,783,9
+88,Goa,Pune,Zingbus Plus,AC Sleeper,19:40:00,05:30:00,09h 50m,4,900,21
+89,Goa,Pune,Ashray Travels,Non AC Seater/Sleeper,20:00:00,06:30:00,10h 30m,4,500,29
+90,Goa,Pune,Atmaram Gobus,AC Sleeper,21:32:00,07:02:00,09h 30m,4,900,5
+91,Goa,Pune,IntrCity SmartBus,AC Sleeper,20:00:00,06:15:00,10h 15m,4,900,14
+92,Goa,Pune,Zingbus Plus,AC Sleeper,20:50:00,07:10:00,10h 20m,4,900,16
+93,Goa,Pune,IntrCity SmartBus,AC Sleeper,19:00:00,05:30:00,10h 30m,4,900,13
+94,Goa,Pune,Zingbus Plus,AC Sleeper,18:10:00,04:00:00,09h 50m,4,928,23
+95,Goa,Pune,Indumati Travels,AC Sleeper,21:00:00,07:00:00,10h 00m,4,903,26
+96,Goa,Pune,Anand Ashray Travels,AC Sleeper,20:00:00,06:30:00,10h 30m,4,1001,19
+97,Goa,Pune,Atmaram Gobus,AC Sleeper,22:30:00,07:45:00,09h 15m,4,900,7
+98,Goa,Pune,Atmaram Travels ( Gogte ),AC Sleeper,19:02:00,06:00:00,10h 58m,4,900,19
+99,Goa,Pune,IntrCity SmartBus,AC Sleeper,18:30:00,05:25:00,10h 55m,4,1000,12
+100,Goa,Pune,Amrutyog Travels,AC Sleeper,20:00:00,07:22:00,11h 22m,4,900,25
+101,Goa,Pune,IntrCity SmartBus,AC Sleeper,21:30:00,07:45:00,10h 15m,4,900,10
+102,Goa,Pune,Anand Ashray Travels,AC Sleeper,22:45:00,09:55:00,11h 10m,4,1001,30
+103,Goa,Pune,Atmaram Gobus,Non AC Sleeper,20:01:00,06:31:00,10h 30m,4,700,15
+104,Goa,Pune,"National Travels,Goa",Non AC Sleeper,19:00:00,06:20:00,11h 20m,4,700,14
+105,Goa,Pune,Laxmi Queen Asta,AC Sleeper,20:30:00,07:00:00,10h 30m,4,900,19
+106,Goa,Pune,Rajdhani Travels Corporation,AC Sleeper,18:00:00,06:10:00,12h 10m,4,1000,14
+107,Goa,Pune,IntrCity SmartBus,AC Sleeper,19:30:00,05:40:00,10h 10m,4,1000,10
+108,Goa,Pune,IntrCity SmartBus,AC Sleeper,21:00:00,07:05:00,10h 05m,4,1000,12
+109,Goa,Pune,Prasanna - Purple Bus,AC Sleeper,18:00:00,06:15:00,12h 15m,4,995,19
+110,Goa,Pune,Atmaram Travels (Humsafar),AC Sleeper,19:30:00,05:00:00,09h 30m,4,900,12
+111,Goa,Pune,Atmaram Travels (Shreyas),AC Sleeper,20:03:00,06:33:00,10h 30m,4,900,21
+112,Goa,Pune,Ashray Grand,AC Sleeper,22:00:00,09:30:00,11h 30m,4,1000,26
+113,Goa,Pune,Laxmi Empress Stellar,Non AC Sleeper,19:45:00,06:45:00,11h 00m,4,799,20
+114,Goa,Pune,Prasanna - Purple Bus,AC Sleeper,22:15:00,07:45:00,09h 30m,4,999,21
+115,Goa,Pune,Atmaram Travels (Dolphin),AC Sleeper,14:00:00,01:00:00,11h 00m,4,1000,14
+116,Goa,Pune,Giroba Travels (Kelkar),Non AC Seater/Sleeper,17:45:00,05:30:00,11h 45m,4,500,21
+117,Goa,Pune,Atmaram Travels(M.Dev),AC Sleeper,22:00:00,08:00:00,10h 00m,4,1000,18
+118,Goa,Pune,Atmaram Travels ( Ashray ),AC Sleeper,22:02:00,10:10:00,12h 08m,4,900,19
+119,Goa,Pune,Anand Ashray Travels,AC Sleeper,21:00:00,09:20:00,12h 20m,4,1001,29
+120,Goa,Pune,Laxmi Queen Prime,AC Sleeper,19:30:00,06:30:00,11h 00m,4,900,21
+121,Goa,Pune,VAILANKANNI TRAVELS,AC Sleeper,18:30:00,06:55:00,12h 25m,4,1000,26
+122,Goa,Pune,Atmaram Travels (Dolphin),AC Sleeper,18:30:00,05:30:00,11h 00m,4,1000,28
+123,Goa,Pune,Giroba Travels (Kelkar),Non AC Seater,18:00:00,05:30:00,11h 30m,4,500,31
+124,Goa,Pune,Atmaram Travels(KVT Narmada Red),AC Sleeper,21:16:00,07:31:00,10h 15m,4,900,23
+125,Goa,Pune,IntrCity SmartBus,AC Sleeper,20:45:00,07:10:00,10h 25m,4,900,13
+126,Goa,Pune,M R Travels,AC Seater/Sleeper,19:50:00,06:30:00,10h 40m,4,1800,35
+127,Goa,Pune,M R Travels,AC Seater/Sleeper,18:30:00,06:30:00,12h 00m,4,1800,35
+128,Goa,Pune,Atmaram Travels Goa,AC Sleeper,20:30:00,06:45:00,10h 15m,4,900,26
+129,Goa,Pune,IntrCity SmartBus,AC Sleeper,20:50:00,07:15:00,10h 25m,4,900,13
+130,Goa,Pune,Laxmi-Princess Nova,Non AC Seater/Sleeper,19:00:00,06:30:00,11h 30m,4,599,12
+131,Goa,Pune,VRL Travels,AC Sleeper,19:30:00,06:45:00,11h 15m,4,1000,18
+132,Goa,Pune,Atmaram Travels (Dolphin),AC Sleeper,15:00:00,02:30:00,11h 30m,4,1000,29
+133,Goa,Pune,Atmaram Travels (Unity),AC Sleeper,20:00:00,07:00:00,11h 00m,4,1000,27
+134,Goa,Pune,PSR Travels Goa (Parrikar),AC Sleeper,19:15:00,06:00:00,10h 45m,4,1199,8
+135,Goa,Pune,PSR Travels (Vaibhav),AC Sleeper,22:30:00,07:30:00,09h 00m,4,1050,28
+136,Goa,Pune,Giroba Travels (Shree),AC Sleeper,19:00:00,06:30:00,11h 30m,4,900,21
+137,Goa,Pune,Atmaram Travels (Vaibhav),AC Sleeper,22:31:00,08:31:00,10h 00m,4,1050,22
+138,Goa,Pune,Prasanna - Purple Bus,AC Sleeper,21:00:00,07:00:00,10h 00m,4,905,24
+139,Goa,Pune,Atmaram Travels ( Gogte ),Non AC Sleeper,21:01:00,07:31:00,10h 30m,4,700,23
+140,Goa,Pune,Atmaram Travels (Dolphin),AC Sleeper,16:30:00,03:30:00,11h 00m,4,1050,16
+141,Goa,Pune,Manish Sharma Travels,AC Sleeper,20:00:00,05:45:00,09h 45m,4,900,25
+142,Goa,Pune,Atmaram Travels (Dolphin),AC Sleeper,19:30:00,08:40:00,13h 10m,4,1000,27
+143,Goa,Pune,Manish Patil Travels,AC Sleeper,15:30:00,04:30:00,13h 00m,4,900,29
+144,Goa,Pune,Laxmi holidays,AC Seater/Sleeper,19:30:00,07:30:00,12h 00m,4,750,36
+145,Goa,Pune,Atmaram Travels(GTA),AC Sleeper,19:00:00,06:00:00,11h 00m,4,1000,27
+146,Goa,Pune,Laxmi holidays,AC Seater/Sleeper,18:30:00,06:00:00,11h 30m,4,800,37
+147,Goa,Pune,Manish Travels,Non AC Seater,16:45:00,05:35:00,12h 50m,4,500,30
+148,Goa,Pune,Sai Travels - Yogeshwari,AC Seater/Sleeper,17:00:00,04:50:00,11h 50m,4,4000,33
+149,Goa,Pune,Naik Tours And Travels,Non AC Sleeper,17:00:00,05:45:00,12h 45m,4,700,18
+150,Goa,Pune,Gujarat Travels,AC Sleeper,12:40:00,23:50:00,11h 10m,4,1100,29
+151,Goa,Pune,Manish Roshan Travels,AC Sleeper,19:00:00,06:30:00,11h 30m,4,900,28
+152,Goa,Pune,Hans Travels (I) Private Limited,AC Sleeper,12:30:00,23:15:00,10h 45m,4,1200,10
+153,Goa,Pune,Atmaram Travels (Vishal),Non AC Seater,18:10:00,06:05:00,11h 55m,4,600,27
+154,Goa,Pune,Atmaram Travels (Dolphin),AC Sleeper,15:30:00,02:30:00,11h 00m,4,1000,28
+155,Goa,Pune,Jolly Tours and Travels,AC Sleeper,18:30:00,05:45:00,11h 15m,4,1199,30
+156,Goa,Pune,AAINATH TRAVELS,AC Seater/Sleeper,21:30:00,06:30:00,09h 00m,4,699,27
+157,Goa,Pune,Jolly Tours and Travels,AC Sleeper,17:30:00,04:45:00,11h 15m,4,1099,16
+158,Goa,Pune,IntrCity SmartBus,AC Sleeper,19:05:00,05:35:00,10h 30m,4,900,11
+159,Goa,Pune,Amrutyog Travels,Non AC Sleeper,20:30:00,08:00:00,11h 30m,4,5000,36
+160,Goa,Pune,Amrutyog Travels,Non AC Sleeper,19:00:00,08:00:00,13h 00m,4,5000,36
+161,Goa,Pune,Atmaram Travels ( Gogte ),Non AC Sleeper,22:01:00,08:46:00,34h 45m,4,700,26
+162,Goa,Pune,Jolly Tours and Travels,AC Seater,18:30:00,05:45:00,11h 15m,4,1799,9
+163,Goa,Pune,Giroba Travels (Rajmudra),AC Sleeper,20:45:00,08:00:00,11h 15m,4,899,23
+164,Goa,Pune,Giroba Travels (Anand),Non AC Seater/Sleeper,19:00:00,06:30:00,11h 30m,4,500,27
+165,Goa,Pune,Ashray Travels,Non AC Sleeper,19:00:00,06:45:00,59h 45m,4,2000,30
+166,Goa,Pune,Kokan Holidays - Muskan,Non AC Sleeper,16:00:00,04:43:00,12h 43m,4,800,32
+167,Goa,Pune,Kokan Holidays,Non AC Sleeper,18:02:00,06:00:00,11h 58m,4,3000,32
+168,Mumbai,Goa,Kadamba Transport Corporation Limited (KTCL) - 97386,AC Seater,17:05:00,06:00:00,12h 55m,3.8,1200,2
+169,Mumbai,Goa,IntrCity SmartBus,AC Sleeper,17:15:00,08:50:00,15h 35m,3.8,1638,11
+170,Mumbai,Goa,Zingbus Plus,AC Sleeper,17:00:00,09:55:00,16h 55m,3.8,1490,10
+171,Mumbai,Goa,Dolphin travel house,AC Sleeper,21:30:00,13:15:00,15h 45m,3.8,1819,28
+172,Mumbai,Goa,Global Travel Agency (GTA),AC Sleeper,17:50:00,12:00:00,18h 10m,3.8,1499,23
+173,Mumbai,Goa,IntrCity SmartBus,AC Sleeper,16:30:00,09:00:00,16h 30m,3.8,1638,19
+174,Mumbai,Goa,Zingbus Plus,AC Sleeper,18:00:00,10:55:00,16h 55m,3.8,1583,8
+175,Mumbai,Goa,Dolphin Travel House (38),AC Sleeper,14:30:00,07:30:00,17h 00m,3.8,1710,15
+176,Mumbai,Goa,IntrCity SmartBus,AC Sleeper,19:30:00,10:00:00,14h 30m,3.8,1967,11
+177,Mumbai,Goa,Zingbus Plus,AC Sleeper,20:00:00,11:55:00,15h 55m,3.8,1583,7
+178,Mumbai,Goa,Atmaram Manish Travels,Non AC Seater,15:00:00,07:15:00,16h 15m,3.8,700,4
+179,Mumbai,Goa,Shubhra Sharma Tourist Services,AC Sleeper,16:46:00,10:31:00,17h 45m,3.8,1500,16
+180,Mumbai,Goa,Rajdhani Travels Corporation,AC Sleeper,19:55:00,09:35:00,13h 40m,3.8,1800,1
+181,Mumbai,Goa,Dolphin Travel House (37),AC Sleeper,13:00:00,06:00:00,17h 00m,3.8,1710,2
+182,Mumbai,Goa,Atmaram Manish Travels,AC Sleeper,16:50:00,09:15:00,16h 25m,3.8,1300,4
+183,Mumbai,Goa,Rajdhani Travels Corporation,AC Sleeper,20:50:00,10:05:00,13h 15m,3.8,1800,2
+184,Mumbai,Goa,Mascot Travels(M.Dev),AC Sleeper,17:30:00,10:45:00,17h 15m,3.8,1400,23
+185,Mumbai,Goa,Laxmi holidays,AC Seater/Sleeper,19:00:00,10:30:00,15h 30m,3.8,800,18
+186,Mumbai,Goa,Dolphin travel house,AC Sleeper,17:45:00,10:45:00,17h 00m,3.8,1619,28
+187,Mumbai,Goa,Mascot Travels(M.Dev),AC Sleeper,19:00:00,12:00:00,17h 00m,3.8,1700,20
+188,Mumbai,Goa,Abhishek Vishal Travels,AC Sleeper,16:00:00,08:40:00,16h 40m,3.8,1499,17
+189,Mumbai,Goa,Konkan Travels National,Non AC Sleeper,19:25:00,09:45:00,14h 20m,3.8,1299,11
+190,Mumbai,Goa,Abhishek Vishal Travels,AC Sleeper,17:20:00,10:15:00,16h 55m,3.8,1499,16
+191,Mumbai,Goa,Konkan Travels National,AC Sleeper,18:00:00,10:55:00,16h 55m,3.8,1499,8
+192,Mumbai,Goa,Shubham Vailankanni Travels,AC Sleeper,21:00:00,12:35:00,15h 35m,3.8,1700,21
+193,Mumbai,Goa,VRL Travels,AC Sleeper,19:00:00,09:45:00,14h 45m,3.8,1250,7
+194,Mumbai,Goa,Dolphin travel house,AC Sleeper,19:00:00,11:45:00,16h 45m,3.8,1619,15
+195,Mumbai,Goa,Dolphin Travel House (40),AC Sleeper,20:00:00,13:15:00,17h 15m,3.8,1719,25
+196,Mumbai,Goa,Dolphin Travel House (39),AC Sleeper,15:45:00,08:30:00,16h 45m,3.8,1619,18
+197,Mumbai,Goa,Naik Travels (Syndicate),Non AC Sleeper,19:30:00,09:00:00,13h 30m,3.8,1200,7
+198,Mumbai,Goa,Konkan Travels Mujawar,Non AC Sleeper,18:50:00,11:45:00,16h 55m,3.8,1299,13
+199,Mumbai,Goa,Shubhra Sharma Tourist Service,AC Sleeper,16:50:00,10:20:00,17h 30m,3.8,1500,16
+200,Mumbai,Goa,Sanvi Travels - Shree,AC Sleeper,17:00:00,09:30:00,16h 30m,3.8,1500,16
+201,Mumbai,Goa,Sanvi Travels - Shree,AC Sleeper,19:00:00,10:00:00,15h 00m,3.8,5000,30
+202,Mumbai,Goa,Shivrameshwar Bane Tours & Travels,AC Sleeper,16:00:00,08:15:00,16h 15m,3.8,5000,30
+203,Mumbai,Goa,Shivrameshwar Bane Tours & Travels,AC Sleeper,18:00:00,10:15:00,16h 15m,3.8,5000,30
+204,Mumbai,Goa,Anand Travels,Non AC Sleeper,19:00:00,07:15:00,12h 15m,3.8,1100,5
+205,Mumbai,Goa,Vaibhav travels,AC Sleeper,19:15:00,11:30:00,16h 15m,3.8,3000,36
+206,Mumbai,Goa,Gujarat Travels,AC Sleeper,20:30:00,10:40:00,14h 10m,3.8,1300,9
+207,Mumbai,Goa,Abhishek Vishal Travels,Non AC Push Back,14:50:00,07:10:00,16h 20m,3.8,800,14
+208,Mumbai,Goa,Roshan Travels,AC Sleeper,16:45:00,09:15:00,16h 30m,3.8,1499,25
+209,Mumbai,Goa,Shubham Vailankanni Travels,AC Sleeper,17:30:00,10:15:00,16h 45m,3.8,1700,7
+210,Mumbai,Goa,Mascot Travels(Patil),AC Sleeper,16:15:00,09:15:00,17h 00m,3.8,1499,24
+211,Mumbai,Goa,Naik Tours And Travels,AC Sleeper,19:00:00,10:00:00,15h 00m,3.8,1400,23
+212,Mumbai,Goa,SAI BHAKTI HOLIDAYS,AC Sleeper,15:30:00,07:45:00,16h 15m,3.8,5000,30
+213,Mumbai,Goa,SAI BHAKTI HOLIDAYS,AC Sleeper,19:15:00,10:15:00,15h 00m,3.8,5000,30
+214,Mumbai,Goa,Shubhra Sharma Tourist Services,AC Sleeper,20:20:00,11:00:00,14h 40m,3.8,1200,18
+215,Mumbai,Goa,Shubhra Sharma Tourist Services,AC Sleeper,20:20:00,11:00:00,14h 40m,3.8,1200,18
+216,Mumbai,Goa,GANESH PRASAD TRAVELS,AC Seater,21:00:00,10:55:00,13h 55m,3.8,2500,49
+217,Mumbai,Goa,GANESH PRASAD TRAVELS,Non AC Seater,20:00:00,09:55:00,13h 55m,3.8,2500,49
+218,Bangalore,Goa,Kadamba Transport Corporation Limited (KTCL) - 141293,AC Seater,19:45:00,08:15:00,12h 30m,3.8,1200,12
+219,Bangalore,Goa,Jolly Tours and Travels,AC Sleeper,21:00:00,09:30:00,12h 30m,3.8,1600,15
+220,Bangalore,Goa,Rajat Travels,AC Seater/Sleeper,21:20:00,10:30:00,13h 10m,3.8,990,19
+221,Bangalore,Goa,Streamline tours and travels,AC Sleeper,23:00:00,11:00:00,12h 00m,3.8,1999,24
+222,Bangalore,Goa,Streamline tours and travels,AC Sleeper,21:00:00,10:00:00,13h 00m,3.8,2180,13
+223,Bangalore,Goa,KMS Travels,AC Sleeper,21:30:00,10:00:00,12h 30m,3.8,1580,14
+224,Bangalore,Goa,Jolly Tours and Travels,AC Sleeper,20:45:00,10:45:00,14h 00m,3.8,1650,14
+225,Bangalore,Goa,Nathi Holidays,AC Sleeper,22:15:00,11:30:00,13h 15m,3.8,1299,11
+226,Bangalore,Goa,IntrCity SmartBus,AC Sleeper,20:30:00,10:40:00,14h 10m,3.8,2428,12
+227,Bangalore,Goa,Intercity travels,AC Sleeper,22:05:00,11:05:00,13h 00m,3.8,2099,4
+228,Bangalore,Goa,Sunrise Tours and Travels,AC Sleeper,20:15:00,08:45:00,12h 30m,3.8,1999,9
+229,Bangalore,Goa,Sri Sai Logistics,AC Sleeper,21:45:00,09:35:00,11h 50m,3.8,1800,1
+230,Bangalore,Goa,Butterfly Holidays,AC Sleeper,21:10:00,09:35:00,12h 25m,3.8,1599,9
+231,Bangalore,Goa,Intercity travels,AC Sleeper,21:00:00,10:15:00,13h 15m,3.8,2199,5
+232,Bangalore,Goa,Sunrise Tours and Travels,AC Sleeper,21:20:00,09:25:00,12h 05m,3.8,1999,5
+233,Bangalore,Goa,Sugama Tourist,Non AC Sleeper,20:00:00,08:15:00,12h 15m,3.8,1800,2
+234,Bangalore,Goa,Sri Tourist,AC Sleeper,20:05:00,08:30:00,12h 25m,3.8,1499,24
+235,Bangalore,Goa,Sea Bird Tourist,Non AC Sleeper,18:00:00,07:30:00,13h 30m,3.8,1200,12
+236,Bangalore,Goa,Streamline tours and travels,AC Sleeper,22:00:00,10:05:00,12h 05m,3.8,2100,11
+237,Bangalore,Goa,DA Transports,AC Sleeper,20:15:00,08:00:00,11h 45m,3.8,1599,11
+238,Bangalore,Goa,Sea Bird Tourist,AC Sleeper,23:30:00,12:30:00,13h 00m,3.8,1500,26
+239,Bangalore,Goa,AGR Travels,AC Sleeper,21:32:00,09:00:00,11h 28m,3.8,1299,11
+240,Bangalore,Goa,IntrCity SmartBus,AC Sleeper,21:30:00,11:20:00,13h 50m,3.8,2013,17
+241,Bangalore,Goa,Sea Bird Tourist,AC Sleeper,22:30:00,11:30:00,13h 00m,3.8,1400,15
+242,Bangalore,Goa,VRL Travels,Non AC Sleeper,20:00:00,09:30:00,13h 30m,3.8,1700,1
+243,Bangalore,Goa,Northern Travels,AC Sleeper,22:00:00,10:30:00,12h 30m,3.8,1254,21
+244,Bangalore,Goa,VKV Travels,AC Sleeper,22:55:00,10:00:00,11h 05m,3.8,1740,26
+245,Bangalore,Goa,National travels,AC Sleeper,21:30:00,10:30:00,13h 00m,3.8,1700,32
+246,Bangalore,Goa,VRL Travels,AC Sleeper,21:00:00,10:45:00,13h 45m,3.8,2400,4
+247,Bangalore,Goa,DA Transports,Non AC Sleeper,20:15:00,08:00:00,11h 45m,3.8,5998,36
+248,Bangalore,Goa,AJ Xpress,AC Seater/Sleeper,21:32:00,09:20:00,11h 48m,3.8,1001,27
+249,Bangalore,Goa,Kukkeshree Travels,AC Sleeper,21:15:00,09:30:00,12h 15m,3.8,2399,23
+250,Bangalore,Goa,National travels,AC Sleeper,22:25:00,09:30:00,11h 05m,3.8,1400,4
+251,Bangalore,Goa,Limousine Tours & Travels,AC Sleeper,20:20:00,10:10:00,13h 50m,3.8,1999,21
+252,Bangalore,Goa,Gowthami Tours and Travels,AC Sleeper,19:45:00,07:15:00,11h 30m,3.8,1800,32
+253,Bangalore,Goa,VRL Travels,Non AC Sleeper,20:15:00,09:45:00,13h 30m,3.8,2000,6
+254,Bangalore,Goa,PSR Travels Goa,AC Seater/Sleeper,21:00:00,10:30:00,13h 30m,3.8,2699,33
+255,Bangalore,Goa,Janatha Travels,Non AC Sleeper,20:45:00,09:30:00,12h 45m,3.8,12345,30
+256,Bangalore,Goa,Shanta Travels,AC Sleeper,23:00:00,11:15:00,12h 15m,3.8,5000,36
+257,Bangalore,Goa,Anand Travels,Non AC Sleeper,18:30:00,05:30:00,11h 00m,3.8,1245,11
+258,Bangalore,Goa,Streamline tours and travels,AC Sleeper,20:15:00,08:45:00,12h 30m,3.8,1999,25
+259,Bangalore,Goa,National travels,AC Sleeper,22:25:00,10:00:00,11h 35m,3.8,1900,10
+260,Bangalore,Goa,Sea Bird Tourist,Non AC Sleeper,20:30:00,10:30:00,14h 00m,3.8,1300,10
+261,Bangalore,Goa,VRL Travels,AC Seater/Sleeper,19:30:00,09:15:00,13h 45m,3.8,1000,9
+262,Bangalore,Goa,SAI TOURS AND TRAVELS,Non AC Sleeper,20:05:00,08:45:00,12h 40m,3.8,1400,16
+263,Bangalore,Goa,Gowthami Tours and Travels,AC Sleeper,20:30:00,07:15:00,10h 45m,3.8,1800,20
+264,Bangalore,Goa,Sea Bird Tourist,AC Sleeper,19:00:00,08:00:00,13h 00m,3.8,1400,30
+265,Bangalore,Goa,VM CABS,AC Sleeper,18:00:00,08:40:00,14h 40m,3.8,2000,23
+266,Bangalore,Goa,Anand Travels,AC Sleeper,21:30:00,08:30:00,11h 00m,3.8,1600,13
+267,Bangalore,Goa,SRS Travels,Non AC Seater/Sleeper,20:00:00,09:30:00,13h 30m,3.8,1199,2
+268,Bangalore,Goa,Balaji Tourist,AC Semi Sleeper,23:00:00,12:15:00,13h 15m,3.8,1499,35
+269,Bangalore,Goa,Sugama Tourist,Non AC Sleeper,20:00:00,07:45:00,11h 45m,3.8,1800,2
+270,Bangalore,Goa,Sam Tourist,AC Sleeper,22:30:00,09:30:00,11h 00m,3.8,1699,19
+271,Bangalore,Goa,Sri Benaka Travels,AC Sleeper,21:15:00,09:20:00,12h 05m,3.8,4000,34
+272,Bangalore,Goa,Sri Tourist,AC Sleeper,20:10:00,07:30:00,11h 20m,3.8,1499,15
+273,Bangalore,Goa,NAS Travels,AC Sleeper,20:30:00,07:00:00,10h 30m,3.8,1299,15
+274,Bangalore,Goa,Samarath Tours and Travels,Non AC Seater/Sleeper,18:30:00,07:35:00,13h 05m,3.8,1999,37
+275,Bangalore,Goa,THANUSHREE TOURS N TRAVELS,AC Sleeper,20:40:00,08:45:00,12h 05m,3.8,4999,30
+276,Belagavi,Goa,Kadamba Transport Corporation Limited (KTCL) - 6020,Non AC Seater,16:00:00,19:45:00,03h 45m,3.2,170,31
+277,Belagavi,Goa,S R Travels,Non AC Sleeper,01:00:00,06:00:00,05h 00m,3.2,799,1
+278,Goa,Mumbai,Kadamba Transport Corporation Limited (KTCL) - 116186,AC Seater,18:30:00,08:00:00,13h 30m,4,900,24
+279,Goa,Mumbai,Zingbus Plus,AC Sleeper,20:25:00,11:55:00,15h 30m,4,1000,13
+280,Goa,Mumbai,Zingbus Plus,AC Sleeper,19:40:00,10:15:00,14h 35m,4,1000,21
+281,Goa,Mumbai,IntrCity SmartBus,AC Sleeper,19:30:00,09:40:00,14h 10m,4,1000,10
+282,Goa,Mumbai,Zingbus Plus,AC Sleeper,18:10:00,08:45:00,14h 35m,4,1000,23
+283,Goa,Mumbai,Atmaram Travels (Dolphin),AC Sleeper,14:00:00,03:15:00,13h 15m,4,1000,14
+284,Goa,Mumbai,"National Travels,Goa",AC Sleeper,19:30:00,10:30:00,15h 00m,4,1000,18
+285,Goa,Mumbai,Rajdhani Travels Corporation,AC Sleeper,19:30:00,08:10:00,12h 40m,4,1000,14
+286,Goa,Mumbai,Atmaram Travels(GTA),AC Sleeper,19:00:00,09:35:00,14h 35m,4,1000,27
+287,Goa,Mumbai,Atmaram Travels (Unity),AC Sleeper,20:00:00,11:05:00,15h 05m,4,1000,27
+288,Goa,Mumbai,Atmaram Travels (Dolphin),AC Sleeper,15:00:00,03:45:00,12h 45m,4,1000,29
+289,Goa,Mumbai,Atmaram Travels (Dolphin),AC Sleeper,15:30:00,06:15:00,14h 45m,4,1000,28
+290,Goa,Mumbai,Manish Travels,AC Sleeper,19:30:00,09:30:00,14h 00m,4,1000,22
+291,Goa,Mumbai,Laxmi holidays,AC Seater/Sleeper,19:00:00,11:30:00,16h 30m,4,800,37
+292,Goa,Mumbai,Rajdhani Travels Corporation,AC Sleeper,18:30:00,06:45:00,12h 15m,4,1000,17
+293,Goa,Mumbai,Jolly Tours and Travels,AC Sleeper,18:25:00,06:30:00,12h 05m,4,1099,16
+294,Goa,Mumbai,"National Travels,Goa",Non AC Sleeper,18:30:00,07:30:00,13h 00m,4,800,8
+295,Goa,Mumbai,VAILANKANNI TRAVELS,AC Sleeper,16:25:00,06:55:00,14h 30m,4,1000,8
+296,Goa,Mumbai,IntrCity SmartBus,AC Sleeper,18:30:00,09:00:00,14h 30m,4,1000,12
+297,Goa,Mumbai,Naik Tours And Travels,Non AC Sleeper,16:20:00,06:45:00,14h 25m,4,800,4
+298,Goa,Mumbai,Atmaram Travels(M.Dev),AC Sleeper,22:00:00,12:35:00,14h 35m,4,1000,18
+299,Goa,Mumbai,IntrCity SmartBus,AC Sleeper,21:00:00,11:20:00,14h 20m,4,1000,12
+300,Goa,Mumbai,Atmaram Travels (Dolphin),AC Sleeper,19:30:00,10:10:00,14h 40m,4,1000,27
+301,Goa,Mumbai,Atmaram Travels (Dolphin),AC Sleeper,18:30:00,11:05:00,16h 35m,4,1000,28
+302,Goa,Mumbai,Anand Travels,Non AC Sleeper,19:30:00,08:30:00,13h 00m,4,800,8
+303,Goa,Mumbai,Atmaram Travels(M.Dev),AC Sleeper,21:02:00,11:12:00,14h 10m,4,1000,24
+304,Goa,Mumbai,Atmaram Travels (Vishal),Non AC Seater,18:10:00,09:20:00,15h 10m,4,600,27
+305,Goa,Mumbai,Atmaram Travels (Vaibhav),AC Sleeper,22:31:00,12:41:00,14h 10m,4,1050,22
+306,Goa,Mumbai,Vailankanni Travels - Mujawar,Non AC Sleeper,19:40:00,09:00:00,13h 20m,4,800,12
+307,Goa,Mumbai,Atmaram Travels (Dolphin),AC Sleeper,16:30:00,07:15:00,14h 45m,4,1050,16
+308,Goa,Mumbai,Manish Patil Travels,AC Sleeper,17:00:00,08:30:00,15h 30m,4,1000,27
+309,Goa,Mumbai,Manish Roshan Travels,AC Sleeper,20:30:00,10:30:00,14h 00m,4,1000,26
+310,Goa,Mumbai,VAILANKANNI TRAVELS,AC Sleeper,20:40:00,11:00:00,14h 20m,4,1000,26
+311,Goa,Mumbai,PSR Travels (Vaibhav),AC Sleeper,22:30:00,12:30:00,14h 00m,4,1050,28
+312,Goa,Mumbai,VRL Travels,AC Sleeper,19:30:00,11:00:00,15h 30m,4,1000,17
+313,Goa,Mumbai,Sai Travels - Yogeshwari,AC Seater/Sleeper,17:00:00,09:35:00,16h 35m,4,4000,33
+314,Goa,Mumbai,Manish Travels,Non AC Seater,18:30:00,09:00:00,14h 30m,4,600,28
+315,Goa,Mumbai,Sai Travels - SaI Jyoti,AC Sleeper,18:30:00,08:00:00,13h 30m,4,1000,20
+316,Goa,Mumbai,AAINATH TRAVELS,AC Seater/Sleeper,21:30:00,12:10:00,14h 40m,4,799,27
+317,Goa,Mumbai,Naik Tours And Travels,Non AC Sleeper,18:20:00,07:30:00,13h 10m,4,800,18
+318,Goa,Mumbai,Manish Sharma Travels,AC Sleeper,21:30:00,11:20:00,13h 50m,4,1000,28
+319,Goa,Mumbai,Jolly Tours and Travels,AC Sleeper,19:25:00,07:30:00,12h 05m,4,1199,30
+320,Goa,Mumbai,Gujarat Travels,AC Sleeper,12:25:00,03:05:00,14h 40m,4,1100,29
+321,Goa,Mumbai,Kokan Holidays,Non AC Seater,17:00:00,07:30:00,14h 30m,4,2100,4
+322,Goa,Mumbai,Naik Tours And Travels,AC Sleeper,19:30:00,08:25:00,12h 55m,4,1000,22
+323,Goa,Mumbai,Jolly Tours and Travels,AC Seater,19:25:00,07:30:00,12h 05m,4,1799,9
+324,Goa,Mumbai,Kokan Holidays - Muskan,Non AC Sleeper,16:00:00,06:30:00,14h 30m,4,800,32
+325,Goa,Mumbai,GANESH PRASAD TRAVELS,Non AC Seater,17:00:00,08:10:00,15h 10m,4,2000,49
+326,Goa,Mumbai,GANESH PRASAD TRAVELS,AC Seater,18:20:00,08:10:00,13h 50m,4,2500,49
+327,Goa,Mumbai,Shree Chamunda Travels Agency,Non AC Sleeper,23:00:00,13:10:00,14h 10m,4,5000,40
+328,Goa,Bangalore,Kadamba Transport Corporation Limited (KTCL) - 5633,AC Seater,18:30:00,08:30:00,14h 00m,3.7,800,28
+329,Goa,Bangalore,IntrCity SmartBus,AC Sleeper,18:00:00,07:50:00,13h 50m,3.7,799,17
+330,Goa,Bangalore,Streamline tours and travels,AC Sleeper,19:00:00,07:30:00,12h 30m,3.7,899,25
+331,Goa,Bangalore,AdSunrise Tours and Travels,AC Sleeper,20:00:00,07:40:00,11h 40m,3.7,999,17
+332,Goa,Bangalore,Streamline tours and travels,AC Sleeper,18:00:00,06:30:00,12h 30m,3.7,899,24
+333,Goa,Bangalore,Intercity travels,AC Sleeper,17:15:00,06:30:00,13h 15m,3.7,899,12
+334,Goa,Bangalore,Sunrise Tours and Travels,AC Sleeper,18:30:00,07:10:00,12h 40m,3.7,999,4
+335,Goa,Bangalore,AdStreamline tours and travels,AC Sleeper,18:30:00,07:00:00,12h 30m,3.7,999,25
+336,Goa,Bangalore,Rajat Travels,AC Seater/Sleeper,18:00:00,06:35:00,12h 35m,3.7,630,21
+337,Goa,Bangalore,Limousine Tours & Travels,AC Sleeper,17:40:00,07:00:00,13h 20m,3.7,1300,16
+338,Goa,Bangalore,IntrCity SmartBus,AC Sleeper,17:00:00,06:40:00,13h 40m,3.7,833,8
+339,Goa,Bangalore,Sunrise Tours and Travels,AC Sleeper,18:15:00,05:55:00,11h 40m,3.7,999,11
+340,Goa,Bangalore,Intercity travels,AC Sleeper,18:00:00,07:15:00,13h 15m,3.7,1099,8
+341,Goa,Bangalore,Streamline tours and travels,AC Sleeper,20:00:00,08:30:00,12h 30m,3.7,999,23
+342,Goa,Bangalore,Shanta Travels,AC Sleeper,19:00:00,08:10:00,13h 10m,3.7,5000,36
+343,Goa,Bangalore,Sea Bird Tourist,Non AC Sleeper,21:00:00,11:00:00,14h 00m,3.7,800,22
+344,Goa,Bangalore,Jolly Tours and Travels,AC Sleeper,18:00:00,08:10:00,14h 10m,3.7,900,23
+345,Goa,Bangalore,Sea Bird Tourist,AC Sleeper,19:30:00,08:30:00,13h 00m,3.7,1200,24
+346,Goa,Bangalore,Sea Bird Tourist,AC Semi Sleeper,21:30:00,10:00:00,12h 30m,3.7,900,25
+347,Goa,Bangalore,VRL Travels,Non AC Sleeper,18:00:00,08:00:00,14h 00m,3.7,900,11
+348,Goa,Bangalore,Indu Travels,AC Sleeper,19:45:00,08:40:00,12h 55m,3.7,1459,32
+349,Goa,Bangalore,Shanta Travels,Non AC Sleeper,18:15:00,07:30:00,13h 15m,3.7,860,15
+350,Goa,Bangalore,Sugama Tourist,Non AC Sleeper,18:30:00,07:15:00,12h 45m,3.7,950,12
+351,Goa,Bangalore,Janatha Travels,Non AC Sleeper,19:00:00,06:35:00,11h 35m,3.7,12345,30
+352,Goa,Bangalore,PVS Tours and Travels,AC Sleeper,20:15:00,10:15:00,14h 00m,3.7,3000,32
+353,Goa,Bangalore,VRL Travels,AC Sleeper,20:00:00,10:00:00,14h 00m,3.7,900,21
+354,Goa,Bangalore,National travels,AC Sleeper,17:00:00,05:30:00,12h 30m,3.7,850,25
+355,Goa,Bangalore,Gowthami Tours and Travels,AC Sleeper,18:15:00,07:00:00,12h 45m,3.7,1800,36
+356,Goa,Bangalore,Sea Bird Tourist,AC Sleeper,20:30:00,09:30:00,13h 00m,3.7,1000,32
+357,Goa,Bangalore,VRL Travels,AC Seater/Sleeper,19:00:00,09:00:00,14h 00m,3.7,800,37
+358,Goa,Bangalore,Sea Bird Tourist,Non AC Sleeper,18:30:00,08:30:00,14h 00m,3.7,800,14
+359,Goa,Bangalore,Anand Travels,Non AC Sleeper,18:30:00,06:45:00,12h 15m,3.7,722,14
+360,Goa,Bangalore,Sugama Tourist,Non AC Sleeper,17:30:00,07:18:00,13h 48m,3.7,950,12
+361,Goa,Bangalore,Anand Travels,AC Sleeper,20:00:00,08:15:00,12h 15m,3.7,809,23
+362,Goa,Bangalore,SRS Travels,Non AC Seater/Sleeper,18:00:00,07:30:00,13h 30m,3.7,699,15
+363,Goa,Bangalore,PSR Travels Goa,AC Seater/Sleeper,20:05:00,07:30:00,11h 25m,3.7,3199,40
+364,Goa,Bangalore,Sea Bird Tourist,AC Sleeper,17:30:00,07:30:00,14h 00m,3.7,1000,27
+365,Goa,Bangalore,THANUSHREE TOURS N TRAVELS,AC Sleeper,18:50:00,07:35:00,12h 45m,3.7,4999,30
+366,Goa,Bangalore,Samarath Tours and Travels,Non AC Seater/Sleeper,17:00:00,06:05:00,13h 05m,3.7,1999,37
+367,Goa,Belagavi,PVS Tours and Travels,AC Sleeper,16:00:00,21:00:00,05h 00m,3.6,800,22
+368,Goa,Belagavi,National travels,AC Sleeper,16:00:00,22:15:00,06h 15m,3.6,950,25
+369,Goa,Belagavi,Shirdi Xpress,AC Sleeper,17:30:00,22:00:00,04h 30m,3.6,1000,30
+370,Goa,Belagavi,Rajat Travels,AC Seater/Sleeper,18:00:00,22:30:00,04h 30m,3.6,495,25
+371,Goa,Belagavi,PVS Tours and Travels,AC Sleeper,19:00:00,23:00:00,04h 00m,3.6,900,24
+372,Goa,Belagavi,PVS Tours and Travels,AC Sleeper,19:00:00,22:45:00,03h 45m,3.6,900,24
+373,Goa,Belagavi,S R Travels,AC Seater/Sleeper,20:30:00,02:00:00,05h 30m,3.6,700,32
+374,Goa,Belagavi,Shirdi Xpress,AC Sleeper,17:00:00,21:30:00,04h 30m,3.6,559,19
+375,Goa,Belagavi,Orange Tours And Travels,AC Sleeper,17:30:00,22:00:00,04h 30m,3.6,1000,31
+376,Goa,Belagavi,Humsafar Travels,AC Sleeper,19:00:00,23:15:00,04h 15m,3.6,1283,22
+377,Goa,Belagavi,S R Travels,Non AC Sleeper,20:00:00,23:59:00,03h 59m,3.6,800,6
+378,Goa,Belagavi,VRL Travels,AC Sleeper,16:30:00,21:10:00,04h 40m,3.6,1800,29
+379,Goa,Belagavi,Atmaram Gobus,AC Sleeper,18:00:00,21:30:00,03h 30m,3.6,5999,24
+380,Goa,Belagavi,Hriday Tours & Travels,AC Sleeper,19:00:00,21:00:00,02h 00m,3.6,7000,36
+381,Goa,Kolhapur Maharashtra,Kadamba Transport Corporation Limited (KTCL) - 6032,Non AC Seater,18:00:00,02:30:00,08h 30m,3.6,450,27
+382,Goa,Kolhapur Maharashtra,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater,19:00:00,02:30:00,07h 30m,3.6,420,19
+383,Goa,Kolhapur Maharashtra,Vaibhav Travels,AC Sleeper,12:00:00,18:50:00,06h 50m,3.6,300,29
+384,Goa,Kolhapur Maharashtra,URL Travels Neeta,AC Sleeper,12:10:00,17:00:00,04h 50m,3.6,499,19
+385,Goa,Kolhapur Maharashtra,KTC Travels (Neeta),AC Sleeper,12:30:00,19:00:00,06h 30m,3.6,500,19
+386,Goa,Kolhapur Maharashtra,Khurana Travel Services,AC Sleeper,15:00:00,22:00:00,07h 00m,3.6,648,20
+387,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,15:40:00,21:45:00,06h 05m,3.6,600,14
+388,Goa,Kolhapur Maharashtra,"National Travels,Goa",Non AC Sleeper,19:00:00,01:45:00,06h 45m,3.6,700,14
+389,Goa,Kolhapur Maharashtra,Vaibhav Travels,AC Sleeper,20:00:00,06:12:00,10h 12m,3.6,699,12
+390,Goa,Kolhapur Maharashtra,Ashray Travels,Non AC Seater/Sleeper,20:00:00,01:30:00,05h 30m,3.6,450,29
+391,Goa,Kolhapur Maharashtra,Atmaram Travels ( Gogte ),Non AC Sleeper,21:01:00,03:01:00,06h 00m,3.6,700,23
+392,Goa,Kolhapur Maharashtra,Atmaram Travels ( Gogte ),Non AC Sleeper,22:01:00,05:01:00,31h 00m,3.6,600,26
+393,Goa,Kolhapur Maharashtra,Hans Travels (I) Private Limited,AC Sleeper,12:30:00,18:50:00,06h 20m,3.6,600,18
+394,Goa,Kolhapur Maharashtra,Manish Travels,Non AC Seater,16:45:00,23:55:00,07h 10m,3.6,500,32
+395,Goa,Kolhapur Maharashtra,Naik Tours And Travels,Non AC Sleeper,17:00:00,23:55:00,06h 55m,3.6,600,18
+396,Goa,Kolhapur Maharashtra,Laxmi-Princess Nova,Non AC Seater/Sleeper,19:00:00,01:30:00,06h 30m,3.6,599,15
+397,Goa,Kolhapur Maharashtra,AAINATH TRAVELS,AC Seater/Sleeper,21:30:00,02:30:00,05h 00m,3.6,699,28
+398,Goa,Kolhapur Maharashtra,Gujarat Travels,AC Sleeper,12:40:00,18:55:00,06h 15m,3.6,1100,34
+399,Goa,Kolhapur Maharashtra,Atmaram Travels (Dolphin),AC Sleeper,14:00:00,20:30:00,06h 30m,3.6,1000,21
+400,Goa,Kolhapur Maharashtra,Sharma Travels,AC Sleeper,15:00:00,22:00:00,07h 00m,3.6,800,21
+401,Goa,Kolhapur Maharashtra,Atmaram Travels (Dolphin),AC Sleeper,15:30:00,21:45:00,06h 15m,3.6,1000,29
+402,Goa,Kolhapur Maharashtra,Zingbus Plus,AC Sleeper,16:10:00,21:45:00,05h 35m,3.6,989,19
+403,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,16:40:00,22:45:00,06h 05m,3.6,899,16
+404,Goa,Kolhapur Maharashtra,Sai Travels - Yogeshwari,AC Seater/Sleeper,17:00:00,23:50:00,06h 50m,3.6,4000,33
+405,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,17:40:00,23:45:00,06h 05m,3.6,1005,28
+406,Goa,Kolhapur Maharashtra,Zingbus Plus,AC Sleeper,18:10:00,00:15:00,06h 05m,3.6,928,22
+407,Goa,Kolhapur Maharashtra,Jolly Tours and Travels,AC Sleeper,18:30:00,01:45:00,07h 15m,3.6,1199,30
+408,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,18:30:00,01:00:00,06h 30m,3.6,1000,12
+409,Goa,Kolhapur Maharashtra,PSR Travels Goa (Parrikar),AC Sleeper,18:30:00,01:15:00,06h 45m,3.6,949,16
+410,Goa,Kolhapur Maharashtra,Jolly Tours and Travels,AC Seater,18:30:00,01:45:00,07h 15m,3.6,1799,9
+411,Goa,Kolhapur Maharashtra,Laxmi holidays,AC Seater/Sleeper,18:30:00,01:30:00,07h 00m,3.6,800,38
+412,Goa,Kolhapur Maharashtra,Ashray Travels,Non AC Sleeper,19:00:00,02:00:00,55h 00m,3.6,2000,30
+413,Goa,Kolhapur Maharashtra,Amrutyog Travels,Non AC Sleeper,19:00:00,01:00:00,06h 00m,3.6,5000,36
+414,Goa,Kolhapur Maharashtra,Atmaram Travels(GTA),AC Sleeper,19:00:00,01:45:00,06h 45m,3.6,1000,33
+415,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,19:00:00,01:15:00,06h 15m,3.6,900,13
+416,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,19:05:00,01:20:00,06h 15m,3.6,900,11
+417,Goa,Kolhapur Maharashtra,Zingbus Plus,AC Sleeper,19:40:00,01:45:00,06h 05m,3.6,900,21
+418,Goa,Kolhapur Maharashtra,PSR Travels Goa (Parrikar),AC Sleeper,19:15:00,01:15:00,06h 00m,3.6,1199,20
+419,Goa,Kolhapur Maharashtra,Atmaram Travels (Humsafar),AC Sleeper,19:30:00,01:30:00,06h 00m,3.6,900,13
+420,Goa,Kolhapur Maharashtra,Atmaram Travels Goa,AC Sleeper,20:30:00,03:00:00,06h 30m,3.6,900,26
+421,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,20:45:00,03:00:00,06h 15m,3.6,900,13
+422,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,19:30:00,01:10:00,05h 40m,3.6,1000,10
+423,Goa,Kolhapur Maharashtra,Atmaram Travels (Dolphin),AC Sleeper,19:30:00,02:30:00,07h 00m,3.6,1000,28
+424,Goa,Kolhapur Maharashtra,Laxmi Queen Prime,AC Sleeper,19:30:00,01:30:00,06h 00m,3.6,900,21
+425,Goa,Kolhapur Maharashtra,AR Group Vijaylaxmi Travels,AC Sleeper,19:30:00,01:45:00,06h 15m,3.6,4999,36
+426,Goa,Kolhapur Maharashtra,Laxmi holidays,AC Seater/Sleeper,19:30:00,02:30:00,07h 00m,3.6,750,36
+427,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,20:00:00,02:30:00,06h 30m,3.6,2900,34
+428,Goa,Kolhapur Maharashtra,Amrutyog Travels,AC Sleeper,20:00:00,03:30:00,07h 30m,3.6,900,26
+429,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,20:00:00,02:05:00,06h 05m,3.6,900,14
+430,Goa,Kolhapur Maharashtra,Atmaram Travels (Shreyas),AC Sleeper,20:03:00,02:33:00,06h 30m,3.6,900,21
+431,Goa,Kolhapur Maharashtra,Amrutyog Travels,Non AC Sleeper,20:30:00,01:00:00,04h 30m,3.6,5000,36
+432,Goa,Kolhapur Maharashtra,Laxmi Queen Asta,AC Sleeper,20:30:00,02:00:00,05h 30m,3.6,900,23
+433,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Seater/Sleeper,20:30:00,02:35:00,06h 05m,3.6,783,9
+434,Goa,Kolhapur Maharashtra,Giroba Travels (Rajmudra),AC Sleeper,20:45:00,02:00:00,05h 15m,3.6,899,23
+435,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,20:50:00,03:00:00,06h 10m,3.6,900,13
+436,Goa,Kolhapur Maharashtra,Zingbus Plus,AC Sleeper,20:50:00,02:25:00,05h 35m,3.6,900,16
+437,Goa,Kolhapur Maharashtra,Prasanna - Purple Bus,AC Sleeper,21:00:00,04:00:00,07h 00m,3.6,905,25
+438,Goa,Kolhapur Maharashtra,PVS Tours and Travels,AC Sleeper,21:00:00,03:45:00,06h 45m,3.6,2950,36
+439,Goa,Kolhapur Maharashtra,Indumati Travels,AC Sleeper,21:00:00,02:45:00,05h 45m,3.6,760,26
+440,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,21:00:00,02:40:00,05h 40m,3.6,1000,12
+441,Goa,Kolhapur Maharashtra,Atmaram Travels(KVT Narmada Red),AC Sleeper,21:16:00,03:46:00,06h 30m,3.6,900,23
+442,Goa,Kolhapur Maharashtra,IntrCity SmartBus,AC Sleeper,21:30:00,03:20:00,05h 50m,3.6,900,9
+443,Goa,Kolhapur Maharashtra,Prasanna - Purple Bus,AC Sleeper,22:00:00,03:30:00,05h 30m,3.6,999,22
+444,Goa,Kolhapur Maharashtra,Prasanna - Purple Bus,AC Sleeper,22:15:00,03:15:00,05h 00m,3.6,999,22
+445,Goa,Kolhapur Maharashtra,PSR Travels (Vaibhav),AC Sleeper,22:30:00,03:30:00,05h 00m,3.6,1050,26
+446,Goa,Kolhapur Maharashtra,Atmaram Travels (Vaibhav),AC Sleeper,22:31:00,05:01:00,06h 30m,3.6,1050,25
+447,Goa,Kolhapur Maharashtra,Atmaram Travels (Dolphin),AC Sleeper,15:00:00,21:44:00,06h 44m,3.6,1000,31
+448,Goa,Kolhapur Maharashtra,Manish Patil Travels,AC Sleeper,15:30:00,01:30:00,10h 00m,3.6,1000,29
+449,Goa,Kolhapur Maharashtra,Kokan Holidays - Muskan,Non AC Sleeper,16:00:00,23:08:00,07h 08m,3.6,800,32
+450,Goa,Kolhapur Maharashtra,Atmaram Travels (Dolphin),AC Sleeper,16:30:00,22:45:00,06h 15m,3.6,1050,16
+451,Goa,Kolhapur Maharashtra,Atmaram Gobus,AC Sleeper,18:00:00,01:00:00,07h 00m,3.6,5000,24
+452,Goa,Kolhapur Maharashtra,Atmaram Travels (Dolphin),AC Sleeper,18:30:00,00:45:00,06h 15m,3.6,1000,28
+453,Goa,Kolhapur Maharashtra,Manish Roshan Travels,AC Sleeper,19:00:00,03:30:00,08h 30m,3.6,1000,29
+454,Goa,Kolhapur Maharashtra,VRL Travels,AC Sleeper,19:30:00,03:00:00,07h 30m,3.6,1000,20
+455,Goa,Kolhapur Maharashtra,Laxmi Empress Stellar,Non AC Sleeper,19:45:00,01:45:00,06h 00m,3.6,799,24
+456,Goa,Kolhapur Maharashtra,Manish Sharma Travels,AC Sleeper,20:00:00,02:00:00,06h 00m,3.6,1000,26
+457,Goa,Pandharpur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater,19:00:00,07:00:00,12h 00m,2.6,735,19
+458,Goa,Solapur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater,19:00:00,08:30:00,13h 30m,2.9,850,19
+459,Goa,Solapur,Humsafar Travels,AC Sleeper,19:00:00,04:30:00,09h 30m,2.9,1283,17
+460,Goa,Solapur,IntrCity SmartBus,AC Sleeper,16:40:00,03:30:00,10h 50m,2.9,899,9
+461,Goa,Solapur,IntrCity SmartBus,AC Sleeper,17:40:00,03:55:00,10h 15m,2.9,1005,27
+462,Goa,Solapur,IntrCity SmartBus,AC Sleeper,15:40:00,03:00:00,11h 20m,2.9,1117,7
+463,Goa,Solapur,Zingbus Plus,AC Sleeper,16:10:00,02:30:00,10h 20m,2.9,811,20
+464,Goa,Solapur,Sharma Travels,AC Sleeper,15:30:00,02:30:00,11h 00m,2.9,700,17
+465,Goa,Solapur,PSR Travels Goa (Parrikar),AC Sleeper,18:30:00,05:30:00,11h 00m,2.9,949,16
+466,Goa,Solapur,S R Travels,AC Seater/Sleeper,20:30:00,07:30:00,11h 00m,2.9,700,31
+467,Goa,Solapur,AR Group Vijaylaxmi Travels,AC Sleeper,19:30:00,07:00:00,11h 30m,2.9,4999,36
+468,Goa,Solapur,Sharma Travels,AC Sleeper,15:00:00,02:00:00,11h 00m,2.9,800,20
+469,Goa,Solapur,PVS Tours and Travels,AC Sleeper,21:00:00,09:00:00,12h 00m,2.9,2950,36
+470,Goa,Solapur,Atmaram Gobus,AC Sleeper,18:00:00,04:30:00,10h 30m,2.9,5000,24
+471,Calangute Goa,Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 78627,AC Seater,13:30:00,15:15:00,01h 45m,3.5,200,34
+472,Calangute Goa,Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater,15:30:00,17:15:00,01h 45m,3.5,200,38
+473,Calangute Goa,Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 99719,AC Seater,18:30:00,20:00:00,01h 30m,3.5,200,40
+474,Goa,Sangola,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater,19:00:00,06:05:00,11h 05m,3.3,675,19
+475,Goa,Sangola,Humsafar Travels,AC Sleeper,19:00:00,02:00:00,07h 00m,3.3,1283,18
+476,Goa,Sangola,PSR Travels Goa (Parrikar),AC Sleeper,18:30:00,04:15:00,09h 45m,3.3,949,16
+477,Goa,Sangola,AR Group Vijaylaxmi Travels,AC Sleeper,19:30:00,05:15:00,09h 45m,3.3,4999,36
+478,Goa,Sangola,Atmaram Gobus,AC Sleeper,18:00:00,03:30:00,09h 30m,3.3,5000,24
+479,Goa Airport,Calangute Goa,Kadamba Transport Corporation Limited (KTCL) - 99707,AC Seater,13:45:00,15:30:00,01h 45m,4.2,200,40
+480,Goa Airport,Calangute Goa,Kadamba Transport Corporation Limited (KTCL) - 99710,AC Seater,16:00:00,17:30:00,01h 30m,4.2,200,42
+481,Sangola,Goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater,21:45:00,10:00:00,12h 15m,3.3,675,34
+482,Sangola,Goa,Sharma Travels,AC Sleeper,23:59:00,08:30:00,08h 31m,3.3,800,15
+483,Sangola,Goa,Humsafar Travels,AC Sleeper,23:59:00,08:00:00,08h 01m,3.3,1473,10
+484,Sangola,Goa,Khurana Travel Services,AC Sleeper,23:29:00,07:30:00,08h 01m,3.3,665,16
+485,Sangola,Goa,Sharma Travels,AC Sleeper,23:59:00,09:00:00,09h 01m,3.3,900,12
+486,Sangola,Goa,New Shivbaba Tours And Travels,AC Sleeper,20:30:00,06:00:00,09h 30m,3.3,1044,22
+487,Sangola,Goa,AR Group Vijaylaxmi Travels,AC Sleeper,20:30:00,06:00:00,09h 30m,3.3,5000,36
+488,Belagavi,Ponda,Kadamba Transport Corporation Limited (KTCL) - 6020,Non AC Seater,16:00:00,19:15:00,03h 15m,3.3,150,35
+489,Shimoga,Goa,Kadamba Transport Corporation Limited (KTCL) - 132897,Non AC Seater,23:00:00,08:00:00,09h 00m,1.7,450,37
+490,Shimoga,Goa,Sea Bird Tourist,Non AC Sleeper,23:45:00,08:00:00,08h 15m,1.7,1400,25
+491,Mopa Airport,Calangute Goa,Kadamba Transport Corporation Limited (KTCL) - 159021,AC Seater,12:00:00,13:10:00,01h 10m,4.8,200,48
+492,Mopa Airport,Calangute Goa,Kadamba Transport Corporation Limited (KTCL) - 160438,AC Seater,13:30:00,14:40:00,01h 10m,4.8,200,47
+493,Mopa Airport,Calangute Goa,Kadamba Transport Corporation Limited (KTCL) - 160437,AC Seater,17:30:00,18:40:00,01h 10m,4.8,200,47
+494,Panaji,Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 78627,AC Seater,14:01:00,15:15:00,01h 14m,3.6,150,38
+495,Panaji,Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater,16:01:00,17:15:00,01h 14m,3.6,150,38
+496,Panaji,Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 99719,AC Seater,19:00:00,20:00:00,01h 00m,3.6,150,40
+497,Goa,Mopa Airport,Kadamba Transport Corporation Limited (KTCL) - 159065,AC Seater,12:30:00,13:00:00,00h 30m,4,150,44
+498,Goa,Mopa Airport,Kadamba Transport Corporation Limited (KTCL) - 158948,AC Seater,14:00:00,14:30:00,00h 30m,4,150,47
+499,Goa,Mopa Airport,Kadamba Transport Corporation Limited (KTCL) - 158967,AC Seater,16:25:00,17:00:00,00h 35m,4,150,46
+500,Goa,Shimoga,Kadamba Transport Corporation Limited (KTCL) - 8355,Non AC Seater,15:00:00,01:03:00,10h 03m,3.6,450,38
+501,Goa,Shimoga,Sea Bird Tourist,Non AC Sleeper,17:30:00,02:30:00,09h 00m,3.6,1000,13
+502,Goa,Miraj,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater,19:00:00,04:30:00,09h 30m,3.1,505,19
+503,Goa,Miraj,Vaibhav Travels,AC Sleeper,20:00:00,05:42:00,09h 42m,3.1,699,13
+504,Goa,Miraj,Humsafar Travels,AC Sleeper,19:00:00,01:30:00,06h 30m,3.1,1283,19
+505,Goa,Miraj,Sharma Travels,AC Sleeper,15:30:00,23:30:00,08h 00m,3.1,700,17
+506,Goa,Miraj,PSR Travels Goa (Parrikar),AC Sleeper,18:30:00,02:35:00,08h 05m,3.1,949,16
+507,Goa,Miraj,AR Group Vijaylaxmi Travels,AC Sleeper,19:30:00,02:45:00,07h 15m,3.1,4999,36
+508,Goa,Miraj,URL Travels Neeta,AC Sleeper,12:10:00,18:30:00,06h 20m,3.1,3000,20
+509,Goa,Miraj,Sharma Travels,AC Sleeper,15:00:00,23:00:00,08h 00m,3.1,800,20
+510,Goa,Miraj,Atmaram Gobus,AC Sleeper,18:00:00,01:30:00,07h 30m,3.1,5000,24
+511,Margoa,Mopa Airport,Kadamba Transport Corporation Limited (KTCL) - 158967,AC Seater,15:00:00,17:00:00,02h 00m,4.1,400,46
+512,Mopa Airport,Margoa,Kadamba Transport Corporation Limited (KTCL) - 158996,AC Seater,12:30:00,14:30:00,02h 00m,3.6,400,47
+513,Mopa Airport,Margoa,Kadamba Transport Corporation Limited (KTCL) - 159015,AC Seater,16:00:00,18:00:00,02h 00m,3.6,400,46
+514,Mopa Airport,Goa,Kadamba Transport Corporation Limited (KTCL) - 158996,AC Seater,12:30:00,12:55:00,00h 25m,3.6,150,47
+515,Mopa Airport,Goa,Kadamba Transport Corporation Limited (KTCL) - 160438,AC Seater,13:30:00,14:00:00,00h 30m,3.6,150,47
+516,Mopa Airport,Goa,Kadamba Transport Corporation Limited (KTCL) - 159015,AC Seater,16:00:00,16:25:00,00h 25m,3.6,150,46
+517,Mopa Airport,Goa,Kadamba Transport Corporation Limited (KTCL) - 160437,AC Seater,17:30:00,18:00:00,00h 30m,3.6,150,47
+518,Panaji,Mopa Airport,Kadamba Transport Corporation Limited (KTCL) - 158948,AC Seater,13:30:00,14:30:00,01h 00m,3.6,200,47
+519,Panaji,Mopa Airport,Kadamba Transport Corporation Limited (KTCL) - 158967,AC Seater,15:55:00,17:00:00,01h 05m,3.6,200,46
+520,Shirdi,Goa,PSR Travels Goa (Parrikar),AC Sleeper,18:00:00,09:00:00,15h 00m,3.8,1599,6
+521,Shirdi,Goa,Humsafar Travels,AC Sleeper,14:30:00,09:30:00,19h 00m,3.8,1406,8
+522,Shirdi,Goa,Humsafar Travels,AC Sleeper,15:00:00,08:00:00,17h 00m,3.8,1473,9
+523,Shirdi,Goa,Hans Travels (I) Private Limited,AC Sleeper,20:19:00,10:39:00,14h 20m,3.8,1700,4
+524,Goa Airport,Panaji,Kadamba Transport Corporation Limited (KTCL) - 99707,AC Seater,13:45:00,14:46:00,01h 01m,4.3,150,41
+525,Goa Airport,Panaji,Kadamba Transport Corporation Limited (KTCL) - 99710,AC Seater,16:00:00,17:00:00,01h 00m,4.3,150,42
+526,Belagavi,Saquelim,Kadamba Transport Corporation Limited (KTCL) - 6020,Non AC Seater,16:00:00,18:15:00,02h 15m,3.6,140,35
+527,Goa,Satara,Kadamba Transport Corporation Limited (KTCL) - 6032,Non AC Seater,18:00:00,03:00:00,09h 00m,3.8,550,27
+528,Goa,Satara,Ashray Travels,AC Sleeper,22:30:00,08:00:00,09h 30m,3.8,1000,13
+529,Goa,Satara,IntrCity SmartBus,AC Seater/Sleeper,20:30:00,04:40:00,08h 10m,3.8,772,9
+530,Goa,Satara,Atmaram Gobus,AC Sleeper,22:30:00,07:00:00,08h 30m,3.8,900,9
+531,Goa,Satara,IntrCity SmartBus,AC Sleeper,21:30:00,05:40:00,08h 10m,3.8,900,9
+532,Goa,Satara,IntrCity SmartBus,AC Sleeper,20:00:00,04:10:00,08h 10m,3.8,900,14
+533,Goa,Satara,Ashray Grand,AC Sleeper,22:00:00,07:30:00,09h 30m,3.8,1000,26
+534,Goa,Satara,Atmaram Travels(KVT Narmada Red),AC Sleeper,21:16:00,06:01:00,08h 45m,3.8,900,23
+535,Goa,Satara,Atmaram Gobus,Non AC Sleeper,20:01:00,05:16:00,09h 15m,3.8,700,15
+536,Goa,Satara,Zingbus Plus,AC Sleeper,20:50:00,05:05:00,08h 15m,3.8,900,14
+537,Goa,Satara,IntrCity SmartBus,AC Sleeper,18:30:00,02:35:00,08h 05m,3.8,950,12
+538,Goa,Satara,Sangitam Travels Tanzanite,AC Sleeper,21:00:00,04:30:00,07h 30m,3.8,905,17
+539,Goa,Satara,Laxmi Queen Prime,AC Sleeper,19:30:00,05:00:00,09h 30m,3.8,900,23
+540,Goa,Satara,Atmaram Travels (Unity),AC Sleeper,20:00:00,04:45:00,08h 45m,3.8,1000,27
+541,Goa,Satara,Atmaram Gobus,Non AC Sleeper,19:01:00,04:41:00,09h 40m,3.8,700,17
+542,Goa,Satara,Amrutyog Travels,AC Sleeper,20:00:00,06:00:00,10h 00m,3.8,900,27
+543,Goa,Satara,IntrCity SmartBus,AC Sleeper,19:00:00,03:25:00,08h 25m,3.8,855,13
+544,Goa,Satara,Laxmi-Princess Nova,Non AC Seater/Sleeper,19:00:00,04:00:00,09h 00m,3.8,599,14
+545,Goa,Satara,Prasanna - Purple Bus,AC Sleeper,22:15:00,05:45:00,07h 30m,3.8,999,22
+546,Goa,Satara,Atmaram Travels(M.Dev),AC Sleeper,22:00:00,06:50:00,08h 50m,3.8,1000,18
+547,Goa,Satara,Ashray Travels,Non AC Seater/Sleeper,20:00:00,03:00:00,07h 00m,3.8,500,22
+548,Goa,Satara,Indumati Travels,AC Sleeper,21:00:00,05:00:00,08h 00m,3.8,760,26
+549,Goa,Satara,Zingbus Plus,AC Sleeper,19:40:00,03:40:00,08h 00m,3.8,900,20
+550,Goa,Satara,Atmaram Travels (Shreyas),AC Sleeper,20:03:00,05:03:00,09h 00m,3.8,900,21
+551,Goa,Satara,Laxmi Empress Stellar,Non AC Sleeper,19:45:00,04:15:00,08h 30m,3.8,799,21
+552,Goa,Satara,Atmaram Travels (Vaibhav),AC Sleeper,22:31:00,07:16:00,08h 45m,3.8,1050,24
+553,Goa,Satara,Atmaram Travels (Dolphin),AC Sleeper,15:00:00,01:00:00,10h 00m,3.8,1000,29
+554,Goa,Satara,Prasanna - Purple Bus,AC Sleeper,22:00:00,05:30:00,07h 30m,3.8,999,23
+555,Goa,Satara,Zingbus Plus,AC Sleeper,18:10:00,02:10:00,08h 00m,3.8,928,23
+556,Goa,Satara,Laxmi holidays,AC Seater/Sleeper,19:30:00,04:30:00,09h 00m,3.8,750,36
+557,Goa,Satara,IntrCity SmartBus,AC Sleeper,19:30:00,03:10:00,07h 40m,3.8,950,10
+558,Goa,Satara,IntrCity SmartBus,AC Sleeper,20:50:00,05:10:00,08h 20m,3.8,855,8
+559,Goa,Satara,Laxmi holidays,AC Seater/Sleeper,18:30:00,03:45:00,09h 15m,3.8,629,37
+560,Goa,Satara,Anand Ashray Travels,AC Sleeper,21:00:00,05:30:00,08h 30m,3.8,1001,31
+561,Goa,Satara,Anand Ashray Travels,AC Sleeper,20:00:00,05:00:00,09h 00m,3.8,1001,19
+562,Goa,Satara,Prasanna - Purple Bus,AC Sleeper,21:00:00,04:30:00,07h 30m,3.8,905,25
+563,Goa,Satara,Atmaram Travels (Dolphin),AC Sleeper,16:30:00,02:00:00,09h 30m,3.8,1050,16
+564,Goa,Satara,Atmaram Travels (Dolphin),AC Sleeper,18:30:00,04:00:00,09h 30m,3.8,1000,28
+565,Goa,Satara,Atmaram Travels (Dolphin),AC Sleeper,14:00:00,23:30:00,09h 30m,3.8,1000,14
+566,Goa,Satara,Atmaram Gobus,AC Sleeper,21:32:00,05:32:00,08h 00m,3.8,900,5
+567,Goa,Satara,Atmaram Travels ( Ashray ),AC Sleeper,22:02:00,07:32:00,09h 30m,3.8,900,19
+568,Goa,Satara,IntrCity SmartBus,AC Sleeper,20:45:00,05:05:00,08h 20m,3.8,855,8
+569,Goa,Satara,M R Travels,AC Seater/Sleeper,19:50:00,04:00:00,08h 10m,3.8,1800,35
+570,Goa,Satara,M R Travels,AC Seater/Sleeper,18:30:00,04:00:00,09h 30m,3.8,1800,35
+571,Goa,Satara,Atmaram Travels Goa,AC Sleeper,20:30:00,05:15:00,08h 45m,3.8,900,26
+572,Goa,Satara,Atmaram Travels ( Gogte ),AC Sleeper,19:02:00,04:32:00,09h 30m,3.8,900,19
+573,Goa,Satara,Atmaram Travels (Vishal),AC Sleeper,17:30:00,03:00:00,09h 30m,3.8,1150,28
+574,Goa,Satara,Atmaram Travels (Dolphin),AC Sleeper,19:30:00,05:10:00,09h 40m,3.8,1000,27
+575,Goa,Satara,"National Travels,Goa",Non AC Sleeper,19:00:00,03:30:00,08h 30m,3.8,700,14
+576,Goa,Satara,Laxmi Queen Asta,AC Sleeper,20:30:00,05:30:00,09h 00m,3.8,900,23
+577,Goa,Satara,PSR Travels (Vaibhav),AC Sleeper,22:30:00,05:30:00,07h 00m,3.8,1050,26
+578,Goa,Satara,PSR Travels Goa (Parrikar),AC Sleeper,19:15:00,03:10:00,07h 55m,3.8,1199,20
+579,Goa,Satara,VRL Travels,AC Sleeper,19:30:00,05:00:00,09h 30m,3.8,1000,19
+580,Goa,Satara,Atmaram Travels ( Gogte ),Non AC Sleeper,21:01:00,05:31:00,08h 30m,3.8,700,23
+581,Goa,Satara,Giroba Travels (Kelkar),Non AC Seater,18:00:00,04:00:00,10h 00m,3.8,500,36
+582,Goa,Satara,Giroba Travels (Kelkar),Non AC Seater/Sleeper,17:45:00,04:30:00,10h 45m,3.8,500,21
+583,Goa,Satara,Giroba Travels (Shree),AC Sleeper,19:00:00,04:30:00,09h 30m,3.8,900,22
+584,Goa,Satara,Hans Travels (I) Private Limited,AC Sleeper,12:30:00,21:45:00,09h 15m,3.8,600,11
+585,Goa,Satara,IntrCity SmartBus,AC Sleeper,19:05:00,03:30:00,08h 25m,3.8,855,11
+586,Goa,Satara,IntrCity SmartBus,AC Sleeper,20:00:00,04:10:00,08h 10m,3.8,2755,34
+587,Goa,Satara,Manish Sharma Travels,AC Sleeper,20:00:00,04:00:00,08h 00m,3.8,900,26
+588,Goa,Satara,Manish Patil Travels,AC Sleeper,15:30:00,03:30:00,12h 00m,3.8,900,29
+589,Goa,Satara,Anand Ashray Travels,AC Sleeper,22:45:00,07:15:00,08h 30m,3.8,1001,31
+590,Goa,Satara,Amrutyog Travels,Non AC Sleeper,20:30:00,03:00:00,06h 30m,3.8,5000,36
+591,Goa,Satara,Amrutyog Travels,Non AC Sleeper,19:00:00,03:00:00,08h 00m,3.8,5000,36
+592,Goa,Satara,Anand Tours And Travels,AC Sleeper,21:01:00,06:31:00,09h 30m,3.8,2500,41
+593,Goa,Satara,Prasanna - Purple Bus,AC Sleeper,21:01:00,04:01:00,07h 00m,3.8,2520,36
+594,Goa,Satara,Atmaram Travels(GTA),AC Sleeper,19:00:00,04:15:00,09h 15m,3.8,1000,32
+595,Goa,Satara,Atmaram Travels ( Gogte ),Non AC Sleeper,22:01:00,07:31:00,33h 30m,3.8,700,26
+596,Goa,Satara,Atmaram Travels (Dolphin),AC Sleeper,16:30:00,02:00:00,09h 30m,3.8,4000,28
+597,Goa,Satara,Atmaram Travels (Dolphin),AC Sleeper,15:30:00,01:00:00,09h 30m,3.8,1000,28
+598,Goa,Satara,Atmaram Travels (Humsafar),AC Sleeper,19:30:00,03:45:00,08h 15m,3.8,900,12
+599,Goa,Satara,Jay khodiyar travels,AC Sleeper,15:00:00,23:59:00,08h 59m,3.8,3700,42
+600,Goa,Satara,Jolly Tours and Travels,AC Sleeper,18:30:00,02:30:00,08h 00m,3.8,1199,30
+601,Goa,Satara,Jolly Tours and Travels,AC Seater,18:30:00,02:30:00,08h 00m,3.8,1799,9
+602,Goa,Satara,Giroba Travels (Anand),Non AC Seater/Sleeper,19:00:00,05:15:00,10h 15m,3.8,500,30
+603,Goa,Satara,Giroba Travels (Rajmudra),AC Sleeper,20:45:00,05:30:00,08h 45m,3.8,899,23
+604,Goa,Satara,Gujarat Travels,AC Sleeper,12:25:00,21:20:00,08h 55m,3.8,1100,34
+605,Goa,Satara,Ashray Travels,Non AC Sleeper,19:00:00,04:30:00,57h 30m,3.8,2000,30
+606,Goa,Satara,Naik Tours And Travels,Non AC Sleeper,17:00:00,04:05:00,11h 05m,3.8,800,18
+607,Goa,Satara,Manish Roshan Travels,AC Sleeper,19:00:00,05:30:00,10h 30m,3.8,900,29
+608,Goa,Satara,AAINATH TRAVELS,AC Seater/Sleeper,21:30:00,04:30:00,07h 00m,3.8,699,28
+609,Mopa Airport,Panaji,Kadamba Transport Corporation Limited (KTCL) - 158996,AC Seater,12:30:00,13:25:00,00h 55m,3.6,200,47
+610,Mopa Airport,Panaji,Kadamba Transport Corporation Limited (KTCL) - 159015,AC Seater,16:00:00,16:55:00,00h 55m,3.6,200,47
+611,Goa,Shirdi,PSR Travels Goa (Parrikar),AC Sleeper,19:15:00,10:00:00,14h 45m,3.7,1599,8
+612,Goa,Shirdi,Humsafar Travels,AC Sleeper,19:00:00,11:00:00,16h 00m,3.7,1283,15
+613,Goa,Shirdi,Hans Travels (I) Private Limited,AC Sleeper,12:30:00,04:15:00,15h 45m,3.7,1400,6
+614,Goa,Shirdi,Sea Bird Tourist,AC Sleeper,19:00:00,20:30:00,49h 30m,3.7,11000,15
+615,Calangute Goa,Panaji,Kadamba Transport Corporation Limited (KTCL) - 78627,AC Seater,13:30:00,14:01:00,00h 31m,3.6,100,40
+616,Calangute Goa,Panaji,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater,15:30:00,16:01:00,00h 31m,3.6,100,41
+617,Panaji,Calangute Goa,Kadamba Transport Corporation Limited (KTCL) - 99707,AC Seater,14:46:00,15:30:00,00h 44m,3.6,100,41

@@ -1,0 +1,807 @@
+Bus_no,From,To,Link,Bus_Name,Bus_Type,Bus_Dept,Bus_Arrival,Duration,Rating,Price,Seats
+0,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 167049,Non AC Seater,14:30:00,19:15:00,04h 45m,3.9,229,42
+1,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 197935,Non AC Seater,14:30:00,19:15:00,04h 45m,3.9,229,42
+2,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 146140,AC Seater,14:46:00,18:48:00,04h 02m,3.9,460,23
+3,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 169078,Non AC Seater/Sleeper,15:00:00,19:30:00,04h 30m,3.9,302,30
+4,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 190572,Non AC Seater,16:15:00,21:00:00,04h 45m,3.9,229,42
+5,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 194178,AC Seater,16:30:00,20:30:00,04h 00m,3.9,460,27
+6,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 160785,AC Seater,17:30:00,21:30:00,04h 00m,3.9,460,35
+7,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 190951,Non AC Seater,18:00:00,22:30:00,04h 30m,3.9,229,42
+8,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 193481,Non AC Seater,18:30:00,23:00:00,04h 30m,3.9,229,42
+9,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 176394,AC Seater,20:00:00,23:45:00,03h 45m,3.9,460,30
+10,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 189473,Non AC Seater/Sleeper,21:00:00,01:30:00,04h 30m,3.9,302,37
+11,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 172841,AC Seater,22:01:00,01:30:00,03h 29m,3.9,460,37
+12,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 192299,AC Seater,23:00:00,02:45:00,03h 45m,3.9,458,37
+13,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RSRTC - 189583,Non AC Seater/Sleeper,23:59:00,03:45:00,03h 46m,3.9,302,7
+14,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,AC Seater/Sleeper,14:00:00,18:00:00,04h 00m,3.9,430,24
+15,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Shrinath® Travel Agency Pvt. Ltd.,AC Seater/Sleeper,14:00:00,18:30:00,04h 30m,3.9,700,40
+16,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,M R Travels,AC Seater/Sleeper,15:30:00,20:00:00,04h 30m,3.9,550,29
+17,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,Non AC Seater/Sleeper,15:30:00,20:30:00,05h 00m,3.9,330,39
+18,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,Non AC Seater/Sleeper,17:00:00,22:55:00,05h 55m,3.9,330,41
+19,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jakhar Travels,Non AC Seater/Sleeper,18:00:00,23:15:00,05h 15m,3.9,450,35
+20,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,19:00:00,23:00:00,04h 00m,3.9,600,37
+21,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,M R Travels,Non AC Seater/Sleeper,18:30:00,23:40:00,05h 10m,3.9,495,37
+22,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,Non AC Seater/Sleeper,19:00:00,23:50:00,04h 50m,3.9,330,39
+23,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,Non AC Seater/Sleeper,19:00:00,23:36:00,04h 36m,3.9,330,32
+24,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,M R Travels,AC Seater/Sleeper,19:30:00,23:50:00,04h 20m,3.9,1224,30
+25,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,AC Seater/Sleeper,20:00:00,00:30:00,04h 30m,3.9,580,34
+26,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Chanakya Travels Agency,Non AC Seater/Sleeper,20:30:00,01:15:00,04h 45m,3.9,500,40
+27,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Deepak Travells,AC Seater/Sleeper,21:50:00,05:00:00,07h 10m,3.9,380,38
+28,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,M R Travels,AC Seater/Sleeper,22:00:00,02:15:00,04h 15m,3.9,510,31
+29,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,Non AC Seater/Sleeper,22:00:00,03:00:00,05h 00m,3.9,400,48
+30,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jakhar Travels,AC Seater/Sleeper,22:00:00,02:30:00,04h 30m,3.9,500,25
+31,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,23:00:00,03:00:00,04h 00m,3.9,700,40
+32,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,FlixBus,AC Seater/Sleeper,22:00:00,02:20:00,04h 20m,3.9,225,27
+33,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Pooja Paraswnath Travels,AC Seater/Sleeper,22:00:00,03:34:00,05h 34m,3.9,500,32
+34,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Tiger Travels,Non AC Seater/Sleeper,22:00:00,02:45:00,04h 45m,3.9,400,36
+35,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,22:45:00,03:15:00,04h 30m,3.9,600,31
+36,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Gajraj Travels,AC Seater/Sleeper,22:00:00,03:10:00,05h 10m,3.9,650,34
+37,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Chouhan Tour and Travel,AC Seater/Sleeper,22:26:00,03:11:00,04h 45m,3.9,700,33
+38,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,AC Seater/Sleeper,22:30:00,02:35:00,04h 05m,3.9,650,32
+39,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Chouhan travels and Cargo,AC Seater/Sleeper,22:35:00,03:20:00,04h 45m,3.9,666.67,32
+40,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Swagat Travels,AC Seater/Sleeper,22:42:00,02:50:00,04h 08m,3.9,475,41
+41,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,M R Travels,AC Seater/Sleeper,22:45:00,02:25:00,03h 40m,3.9,510,26
+42,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,23:59:00,04:15:00,04h 16m,3.9,700,36
+43,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jakhar Travels,AC Seater/Sleeper,23:00:00,03:30:00,04h 30m,3.9,410,27
+44,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Tiger Travels,AC Seater/Sleeper,23:15:00,03:45:00,04h 30m,3.9,500,40
+45,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Bhagwati Travels and Tours,AC Seater/Sleeper,23:30:00,04:00:00,04h 30m,3.9,400,41
+46,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jakhar Travels,AC Seater/Sleeper,23:39:00,04:30:00,04h 51m,3.9,648,24
+47,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jakhar Travels And Cargo,AC Seater/Sleeper,23:40:00,04:00:00,04h 20m,3.9,400,34
+48,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Shree Ganesh Travels,AC Seater/Sleeper,23:55:00,04:30:00,04h 35m,3.9,600,40
+49,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Choudhary travels and cargo,AC Seater/Sleeper,15:00:00,19:30:00,04h 30m,3.9,600,21
+50,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RR Travels,AC Seater/Sleeper,15:55:00,22:20:00,06h 25m,3.9,500,41
+51,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Om Travels,Non AC Seater/Sleeper,18:00:00,23:10:00,05h 10m,3.9,450,33
+52,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Radhika Travels,Non AC Seater/Sleeper,18:00:00,23:15:00,05h 15m,3.9,450,33
+53,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,RR Travels,AC Seater/Sleeper,18:55:00,01:15:00,06h 20m,3.9,350,41
+54,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Gorsiya Travels,AC Seater/Sleeper,21:16:00,02:16:00,05h 00m,3.9,555,29
+55,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jakhar Travels And Cargo,AC Seater/Sleeper,21:45:00,03:45:00,06h 00m,3.9,450,38
+56,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,V k jain travels,Non AC Seater/Sleeper,22:00:00,03:05:00,05h 05m,3.9,330,36
+57,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Laxmi traveller,AC Seater/Sleeper,22:00:00,02:41:00,04h 41m,3.9,450,30
+58,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,V k jain travels,AC Seater/Sleeper,22:05:00,02:55:00,04h 50m,3.9,430,34
+59,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Gorsiya Travels,AC Seater/Sleeper,23:40:00,04:15:00,04h 35m,3.9,570,38
+60,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Chanakya Travels Agency,AC Seater/Sleeper,14:00:00,19:15:00,05h 15m,3.9,1100,40
+61,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Shri Charbhuja Travels (A Unit Of Bala Agri..),AC Seater/Sleeper,14:09:00,18:01:00,03h 52m,3.9,1047.62,34
+62,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,M R Travels,AC Seater/Sleeper,14:30:00,19:15:00,04h 45m,3.9,770,12
+63,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,Non AC Seater/Sleeper,14:30:00,18:45:00,04h 15m,3.9,1000,42
+64,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Mahadev Bus Service,Non AC Seater/Sleeper,15:00:00,17:30:00,02h 30m,3.9,1500,32
+65,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jain travels regd,Non AC Seater/Sleeper,16:00:00,21:10:00,05h 10m,3.9,1400,30
+66,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,bhaiya travels,Non AC Seater/Sleeper,17:00:00,22:12:00,05h 12m,3.9,1000,36
+67,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,M R Travels,Non AC Seater/Sleeper,17:30:00,22:40:00,05h 10m,3.9,816,41
+68,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Bluecity Bus,AC Seater/Sleeper,19:00:00,23:55:00,04h 55m,3.9,900,24
+69,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Gajraj Travels,AC Seater/Sleeper,19:15:00,23:59:00,04h 44m,3.9,1200,34
+70,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jakhar Travels,AC Seater/Sleeper,19:45:00,00:45:00,05h 00m,3.9,734,19
+71,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Chanakya Travels Agency,AC Seater/Sleeper,21:30:00,01:50:00,04h 20m,3.9,950,36
+72,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Shri Balaji Travels,AC Seater/Sleeper,14:00:00,19:00:00,05h 00m,3.9,1100,40
+73,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Western Bus,AC Seater/Sleeper,15:30:00,20:00:00,04h 30m,3.9,5010,30
+74,Jodhpur,Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Om Travels,Non AC Seater/Sleeper,16:00:00,21:00:00,05h 00m,3.9,1200,30
+75,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 143156,AC Seater,14:30:00,20:45:00,06h 15m,2.1,740,21
+76,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 196128,Non AC Seater,16:20:00,00:00:00,07h 40m,2.1,363,42
+77,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 196130,Non AC Seater,16:20:00,00:00:00,07h 40m,2.1,363,42
+78,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 188525,AC Seater,16:30:00,22:45:00,06h 15m,2.1,740,16
+79,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 157451,AC Seater,17:30:00,23:45:00,06h 15m,2.1,740,12
+80,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 189582,Non AC Seater/Sleeper,20:01:00,03:30:00,07h 29m,2.1,448,28
+81,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 190961,Non AC Seater/Sleeper,20:40:00,04:40:00,08h 00m,2.1,448,34
+82,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 163517,Non AC Seater,21:05:00,05:00:00,07h 55m,2.1,356,42
+83,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 178948,AC Seater,22:31:00,04:45:00,06h 14m,2.1,740,29
+84,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RSRTC - 170972,AC Seater,23:59:00,06:15:00,06h 16m,2.1,740,36
+85,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Gajraj Travels,AC Seater/Sleeper,22:15:00,05:35:00,07h 20m,2.1,600,12
+86,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jain travels regd,AC Seater/Sleeper,22:30:00,05:05:00,06h 35m,2.1,600,14
+87,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jain travels regd,AC Seater/Sleeper,23:00:00,06:00:00,07h 00m,2.1,450,23
+88,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,M R Travels,AC Seater/Sleeper,22:30:00,05:30:00,07h 00m,2.1,510,21
+89,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jain travels regd,AC Seater/Sleeper,21:45:00,05:00:00,07h 15m,2.1,571,19
+90,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,M R Travels,AC Seater/Sleeper,23:35:00,06:10:00,06h 35m,2.1,918,31
+91,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,B R Travels,AC Seater/Sleeper,22:30:00,04:36:00,06h 06m,2.1,500,22
+92,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Shailu Tour and Travels,AC Seater/Sleeper,19:40:00,04:29:00,08h 49m,2.1,450,39
+93,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jakhar Travels,AC Seater/Sleeper,22:30:00,05:30:00,07h 00m,2.1,429,29
+94,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Gayatri Travels,Non AC Seater/Sleeper,22:00:00,05:30:00,07h 30m,2.1,315,34
+95,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jakhar Travels,AC Seater/Sleeper,21:00:00,04:00:00,07h 00m,2.1,429,28
+96,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Geetanjali Travels,Non AC Seater/Sleeper,23:00:00,06:05:00,07h 05m,2.1,350,34
+97,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,R.S.Sodha Travels,AC Seater/Sleeper,21:30:00,03:10:00,05h 40m,2.1,700,27
+98,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Chouhan travels and Cargo,AC Seater/Sleeper,20:20:00,03:30:00,07h 10m,2.1,700,27
+99,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jakhar Travels And Cargo,AC Seater/Sleeper,21:00:00,03:40:00,06h 40m,2.1,450,29
+100,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jain travels regd,Non AC Seater/Sleeper,23:15:00,06:30:00,07h 15m,2.1,650,38
+101,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Shree Paras Travels,Non AC Seater/Sleeper,21:00:00,05:30:00,08h 30m,2.1,333,27
+102,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Geetanjali Travels,AC Seater/Sleeper,18:02:00,01:12:00,07h 10m,2.1,450,29
+103,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Bhagwati Travels and Tours,AC Seater/Sleeper,17:40:00,00:35:00,06h 55m,2.1,400,21
+104,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jain Shiv Shankar Travels,AC Seater/Sleeper,13:30:00,20:45:00,07h 15m,2.1,600,20
+105,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,23:30:00,05:45:00,06h 15m,2.1,700,16
+106,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Swagat Travels,AC Seater/Sleeper,20:00:00,03:50:00,07h 50m,2.1,555,36
+107,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Pooja Travels,AC Seater/Sleeper,16:45:00,01:15:00,08h 30m,2.1,500,30
+108,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jakhar Travels And Cargo,AC Seater/Sleeper,21:00:00,03:55:00,06h 55m,2.1,700,26
+109,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Shri Ganesh Travels (LR SIYOL),AC Seater/Sleeper,20:00:00,02:30:00,06h 30m,2.1,450,20
+110,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Gorsiya Travels,AC Seater/Sleeper,19:15:00,02:00:00,06h 45m,2.1,416,39
+111,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Shri Ganesh Travels (LR SIYOL),AC Seater/Sleeper,18:30:00,01:30:00,07h 00m,2.1,450,32
+112,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Kalpana Travels Pvt. Ltd.,AC Seater/Sleeper,20:15:00,03:00:00,06h 45m,2.1,600,46
+113,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,RR Travels,AC Seater/Sleeper,20:20:00,04:10:00,07h 50m,2.1,550,41
+114,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jakhar Travels And Cargo,AC Seater/Sleeper,20:30:00,03:50:00,07h 20m,2.1,450,39
+115,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jain Shiv Shankar Travels,Non AC Seater/Sleeper,20:20:00,03:50:00,07h 30m,2.1,400,32
+116,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,BG Travels,AC Seater/Sleeper,21:30:00,05:25:00,07h 55m,2.1,740,40
+117,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jakhar Travels And Cargo,Non AC Seater/Sleeper,19:00:00,02:30:00,07h 30m,2.1,330,32
+118,Jaipur,Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Bhagwati Travels and Tours,AC Seater/Sleeper,18:00:00,00:30:00,06h 30m,2.1,800,30
+119,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,RSRTC - 183141,Non AC Seater,14:35:00,21:00:00,06h 25m,4,294,42
+120,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,RSRTC - 192831,Non AC Seater,15:00:00,21:00:00,06h 00m,4,285,42
+121,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,RSRTC - 197040,AC Seater,16:01:00,21:15:00,05h 14m,4,531,15
+122,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,RSRTC - 197538,Non AC Seater,17:15:00,00:15:00,07h 00m,4,294,42
+123,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,RSRTC - 193271,Non AC Seater,19:30:00,02:00:00,06h 30m,4,294,42
+124,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,RSRTC - 189622,Non AC Seater,22:00:00,05:00:00,07h 00m,4,294,42
+125,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Shree Devnarayan Travels,AC Seater/Sleeper,17:00:00,21:30:00,04h 30m,4,599,2
+126,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,M R Travels,AC Seater/Sleeper,17:10:00,21:55:00,04h 45m,4,612,27
+127,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Raj Travel,AC Seater/Sleeper,22:30:00,05:30:00,07h 00m,4,550,20
+128,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jain travels regd,AC Seater/Sleeper,22:30:00,04:30:00,06h 00m,4,460,31
+129,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jakhar Travels,AC Seater/Sleeper,22:00:00,04:30:00,06h 30m,4,457,28
+130,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Gajraj Travels,AC Seater/Sleeper,22:30:00,05:00:00,06h 30m,4,550,20
+131,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Kalpana Travels,Non AC Seater/Sleeper,22:00:00,04:54:00,06h 54m,4,300,29
+132,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jain travels regd,Non AC Seater/Sleeper,22:00:00,04:00:00,06h 00m,4,350,46
+133,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jain travels regd,AC Seater/Sleeper,13:45:00,19:45:00,06h 00m,4,500,13
+134,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jain travels regd,Non AC Seater/Sleeper,22:15:00,04:30:00,06h 15m,4,360,41
+135,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Ravi Travels,Non AC Seater/Sleeper,23:00:00,05:45:00,06h 45m,4,400,38
+136,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Rishabh Travels Milan,AC Seater/Sleeper,21:00:00,02:15:00,05h 15m,4,500,14
+137,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,M R Travels,Non AC Seater/Sleeper,23:30:00,06:00:00,06h 30m,4,360,22
+138,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jain travels regd,Non AC Seater/Sleeper,16:00:00,22:00:00,06h 00m,4,350,43
+139,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jakhar Travels,AC Seater/Sleeper,19:30:00,23:59:00,04h 29m,4,457,27
+140,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Ashok Travels,Non AC Seater/Sleeper,23:15:00,05:30:00,06h 15m,4,675,44
+141,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Kamlesh Travels,AC Seater/Sleeper,21:00:00,02:45:00,05h 45m,4,700,15
+142,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Ravi Travels,Non AC Seater/Sleeper,21:30:00,04:15:00,06h 45m,4,400,45
+143,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Chandra Travels (Apex Chandra Pvt Ltd),Non AC Seater/Sleeper,22:30:00,04:30:00,06h 00m,4,350,28
+144,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jain travels regd,Non AC Seater/Sleeper,23:15:00,06:30:00,07h 15m,4,350,38
+145,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Jain travels regd,AC Seater/Sleeper,17:30:00,23:55:00,06h 25m,4,500,28
+146,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Lake City Travels,AC Seater/Sleeper,22:45:00,05:20:00,06h 35m,4,400,24
+147,Udaipur,Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Kamlesh Travels,AC Seater/Sleeper,22:00:00,03:45:00,05h 45m,4,850,38
+148,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 169343,Non AC Seater,14:30:00,16:45:00,02h 15m,3.9,129,42
+149,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 183501,Non AC Seater,14:45:00,16:45:00,02h 00m,3.9,129,42
+150,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 197592,Non AC Seater,14:55:00,17:00:00,02h 05m,3.9,129,46
+151,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 191448,Non AC Seater,15:05:00,17:20:00,02h 15m,3.9,129,42
+152,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 146127,Non AC Seater,15:10:00,17:30:00,02h 20m,3.9,129,42
+153,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 189275,Non AC Seater,15:20:00,18:30:00,03h 10m,3.9,129,42
+154,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 159380,Non AC Seater,15:40:00,17:30:00,01h 50m,3.9,129,42
+155,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 143358,Non AC Seater,15:55:00,18:20:00,02h 25m,3.9,129,42
+156,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 168789,Non AC Seater,15:55:00,17:55:00,02h 00m,3.9,129,42
+157,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 170479,Non AC Seater,16:20:00,18:30:00,02h 10m,3.9,129,42
+158,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 186185,Non AC Seater,16:45:00,19:00:00,02h 15m,3.9,142,35
+159,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 172229,Non AC Seater,16:45:00,19:00:00,02h 15m,3.9,129,42
+160,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 177352,Non AC Seater,17:10:00,19:15:00,02h 05m,3.9,129,42
+161,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 160960,Non AC Seater,17:20:00,19:45:00,02h 25m,3.9,129,42
+162,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 135861,Non AC Seater,17:20:00,19:50:00,02h 30m,3.9,129,46
+163,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 195196,AC Seater,17:30:00,19:15:00,01h 45m,3.9,228,21
+164,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 194578,Non AC Seater,17:35:00,20:00:00,02h 25m,3.9,129,42
+165,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 168295,Non AC Seater,17:40:00,19:50:00,02h 10m,3.9,129,42
+166,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 193696,AC Seater,17:40:00,19:45:00,02h 05m,3.9,228,31
+167,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 189041,Non AC Seater,17:55:00,20:15:00,02h 20m,3.9,129,42
+168,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 177353,Non AC Seater,18:15:00,20:30:00,02h 15m,3.9,129,42
+169,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 168778,Non AC Seater,18:30:00,21:50:00,03h 20m,3.9,129,42
+170,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 104469,Non AC Seater,18:35:00,20:50:00,02h 15m,3.9,129,46
+171,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 170435,Non AC Seater,19:00:00,21:15:00,02h 15m,3.9,129,42
+172,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 173071,AC Seater,19:05:00,21:00:00,01h 55m,3.9,213,30
+173,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 168498,Non AC Seater,19:30:00,22:30:00,03h 00m,3.9,129,42
+174,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 193580,Non AC Seater,19:40:00,21:30:00,01h 50m,3.9,129,42
+175,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 194319,AC Seater,20:00:00,22:00:00,02h 00m,3.9,228,37
+176,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 177354,Non AC Seater,20:10:00,22:15:00,02h 05m,3.9,129,42
+177,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 168785,Non AC Seater,21:00:00,23:15:00,02h 15m,3.9,129,42
+178,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 188344,Non AC Seater,21:00:00,23:00:00,02h 00m,3.9,129,42
+179,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 177523,Non AC Seater,21:10:00,23:15:00,02h 05m,3.9,129,42
+180,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 171167,Non AC Seater,21:20:00,23:00:00,01h 40m,3.9,129,42
+181,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 168794,Non AC Seater,21:50:00,00:15:00,02h 25m,3.9,129,42
+182,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 195158,Non AC Seater,22:15:00,23:59:00,01h 44m,3.9,129,42
+183,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RSRTC - 178042,Non AC Seater,23:40:00,11:59:00,12h 19m,3.9,129,42
+184,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Rajat Travels,AC Seater/Sleeper,15:00:00,17:30:00,02h 30m,3.9,250,38
+185,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Ankit Travels,AC Seater,17:50:00,20:10:00,02h 20m,3.9,315,45
+186,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Vijay Tour and Travels,AC Seater/Sleeper,18:45:00,21:40:00,02h 55m,3.9,315,44
+187,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Vijay Tour and Travels,AC Seater/Sleeper,19:30:00,22:30:00,03h 00m,3.9,270,40
+188,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Vijay Travels Kota,Non AC Seater/Sleeper,20:00:00,22:15:00,02h 15m,3.9,200,37
+189,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Rishabh travels,AC Seater/Sleeper,20:04:00,23:31:00,03h 27m,3.9,270,30
+190,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Amit Travels,AC Seater,14:30:00,16:50:00,02h 20m,3.9,349,40
+191,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sagwan Travels,AC Seater/Sleeper,17:40:00,20:10:00,02h 30m,3.9,270,35
+192,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sagwan Travels,AC Seater/Sleeper,19:30:00,21:55:00,02h 25m,3.9,270,33
+193,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sagwan Travels,AC Seater/Sleeper,20:00:00,22:30:00,02h 30m,3.9,270,30
+194,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Raj travels Jhunjhunu,AC Seater/Sleeper,20:35:00,23:30:00,02h 55m,3.9,297,40
+195,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Raj travels Jhunjhunu,AC Seater/Sleeper,21:00:00,23:15:00,02h 15m,3.9,360,37
+196,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Amit Travels,AC Seater,15:55:00,18:20:00,02h 25m,3.9,349,40
+197,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Ajay Raj Travel Agency,AC Seater/Sleeper,19:00:00,22:15:00,03h 15m,3.9,238,31
+198,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Raj travels Jhunjhunu,AC Seater/Sleeper,20:15:00,22:45:00,02h 30m,3.9,359,37
+199,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Ajay Raj Travel Agency,AC Seater/Sleeper,20:00:00,23:00:00,03h 00m,3.9,278,34
+200,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Ajay Raj Travel Agency,AC Seater/Sleeper,20:10:00,22:25:00,02h 15m,3.9,200,36
+201,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Ajay Raj Travel Agency,AC Seater/Sleeper,21:15:00,23:05:00,01h 50m,3.9,200,32
+202,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Mahadev Travels Pilani,AC Seater/Sleeper,21:15:00,23:25:00,02h 10m,3.9,285,32
+203,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Maharaja Travels,AC Seater/Sleeper,13:55:00,16:35:00,02h 40m,3.9,429,40
+204,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Maharaja Travels,AC Seater/Sleeper,15:20:00,18:05:00,02h 45m,3.9,429,42
+205,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Rajat Travels,AC Seater/Sleeper,15:20:00,18:30:00,03h 10m,3.9,1492,19
+206,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Ganesh Travels,AC Seater/Sleeper,15:30:00,17:30:00,02h 00m,3.9,450,42
+207,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,GK Travels,AC Seater/Sleeper,15:30:00,18:00:00,02h 30m,3.9,1234,33
+208,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Maharaja Travels,AC Seater/Sleeper,16:50:00,19:05:00,02h 15m,3.9,429,23
+209,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,GAYATRI RAO TRAVELS,AC Seater/Sleeper,18:30:00,21:50:00,03h 20m,3.9,630,36
+210,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Mahaveer Travels (M.T.A),AC Seater/Sleeper,17:15:00,20:00:00,02h 45m,3.9,549,29
+211,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Maharaja Travels,AC Seater/Sleeper,17:20:00,19:35:00,02h 15m,3.9,428.57,42
+212,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,RATHORE TRAVELS AGENCY,AC Seater/Sleeper,17:52:00,19:55:00,02h 03m,3.9,714,36
+213,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Garhwal Travels,AC Seater/Sleeper,19:05:00,22:10:00,03h 05m,3.9,540,40
+214,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Milan Travels,AC Seater/Sleeper,22:30:00,23:59:00,01h 29m,3.9,952,29
+215,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Bhagwati Travel Agency,AC Seater/Sleeper,19:30:00,22:30:00,03h 00m,3.9,449,33
+216,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Anita Maya Travels,AC Seater/Sleeper,18:00:00,20:30:00,02h 30m,3.9,857,36
+217,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Maharaja Travels,AC Seater/Sleeper,18:05:00,20:20:00,02h 15m,3.9,429,42
+218,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,New Deep Travels,AC Seater/Sleeper,18:40:00,20:20:00,01h 40m,3.9,700,6
+219,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Mahalaxmi Travels,AC Seater/Sleeper,18:50:00,21:50:00,03h 00m,3.9,399,35
+220,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Rajat Travels,Non AC Seater/Sleeper,19:15:00,22:45:00,03h 30m,3.9,570,21
+221,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,New Babu Travels,AC Seater/Sleeper,19:45:00,23:00:00,03h 15m,3.9,380,21
+222,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Jai Shrinath Ji Ki Travels,Non AC Seater/Sleeper,20:00:00,22:45:00,02h 45m,3.9,450,36
+223,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,SHEKHAR TRAVELS,AC Seater/Sleeper,20:10:00,23:30:00,03h 20m,3.9,599,37
+224,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,REINDEER TRANSIT,AC Seater/Sleeper,20:15:00,22:10:00,01h 55m,3.9,952,35
+225,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,SHEKHAR TRAVELS,AC Seater/Sleeper,20:29:00,22:59:00,02h 30m,3.9,600,36
+226,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Rathore Travels Madho,AC Seater/Sleeper,20:30:00,22:30:00,02h 00m,3.9,500,35
+227,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Neeraj travels,AC Seater/Sleeper,20:40:00,23:20:00,02h 40m,3.9,450,34
+228,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Raj travels Jhunjhunu,AC Seater/Sleeper,15:20:00,18:00:00,02h 40m,3.9,450,36
+229,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Jakhar Travels,AC Seater/Sleeper,20:45:00,23:30:00,02h 45m,3.9,500,32
+230,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Maharaja Travels,AC Seater/Sleeper,20:45:00,22:55:00,02h 10m,3.9,524,30
+231,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Dashmesh Travels,AC Seater/Sleeper,21:00:00,23:00:00,02h 00m,3.9,400,38
+232,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Neelam Travels,AC Seater/Sleeper,21:15:00,22:45:00,01h 30m,3.9,400,38
+233,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,SKYNET TRAVELS AND CARGO,AC Seater/Sleeper,21:20:00,22:45:00,01h 25m,3.9,810,24
+234,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Devraj Travels,AC Seater/Sleeper,22:31:00,23:57:00,01h 26m,3.9,799,38
+235,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Neelam Travels,AC Seater/Sleeper,23:00:00,00:30:00,01h 30m,3.9,450.48,27
+236,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Gajkaran Travels And Cargo,AC Seater/Sleeper,15:15:00,18:40:00,03h 25m,3.9,699,35
+237,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Shree Mahaveer Travels,Non AC Seater/Sleeper,15:51:00,19:00:00,03h 09m,3.9,1100,32
+238,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Shree Mahaveer Travels,AC Seater/Sleeper,17:40:00,21:30:00,03h 50m,3.9,650,38
+239,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Rohit Raj Travels,AC Seater/Sleeper,19:00:00,22:05:00,03h 05m,3.9,1234,30
+240,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Om shree ji travles,Non AC Seater/Sleeper,19:15:00,23:15:00,04h 00m,3.9,555,42
+241,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Harshita Travels,Non AC Seater/Sleeper,19:15:00,22:10:00,02h 55m,3.9,740,31
+242,Sikar,Jaipur,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Supreme Zamindara Travels,Non AC Seater/Sleeper,21:15:00,23:15:00,02h 00m,3.9,850,22
+243,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,UPSRTC - BDV0146,Non AC Seater,17:29:00,02:20:00,08h 51m,3.3,397,52
+244,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,UPSRTC - ALI0024,Non AC Seater,21:00:00,05:00:00,08h 00m,3.3,397,52
+245,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Rinku Travels,AC Seater/Sleeper,21:30:00,06:15:00,08h 45m,3.3,400,16
+246,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Rinku Travels,AC Seater/Sleeper,21:30:00,05:22:00,07h 52m,3.3,400,23
+247,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Mahalaxmi Travels,AC Seater/Sleeper,23:55:00,07:00:00,07h 05m,3.3,549,5
+248,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Milan Travels,AC Seater/Sleeper,18:30:00,05:00:00,10h 30m,3.3,952,38
+249,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,SHAGUN CARGO & TRAVELS,AC Seater/Sleeper,23:45:00,06:30:00,06h 45m,3.3,600,19
+250,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Om Travels,Non AC Seater/Sleeper,19:00:00,04:29:00,09h 29m,3.3,500,38
+251,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,SHAGUN CARGO & TRAVELS,Non AC Seater/Sleeper,23:55:00,05:45:00,05h 50m,3.3,600,29
+252,Aligarh Uttar Pradesh,Jaipur,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,SHAGUN CARGO & TRAVELS,AC Seater/Sleeper,23:55:00,07:00:00,07h 05m,3.3,900,26
+253,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 180151,Non AC Seater,14:30:00,16:45:00,02h 15m,3.7,120,42
+254,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 163465,Non AC Seater,14:35:00,16:45:00,02h 10m,3.7,120,42
+255,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 160781,AC Seater,14:45:00,16:15:00,01h 30m,3.7,239,20
+256,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 179320,Non AC Seater,15:30:00,17:15:00,01h 45m,3.7,120,42
+257,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 186819,Non AC Seater,15:35:00,09:30:00,17h 55m,3.7,120,42
+258,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 194531,AC Seater,15:45:00,17:15:00,01h 30m,3.7,239,16
+259,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 156276,Non AC Seater,16:25:00,19:20:00,02h 55m,3.7,120,42
+260,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 184201,Non AC Seater,16:30:00,21:45:00,05h 15m,3.7,209,42
+261,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 195993,Non AC Seater,16:30:00,19:30:00,03h 00m,3.7,120,42
+262,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 178227,Non AC Seater,16:50:00,20:30:00,03h 40m,3.7,120,42
+263,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 182944,Non AC Seater,16:50:00,19:00:00,02h 10m,3.7,120,42
+264,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 195575,AC Seater,17:00:00,18:30:00,01h 30m,3.7,207,37
+265,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 157455,AC Seater,17:45:00,19:15:00,01h 30m,3.7,239,26
+266,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 194408,Non AC Seater,17:45:00,20:00:00,02h 15m,3.7,120,42
+267,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 157466,Non AC Seater,18:40:00,21:45:00,03h 05m,3.7,120,42
+268,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 193879,Non AC Seater,18:45:00,21:30:00,02h 45m,3.7,120,42
+269,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 196005,Non AC Seater,18:55:00,20:55:00,02h 00m,3.7,120,42
+270,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 191024,Non AC Seater/Sleeper,19:05:00,21:25:00,02h 20m,3.7,184,37
+271,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 146140,AC Seater,19:30:00,21:00:00,01h 30m,3.7,239,36
+272,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 169915,Non AC Seater,19:35:00,21:30:00,01h 55m,3.7,120,42
+273,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 194178,AC Seater,21:15:00,23:00:00,01h 45m,3.7,239,37
+274,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 188804,Non AC Seater,22:00:00,23:45:00,01h 45m,3.7,120,42
+275,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 160785,AC Seater,22:15:00,23:45:00,01h 30m,3.7,239,37
+276,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RSRTC - 190951,Non AC Seater,23:25:00,01:30:00,02h 05m,3.7,120,42
+277,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,UPSRTC - KSN0275,Non AC Seater,18:06:00,20:30:00,02h 24m,3.7,121,52
+278,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Jain travels regd,Non AC Seater/Sleeper,15:45:00,18:30:00,02h 45m,3.7,350,32
+279,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Mahalaxmi Travels,AC Seater/Sleeper,18:00:00,21:30:00,03h 30m,3.7,333,36
+280,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Jain travels regd,AC Seater/Sleeper,18:45:00,20:45:00,02h 00m,3.7,300,40
+281,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Jain travels regd,Non AC Seater/Sleeper,23:15:00,01:15:00,02h 00m,3.7,250,41
+282,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,V k jain travels,Non AC Seater/Sleeper,14:15:00,17:01:00,02h 46m,3.7,350,35
+283,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Rinku Travels,AC Seater/Sleeper,17:30:00,21:00:00,03h 30m,3.7,405,41
+284,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Vijay Tour and Travels,AC Seater/Sleeper,20:40:00,23:00:00,02h 20m,3.7,540,38
+285,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Maruti Travels Balotra,Non AC Seater/Sleeper,17:14:00,19:24:00,02h 10m,3.7,3000,31
+286,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Shri Charbhuja Travels (A Unit Of Bala Agri..),Non AC Seater/Sleeper,17:15:00,20:15:00,03h 00m,3.7,1000,18
+287,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Raaj Rath Travels Co.,AC Seater/Sleeper,17:45:00,21:15:00,03h 30m,3.7,550,34
+288,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Shri Charbhuja Travels (A Unit Of Bala Agri..),AC Seater/Sleeper,18:44:00,20:29:00,01h 45m,3.7,1047.62,34
+289,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Shri Krishna travels (NBT),Non AC Seater/Sleeper,18:59:00,20:44:00,01h 45m,3.7,1400,31
+290,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),AC Seater/Sleeper,19:00:00,22:00:00,03h 00m,3.7,1199,28
+291,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Jain travels regd,Non AC Seater/Sleeper,19:25:00,21:25:00,02h 00m,3.7,1000,42
+292,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Chanakya Travels Agency,AC Seater/Sleeper,19:45:00,22:30:00,02h 45m,3.7,1100,23
+293,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Rathi Travels Agency,Non AC Seater/Sleeper,19:49:00,21:49:00,02h 00m,3.7,891,49
+294,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Ashok tour and travels,Non AC Seater/Sleeper,20:15:00,23:30:00,03h 15m,3.7,650,10
+295,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kalpana Travels Pvt. Ltd.,AC Seater/Sleeper,20:15:00,23:15:00,03h 00m,3.7,500,6
+296,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,IBS Tour and Travels,Non AC Seater/Sleeper,21:00:00,23:55:00,02h 55m,3.7,674,24
+297,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Naveen Tour and Travels,Non AC Seater/Sleeper,21:45:00,23:55:00,02h 10m,3.7,712,30
+298,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Ankit Travels,AC Seater/Sleeper,23:40:00,01:40:00,02h 00m,3.7,900,38
+299,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,MASTER TRAVELS (RANIWAL),AC Seater/Sleeper,21:59:00,23:55:00,01h 56m,3.7,499,54
+300,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Naveen Tour and Travels,AC Seater/Sleeper,22:10:00,23:50:00,01h 40m,3.7,854,30
+301,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Devraj Travels,AC Seater/Sleeper,22:55:00,23:59:00,01h 04m,3.7,550,38
+302,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,bhaiya travels,Non AC Seater/Sleeper,22:55:00,00:40:00,01h 45m,3.7,1000,36
+303,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,23:45:00,02:00:00,02h 15m,3.7,1000,37
+304,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Dev Darbar Travel Agency,AC Seater/Sleeper,20:05:00,23:00:00,02h 55m,3.7,2610,30
+305,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Nandu Travels,Non AC Seater/Sleeper,23:49:00,02:03:00,02h 14m,3.7,800,30
+306,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,SHEKHAR TRAVELS,AC Seater/Sleeper,23:58:00,01:40:00,01h 42m,3.7,750,36
+307,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,NS Travels,AC Seater/Sleeper,00:09:00,01:30:00,01h 21m,3.7,1210,12
+308,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Rajat Rides Tours and Travels,AC Seater/Sleeper,15:15:00,17:30:00,02h 15m,3.7,5500,27
+309,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Raj Travels(EXPRESS),AC Seater/Sleeper,15:30:00,17:00:00,01h 30m,3.7,600,6
+310,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Safar travels and cargo,AC Seater/Sleeper,15:30:00,17:00:00,01h 30m,3.7,2500,30
+311,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Dev Darbar Travel Agency,AC Seater/Sleeper,19:45:00,22:30:00,02h 45m,3.7,2699,37
+312,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Mahadev Travels,AC Seater/Sleeper,15:30:00,18:00:00,02h 30m,3.7,5000,33
+313,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Rajat Rides Tours and Travels,AC Seater/Sleeper,15:30:00,17:15:00,01h 45m,3.7,4000,34
+314,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Shri Krishna Travels,Non AC Seater/Sleeper,17:30:00,19:30:00,02h 00m,3.7,1400,36
+315,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Rajat Rides Tours and Travels,AC Seater/Sleeper,18:00:00,19:00:00,01h 00m,3.7,3700,25
+316,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Rajat Rides Tours and Travels,AC Seater/Sleeper,18:30:00,20:45:00,02h 15m,3.7,1200,34
+317,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Rajat Rides Tours and Travels,AC Seater/Sleeper,18:45:00,21:45:00,03h 00m,3.7,700,34
+318,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,MJ Bhati Travels JJN,AC Seater/Sleeper,19:30:00,21:00:00,01h 30m,3.7,12949,24
+319,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Shri Chirag Travel Agency,Non AC Seater/Sleeper,19:34:00,22:09:00,02h 35m,3.7,1380,48
+320,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,New Kothari Travels,Non AC Seater/Sleeper,20:00:00,22:00:00,02h 00m,3.7,1500,20
+321,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Rathi Travels Business Class,Non AC Seater/Sleeper,20:05:00,22:55:00,02h 50m,3.7,824,16
+322,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Deepak Travels,AC Seater/Sleeper,20:45:00,23:10:00,02h 25m,3.7,836,48
+323,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Salasar vaishnav travels,AC Seater/Sleeper,20:45:00,22:55:00,02h 10m,3.7,1100,38
+324,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Deepak Travels,Non AC Seater/Sleeper,20:45:00,00:15:00,03h 30m,3.7,1093,30
+325,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Deepak Travels,AC Seater/Sleeper,21:00:00,23:40:00,02h 40m,3.7,898,25
+326,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Deepak Travels,AC Seater/Sleeper,21:15:00,23:15:00,02h 00m,3.7,1330,36
+327,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Amit Travels,AC Seater/Sleeper,21:15:00,23:00:00,01h 45m,3.7,399,34
+328,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Jai Ambey Travels,AC Seater/Sleeper,21:30:00,23:30:00,02h 00m,3.7,499,52
+329,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Om Travels,Non AC Seater/Sleeper,21:30:00,23:30:00,02h 00m,3.7,1000,36
+330,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Deepak Travels,AC Seater/Sleeper,21:30:00,23:30:00,02h 00m,3.7,1568,34
+331,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Jai Ambey Travels,AC Seater/Sleeper,22:00:00,00:00:00,02h 00m,3.7,499,26
+332,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,RR Travels,AC Seater/Sleeper,22:35:00,00:55:00,02h 20m,3.7,500,41
+333,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Deepak Travels,Non AC Seater/Sleeper,23:15:00,02:00:00,02h 45m,3.7,998,17
+334,Kishangarh,Jaipur,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Om shree ji travles,Non AC Seater/Sleeper,23:45:00,01:15:00,01h 30m,3.7,740,5
+335,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 194583,Non AC Seater,15:15:00,20:45:00,05h 30m,3.9,265,41
+336,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 188614,Non AC Seater,16:00:00,00:00:00,08h 00m,3.9,265,42
+337,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 194246,Non AC Seater,16:15:00,22:00:00,05h 45m,3.9,265,42
+338,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 164439,Non AC Seater,16:15:00,22:15:00,06h 00m,3.9,265,46
+339,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 164064,Non AC Seater,17:00:00,23:00:00,06h 00m,3.9,265,46
+340,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 191749,Non AC Seater,18:30:00,00:10:00,05h 40m,3.9,265,42
+341,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 189240,Non AC Seater/Sleeper,21:00:00,02:10:00,05h 10m,3.9,341,31
+342,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 197791,Non AC Seater/Sleeper,23:15:00,04:40:00,05h 25m,3.9,344,28
+343,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,RSRTC - 194692,Non AC Seater,23:59:00,05:30:00,05h 31m,3.9,265,41
+344,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Vijay Tour and Travels,AC Seater/Sleeper,18:00:00,22:40:00,04h 40m,3.9,314,36
+345,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Jakhar Travels,AC Seater/Sleeper,23:59:00,06:00:00,06h 01m,3.9,500,23
+346,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Babu Travels,AC Seater/Sleeper,16:00:00,20:30:00,04h 30m,3.9,450,18
+347,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Mahalaxmi Travels,AC Seater/Sleeper,17:00:00,22:15:00,05h 15m,3.9,333,27
+348,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Jakhar Travels,Non AC Seater/Sleeper,23:00:00,05:15:00,06h 15m,3.9,300,18
+349,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Jakhar Travels,Non AC Seater/Sleeper,23:30:00,05:30:00,06h 00m,3.9,300,16
+350,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,NueGo,AC Seater,18:30:00,23:15:00,04h 45m,3.9,265,29
+351,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Navrang Travels,AC Seater/Sleeper,23:00:00,04:30:00,05h 30m,3.9,299,36
+352,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,S.Nath Travels,AC Seater/Sleeper,23:00:00,04:45:00,05h 45m,3.9,333,26
+353,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Babu Travels,AC Seater/Sleeper,18:25:00,22:30:00,04h 05m,3.9,649,29
+354,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Rathore Travels Madho,Non AC Seater/Sleeper,22:00:00,04:00:00,06h 00m,3.9,500,40
+355,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Babu Travels,AC Seater/Sleeper,23:00:00,05:05:00,06h 05m,3.9,300,24
+356,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Jakhar Travels,AC Seater/Sleeper,21:45:00,02:00:00,04h 15m,3.9,400,22
+357,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Devraj Travels,AC Seater,19:00:00,23:30:00,04h 30m,3.9,299,32
+358,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Ganesh Travels,Non AC Seater/Sleeper,23:59:00,05:30:00,05h 31m,3.9,450,32
+359,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Shree Balaji travels SBG,AC Seater,13:55:00,19:25:00,05h 30m,3.9,380,19
+360,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Ganesh Travels,Non AC Seater/Sleeper,23:30:00,05:00:00,05h 30m,3.9,300,26
+361,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Shree Balaji travels SBG,AC Seater,13:40:00,19:30:00,05h 50m,3.9,380,41
+362,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Ganesh Travels,AC Seater/Sleeper,23:50:00,05:00:00,05h 10m,3.9,350,22
+363,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,M R Travels,Non AC Seater/Sleeper,22:50:00,05:05:00,06h 15m,3.9,306,17
+364,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Siddhivinayak Travels,Non AC Seater/Sleeper,15:30:00,20:15:00,04h 45m,3.9,300,26
+365,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,S M MOGA TRAVELS,AC Seater,14:20:00,20:00:00,05h 40m,3.9,350,44
+366,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,S M MOGA TRAVELS,Non AC Seater,14:10:00,20:00:00,05h 50m,3.9,299,49
+367,Kota Rajasthan,Jaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Sangam Travels,AC Seater/Sleeper,16:30:00,23:00:00,06h 30m,3.9,400,38
+368,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,RSRTC - 168828,Non AC Seater,15:45:00,21:40:00,05h 55m,3.8,263,42
+369,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,RSRTC - 173068,AC Seater,16:40:00,21:10:00,04h 30m,3.8,440,31
+370,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,RSRTC - 198024,Non AC Seater,21:30:00,03:00:00,05h 30m,3.8,263,42
+371,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,RSRTC - 197958,Non AC Seater,23:00:00,04:30:00,05h 30m,3.8,263,42
+372,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Vijay Tour and Travels,AC Seater/Sleeper,14:15:00,19:30:00,05h 15m,3.8,450,28
+373,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Neeraj travels,AC Seater/Sleeper,15:00:00,19:52:00,04h 52m,3.8,350,21
+374,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Devraj Travels,AC Seater/Sleeper,16:30:00,21:20:00,04h 50m,3.8,315,33
+375,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Vijay Tour and Travels,AC Seater/Sleeper,18:30:00,23:50:00,05h 20m,3.8,315,19
+376,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Vijay Tour and Travels,AC Seater/Sleeper,20:30:00,01:00:00,04h 30m,3.8,360,19
+377,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,R.K Jakhar Travels,AC Seater/Sleeper,21:25:00,02:30:00,05h 05m,3.8,400,42
+378,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Raj travels Jhunjhunu,AC Seater/Sleeper,18:10:00,22:30:00,04h 20m,3.8,360,27
+379,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Vijay Tour and Travels,AC Seater/Sleeper,22:15:00,03:00:00,04h 45m,3.8,270,41
+380,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Devraj Travels,AC Seater/Sleeper,23:59:00,06:08:00,06h 09m,3.8,350,38
+381,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,MS Gajraj Bus Service,AC Seater,14:40:00,20:10:00,05h 30m,3.8,316,56
+382,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Vijay Tour and Travels,AC Seater/Sleeper,18:10:00,23:10:00,05h 00m,3.8,299,37
+383,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Amit Travels,Non AC Seater,15:40:00,21:20:00,05h 40m,3.8,299,55
+384,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Amit Travels,AC Seater,17:40:00,23:20:00,05h 40m,3.8,349,40
+385,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Garhwal Travels,AC Seater/Sleeper,15:45:00,21:35:00,05h 50m,3.8,630,38
+386,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Amit Travels,AC Seater/Sleeper,23:00:00,04:00:00,05h 00m,3.8,349,34
+387,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Garhwal Travels,AC Seater/Sleeper,16:00:00,22:20:00,06h 20m,3.8,809,38
+388,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Shree Raj Akanshi travels,AC Seater/Sleeper,19:00:00,23:50:00,04h 50m,3.8,699,35
+389,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Vijay Tour and Travels,AC Seater/Sleeper,16:00:00,21:00:00,05h 00m,3.8,600,13
+390,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Neeraj travels,AC Seater/Sleeper,16:30:00,21:25:00,04h 55m,3.8,799,30
+391,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Gajraj bus service,AC Seater/Sleeper,17:30:00,22:05:00,04h 35m,3.8,699,38
+392,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Devraj Travels,AC Seater/Sleeper,18:15:00,23:05:00,04h 50m,3.8,550,38
+393,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Vijay Tour and Travels,AC Seater/Sleeper,19:30:00,23:55:00,04h 25m,3.8,719,40
+394,Jaipur,Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani,GK Travels,AC Seater/Sleeper,20:15:00,23:55:00,03h 40m,3.8,664,27
+395,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 197935,Non AC Seater,14:30:00,17:40:00,03h 10m,4,167,42
+396,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 167049,Non AC Seater,14:30:00,17:45:00,03h 15m,4,167,42
+397,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 146140,AC Seater,14:46:00,17:35:00,02h 49m,4,339,37
+398,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 169078,Non AC Seater/Sleeper,15:00:00,18:00:00,03h 00m,4,235,37
+399,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 184963,Non AC Seater,15:15:00,18:30:00,03h 15m,4,167,46
+400,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 190572,Non AC Seater,16:15:00,19:30:00,03h 15m,4,167,42
+401,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 194178,AC Seater,16:30:00,19:15:00,02h 45m,4,339,28
+402,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 160785,AC Seater,17:30:00,20:15:00,02h 45m,4,339,37
+403,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 190951,Non AC Seater,18:00:00,21:15:00,03h 15m,4,167,42
+404,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 193481,Non AC Seater,18:30:00,21:30:00,03h 00m,4,167,42
+405,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 176394,AC Seater,20:00:00,22:30:00,02h 30m,4,339,37
+406,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 189473,Non AC Seater/Sleeper,21:00:00,00:30:00,03h 30m,4,235,37
+407,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 172841,AC Seater,22:01:00,00:25:00,02h 24m,4,339,37
+408,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 192299,AC Seater,23:00:00,01:30:00,02h 30m,4,339,37
+409,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RSRTC - 189583,Non AC Seater/Sleeper,23:59:00,02:40:00,02h 41m,4,235,37
+410,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,AC Seater/Sleeper,14:00:00,17:20:00,03h 20m,4,370,40
+411,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,15:30:00,19:30:00,04h 00m,4,408,30
+412,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,15:30:00,19:30:00,04h 00m,4,270,41
+413,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,17:00:00,21:45:00,04h 45m,4,270,41
+414,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,17:55:00,22:15:00,04h 20m,4,408,43
+415,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,18:30:00,22:30:00,04h 00m,4,495,37
+416,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,19:00:00,22:55:00,03h 55m,4,270,40
+417,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,19:00:00,22:21:00,03h 21m,4,270,32
+418,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,20:25:00,23:55:00,03h 30m,4,459,43
+419,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,21:00:00,00:30:00,03h 30m,4,270,42
+420,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Gorsiya Travels,AC Seater/Sleeper,21:16:00,01:16:00,04h 00m,4,370,29
+421,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Babu Travels,Non AC Seater/Sleeper,21:20:00,01:10:00,03h 50m,4,450,16
+422,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,21:30:00,00:57:00,03h 27m,4,270,36
+423,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jakhar Travels And Cargo,AC Seater/Sleeper,21:45:00,03:15:00,05h 30m,4,450,38
+424,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Deepak Travells,AC Seater/Sleeper,21:50:00,04:30:00,06h 40m,4,380,38
+425,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,FlixBus,AC Seater/Sleeper,22:00:00,01:30:00,03h 30m,4,151.79,27
+426,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,22:00:00,01:20:00,03h 20m,4,408,41
+427,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,22:00:00,01:20:00,03h 20m,4,459,30
+428,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Kalpana Travels Pvt. Ltd.,Non AC Seater/Sleeper,22:00:00,00:30:00,02h 30m,4,400,37
+429,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Tiger Travels,Non AC Seater/Sleeper,22:00:00,01:15:00,03h 15m,4,400,36
+430,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Pooja Paraswnath Travels,AC Seater/Sleeper,22:00:00,02:30:00,04h 30m,4,500,32
+431,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,B R Travels,AC Seater/Sleeper,22:00:00,01:03:00,03h 03m,4,500,40
+432,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jakhar Travels,Non AC Seater/Sleeper,22:00:00,01:15:00,03h 15m,4,400,42
+433,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,22:00:00,02:00:00,04h 00m,4,400,48
+434,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,CHANDRA RAJ TRAVELS,AC Seater/Sleeper,22:15:00,00:50:00,02h 35m,4,370,42
+435,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,22:15:00,02:35:00,04h 20m,4,270,41
+436,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Swagat Travels,AC Seater/Sleeper,22:42:00,01:20:00,02h 38m,4,475,41
+437,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jakhar Travels,AC Seater/Sleeper,23:00:00,02:30:00,03h 30m,4,410,32
+438,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Tiger Travels,AC Seater/Sleeper,23:15:00,02:15:00,03h 00m,4,500,40
+439,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Bhagwati Travels and Tours,AC Seater/Sleeper,23:30:00,03:00:00,03h 30m,4,350,41
+440,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jakhar Travels And Cargo,AC Seater/Sleeper,23:40:00,03:30:00,03h 50m,4,400,34
+441,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RR Travels,AC Seater/Sleeper,15:55:00,21:20:00,05h 25m,4,500,41
+442,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Om Travels,Non AC Seater/Sleeper,18:00:00,22:10:00,04h 10m,4,450,33
+443,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,RR Travels,AC Seater/Sleeper,18:55:00,00:35:00,05h 40m,4,350,41
+444,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Salasar vaishnav travels,Non AC Seater/Sleeper,21:05:00,01:15:00,04h 10m,4,450,40
+445,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Om Travels,Non AC Seater/Sleeper,21:15:00,01:10:00,03h 55m,4,450,20
+446,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,V k jain travels,Non AC Seater/Sleeper,21:31:00,00:16:00,02h 45m,4,300,43
+447,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,V k jain travels,Non AC Seater/Sleeper,22:00:00,01:50:00,03h 50m,4,270,34
+448,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Laxmi traveller,AC Seater/Sleeper,22:00:00,01:30:00,03h 30m,4,450,30
+449,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,V k jain travels,AC Seater/Sleeper,22:05:00,01:55:00,03h 50m,4,370,34
+450,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Chanakya Travels Agency,AC Seater/Sleeper,14:00:00,18:15:00,04h 15m,4,1100,23
+451,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Shrinath® Travel Agency Pvt. Ltd.,AC Seater/Sleeper,14:00:00,17:45:00,03h 45m,4,700,40
+452,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Shri Charbhuja Travels (A Unit Of Bala Agri..),AC Seater/Sleeper,14:09:00,16:59:00,02h 50m,4,1047.62,34
+453,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,23:00:00,02:00:00,03h 00m,4,700,40
+454,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,AC Seater/Sleeper,14:30:00,18:10:00,03h 40m,4,770,13
+455,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,Non AC Seater/Sleeper,14:30:00,17:36:00,03h 06m,4,1000,42
+456,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Western Bus,AC Seater/Sleeper,15:30:00,19:00:00,03h 30m,4,5010,30
+457,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,SHRI VISHWAKARMA TRAVELS (KETU),Non AC Seater/Sleeper,16:30:00,21:00:00,04h 30m,4,3000,15
+458,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,17:00:00,21:25:00,04h 25m,4,765,24
+459,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,bhaiya travels,Non AC Seater/Sleeper,17:00:00,21:10:00,04h 10m,4,1000,36
+460,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,17:30:00,21:30:00,04h 00m,4,816,43
+461,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Bluecity Bus,AC Seater/Sleeper,19:00:00,22:15:00,03h 15m,4,680,28
+462,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,19:00:00,22:30:00,03h 30m,4,600,37
+463,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,AC Seater/Sleeper,19:30:00,22:55:00,03h 25m,4,1224,30
+464,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,AC Seater/Sleeper,19:30:00,23:30:00,04h 00m,4,714,25
+465,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Pooja Paraswnath Travels,Non AC Seater/Sleeper,20:00:00,23:30:00,03h 30m,4,900,30
+466,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,AC Seater/Sleeper,20:00:00,23:00:00,03h 00m,4,530,36
+467,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Chanakya Travels Agency,Non AC Seater/Sleeper,20:30:00,23:50:00,03h 20m,4,750,32
+468,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,SHRI VISHWAKARMA TRAVELS (KETU),Non AC Seater/Sleeper,20:30:00,01:15:00,04h 45m,4,600,32
+469,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Kalpana Travels Pvt. Ltd.,AC Seater/Sleeper,21:00:00,23:55:00,02h 55m,4,600,32
+470,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,Non AC Seater/Sleeper,21:30:00,00:50:00,03h 20m,4,650,40
+471,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Chanakya Travels Agency,AC Seater/Sleeper,21:30:00,00:40:00,03h 10m,4,950,28
+472,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jai Bajrang Travels,AC Seater/Sleeper,21:45:00,00:55:00,03h 10m,4,1000,38
+473,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,AC Seater/Sleeper,22:00:00,01:40:00,03h 40m,4,700,34
+474,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Gajraj Travels,AC Seater/Sleeper,22:00:00,02:08:00,04h 08m,4,650,34
+475,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,AC Seater/Sleeper,22:00:00,01:10:00,03h 10m,4,510,31
+476,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jai Bajrang Travels,AC Seater/Sleeper,22:00:00,01:00:00,03h 00m,4,550,32
+477,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Gajraj Travels,AC Seater/Sleeper,22:00:00,01:30:00,03h 30m,4,700,29
+478,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,AC Seater/Sleeper,22:00:00,00:55:00,02h 55m,4,714,16
+479,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Chouhan Tour and Travel,AC Seater/Sleeper,22:26:00,02:06:00,03h 40m,4,700,33
+480,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jain travels regd,AC Seater/Sleeper,22:30:00,01:40:00,03h 10m,4,650,32
+481,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,22:45:00,02:15:00,03h 30m,4,800,23
+482,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,M R Travels,AC Seater/Sleeper,22:45:00,01:45:00,03h 00m,4,510,26
+483,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Gorsiya Travels,AC Seater/Sleeper,23:40:00,02:45:00,03h 05m,4,570,38
+484,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Shree Ganesh Travels,AC Seater/Sleeper,23:55:00,03:30:00,03h 35m,4,600,28
+485,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,23:59:00,03:45:00,03h 46m,4,700,29
+486,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Salasar vaishnav travels,AC Seater/Sleeper,14:30:00,19:00:00,04h 30m,4,1100,38
+487,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Choudhary travels and cargo,AC Seater/Sleeper,15:00:00,18:00:00,03h 00m,4,600,21
+488,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Om Travels,Non AC Seater/Sleeper,16:00:00,19:00:00,03h 00m,4,1200,30
+489,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jai Shankar Travels,Non AC Seater/Sleeper,20:00:00,00:30:00,04h 30m,4,600,36
+490,Jodhpur,Beawer,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jai Shankar Travels,Non AC Seater/Sleeper,20:30:00,00:15:00,03h 45m,4,600,36
+491,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,RSRTC - 195350,Non AC Seater,18:40:00,00:00:00,05h 20m,3.5,369,42
+492,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,RSRTC - 198494,Non AC Seater,19:50:00,03:00:00,07h 10m,3.5,369,42
+493,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,RSRTC - 177697,Non AC Seater,20:50:00,04:50:00,08h 00m,3.5,369,42
+494,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,RSRTC - 178227,Non AC Seater,20:50:00,03:00:00,06h 10m,3.5,369,42
+495,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,RSRTC - 190202,Non AC Seater,21:50:00,05:00:00,07h 10m,3.5,369,42
+496,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,RSRTC - 195689,Non AC Seater,22:01:00,04:30:00,06h 29m,3.5,411,21
+497,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,RSRTC - 197499,AC Seater,23:00:00,04:30:00,05h 30m,3.5,590,23
+498,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,UPSRTC - BDV0129,Non AC Seater,23:44:00,07:25:00,07h 41m,3.5,397,52
+499,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Rinku Travels,AC Seater/Sleeper,21:30:00,04:55:00,07h 25m,3.5,400,25
+500,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Rinku Travels,AC Seater/Sleeper,21:15:00,04:25:00,07h 10m,3.5,400,34
+501,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Mahalaxmi Travels,AC Seater/Sleeper,21:00:00,04:00:00,07h 00m,3.5,549,24
+502,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Milan Travels,AC Seater/Sleeper,23:59:00,07:45:00,07h 46m,3.5,952,34
+503,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,SHAGUN CARGO & TRAVELS,AC Seater/Sleeper,22:30:00,04:15:00,05h 45m,3.5,600,22
+504,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Shree Baba Travels,AC Seater/Sleeper,21:00:00,04:30:00,07h 30m,3.5,800,40
+505,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,SHAGUN CARGO & TRAVELS,Non AC Seater/Sleeper,20:15:00,03:15:00,07h 00m,3.5,600,32
+506,Jaipur,Aligarh Uttar Pradesh,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,SHAGUN CARGO & TRAVELS,AC Seater/Sleeper,21:15:00,03:00:00,05h 45m,3.5,900,25
+507,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,RSRTC - 159864,Non AC Seater/Sleeper,15:15:00,22:00:00,06h 45m,4.1,380,34
+508,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,RSRTC - 191353,Non AC Seater,16:30:00,22:30:00,06h 00m,4.1,306,42
+509,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,RSRTC - 193801,Non AC Seater,19:30:00,04:00:00,08h 30m,4.1,315,42
+510,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Jai Shrinath Ji Ki Travels,Non AC Seater/Sleeper,22:00:00,05:00:00,07h 00m,4.1,350,22
+511,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Paras Travels,AC Seater/Sleeper,22:30:00,05:00:00,06h 30m,4.1,343,18
+512,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Babu Travels,Non AC Seater/Sleeper,22:30:00,05:15:00,06h 45m,4.1,350,32
+513,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Jakhar Travels,Non AC Seater/Sleeper,22:00:00,05:00:00,07h 00m,4.1,333,27
+514,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Radhey Travels,Non AC Seater/Sleeper,22:45:00,05:30:00,06h 45m,4.1,350,30
+515,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,18:00:00,22:30:00,04h 30m,4.1,500,33
+516,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,M R Travels,AC Seater/Sleeper,22:50:00,05:15:00,06h 25m,4.1,388,26
+517,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Navrang Travels,AC Seater/Sleeper,20:25:00,01:50:00,05h 25m,4.1,500,25
+518,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Samreen Travels,AC Seater/Sleeper,21:00:00,02:00:00,05h 00m,4.1,850,24
+519,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Jai Shrinath Ji Ki Travels,Non AC Seater/Sleeper,20:45:00,01:30:00,04h 45m,4.1,500,41
+520,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Deepak Travells,AC Seater/Sleeper,17:30:00,22:30:00,05h 00m,4.1,333,31
+521,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Babu Travels,AC Seater/Sleeper,20:30:00,01:45:00,05h 15m,4.1,800,17
+522,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Jai Shrinath Ji Ki Travels,AC Seater/Sleeper,17:30:00,22:30:00,05h 00m,4.1,400,21
+523,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Shree Laxmi Yatra,Non AC Seater/Sleeper,20:05:00,02:05:00,06h 00m,4.1,690,30
+524,Kota Rajasthan,Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,M R Travels,AC Seater/Sleeper,22:50:00,05:15:00,06h 25m,4.1,800,41
+525,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jakhar Travels,AC Seater/Sleeper,22:15:00,03:45:00,05h 30m,4.1,500,17
+526,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Babu Travels,AC Seater/Sleeper,18:30:00,23:42:00,05h 12m,4.1,500,26
+527,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jakhar Travels,Non AC Seater/Sleeper,21:15:00,03:00:00,05h 45m,4.1,300,11
+528,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Priya Bus Service,AC Seater,17:25:00,22:15:00,04h 50m,4.1,333,31
+529,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Verma Travels.,AC Seater/Sleeper,19:30:00,23:59:00,04h 29m,4.1,499,22
+530,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jakhar Travels,AC Seater/Sleeper,19:30:00,23:55:00,04h 25m,4.1,700,24
+531,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,NueGo,AC Seater,18:00:00,23:30:00,05h 30m,4.1,265,23
+532,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Ganesh Travels,AC Seater/Sleeper,23:00:00,05:20:00,06h 20m,4.1,500,17
+533,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Gajraj Travels,AC Seater/Sleeper,21:00:00,02:00:00,05h 00m,4.1,1000,8
+534,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Raj travels Jhunjhunu,AC Seater/Sleeper,23:30:00,05:00:00,05h 30m,4.1,347,22
+535,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Ganesh Travels,Non AC Seater/Sleeper,20:30:00,02:15:00,05h 45m,4.1,350,37
+536,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Mahadev Travels Pilani,AC Seater/Sleeper,23:25:00,05:25:00,06h 00m,4.1,380,24
+537,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Ajay Raj Travel Agency,AC Seater/Sleeper,22:15:00,03:30:00,05h 15m,4.1,308,31
+538,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Intercity Travels Indore,AC Seater/Sleeper,20:30:00,00:30:00,04h 00m,4.1,990,8
+539,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Laxmi Shatabdi Travels,Non AC Seater/Sleeper,22:30:00,05:15:00,06h 45m,4.1,250,37
+540,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,B R Travels,AC Seater/Sleeper,21:30:00,02:10:00,04h 40m,4.1,952,28
+541,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Sethi Yatra Company,Non AC Seater/Sleeper,18:30:00,23:55:00,05h 25m,4.1,428,24
+542,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Babu Travels,Non AC Seater/Sleeper,22:15:00,04:45:00,06h 30m,4.1,250,25
+543,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Navrang Travels,AC Seater/Sleeper,23:00:00,05:00:00,06h 00m,4.1,280,34
+544,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Ansari Travels,Non AC Seater/Sleeper,21:30:00,01:51:00,04h 21m,4.1,630,18
+545,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Gagan Sarkar Upkar Travels,Non AC Seater/Sleeper,22:15:00,02:15:00,04h 00m,4.1,800,28
+546,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Hans Travels (I) Private Limited,Non AC Seater/Sleeper,19:45:00,01:00:00,05h 15m,4.1,700,21
+547,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jakhar Travels,AC Seater/Sleeper,23:30:00,04:30:00,05h 00m,4.1,429,25
+548,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jakhar Travels,Non AC Seater/Sleeper,21:15:00,02:00:00,04h 45m,4.1,500,13
+549,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Gajraj bus service,AC Seater/Sleeper,20:30:00,00:50:00,04h 20m,4.1,550,26
+550,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Ansari Travels,Non AC Seater/Sleeper,18:30:00,23:30:00,05h 00m,4.1,630,24
+551,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Vijay Travels Kota,Non AC Seater/Sleeper,22:15:00,04:30:00,06h 15m,4.1,300,24
+552,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,M R Travels,AC Seater/Sleeper,18:00:00,23:45:00,05h 45m,4.1,549,26
+553,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Kalpana Travels Pvt. Ltd.,Non AC Seater/Sleeper,22:25:00,03:55:00,05h 30m,4.1,400,34
+554,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,M R Travels,AC Seater/Sleeper,19:00:00,23:45:00,04h 45m,4.1,611,30
+555,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Priya Bus Service,AC Seater,16:00:00,21:00:00,05h 00m,4.1,333,42
+556,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Geetanjali Travels,Non AC Seater/Sleeper,23:00:00,04:30:00,05h 30m,4.1,400,34
+557,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Ganesh Travels,Non AC Seater/Sleeper,22:00:00,04:00:00,06h 00m,4.1,350,36
+558,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,CHANDRAWAT TRAVELS,AC Seater,16:20:00,21:30:00,05h 10m,4.1,350,50
+559,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,DEV HIGH SPEED TRAVELS AND CARGO,AC Seater/Sleeper,21:51:00,01:35:00,03h 44m,4.1,925,30
+560,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Sethi Yatra Company,Non AC Seater/Sleeper,21:50:00,02:25:00,04h 35m,4.1,474,30
+561,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Rathore Travels Madho,AC Seater/Sleeper,22:30:00,04:00:00,05h 30m,4.1,700,35
+562,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Ganesh Travels,AC Seater/Sleeper,21:15:00,01:45:00,04h 30m,4.1,1999,36
+563,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Ganesh Travels,AC Seater/Sleeper,21:00:00,01:30:00,04h 30m,4.1,899,18
+564,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,A One Travel Agency,Non AC Seater/Sleeper,21:00:00,02:30:00,05h 30m,4.1,350,39
+565,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,A One Travel Agency,Non AC Seater/Sleeper,19:30:00,00:14:00,04h 44m,4.1,600,40
+566,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Gajraj bus service,AC Seater/Sleeper,22:15:00,03:35:00,05h 20m,4.1,1500,20
+567,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Chouhan travels and Cargo,Non AC Seater/Sleeper,22:00:00,03:05:00,05h 05m,4.1,800,36
+568,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Gajraj bus service,AC Seater/Sleeper,22:30:00,03:30:00,05h 00m,4.1,1000,34
+569,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Kalpana Travels Pvt. Ltd.,Non AC Seater/Sleeper,18:00:00,23:30:00,05h 30m,4.1,650,22
+570,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Shree Balaji travels SBG,AC Seater/Sleeper,21:15:00,02:15:00,05h 00m,4.1,1139,19
+571,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Rewar Travels,AC Seater/Sleeper,21:30:00,02:30:00,05h 00m,4.1,800,36
+572,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,DEV HIGH SPEED TRAVELS AND CARGO,AC Seater/Sleeper,20:40:00,01:05:00,04h 25m,4.1,1350,36
+573,Jaipur,Kota Rajasthan,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Shree Baba Travels,Non AC Seater/Sleeper,23:00:00,05:00:00,06h 00m,4.1,300,36
+574,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Lake City Travels,AC Seater/Sleeper,22:15:00,07:05:00,08h 50m,4.7,548,23
+575,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Raj travels,AC Seater/Sleeper,22:15:00,06:30:00,08h 15m,4.7,399,17
+576,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,SURYAVANSHI TRAVELS,AC Seater/Sleeper,22:00:00,06:15:00,08h 15m,4.7,399,17
+577,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,METRO RAJLAXMI TRAVELS,AC Seater/Sleeper,22:01:00,06:41:00,08h 40m,4.7,500,25
+578,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Pooja Yaduvanshi Travels,AC Seater/Sleeper,22:30:00,06:45:00,08h 15m,4.7,601,11
+579,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shreenath Travellers Pvt Ltd,AC Seater/Sleeper,21:00:00,05:55:00,08h 55m,4.7,540,16
+580,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Zingbus Plus,AC Seater/Sleeper,18:45:00,03:00:00,08h 15m,4.7,448,26
+581,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Anita Maya Travels,AC Seater/Sleeper,21:45:00,05:30:00,07h 45m,4.7,514,14
+582,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Pooja Yaduvanshi Travels,AC Seater/Sleeper,22:00:00,06:00:00,08h 00m,4.7,601,8
+583,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Raj travels,AC Seater/Sleeper,22:00:00,06:30:00,08h 30m,4.7,499,21
+584,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Paras Travels,AC Seater/Sleeper,22:05:00,06:25:00,08h 20m,4.7,286,24
+585,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Pooja Yaduvanshi Travels,AC Seater/Sleeper,21:15:00,05:30:00,08h 15m,4.7,600,15
+586,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Ashok Travels Mandsaur Group,Non AC Seater/Sleeper,17:17:00,02:30:00,09h 13m,4.7,600,21
+587,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,SURYAVANSHI TRAVELS,AC Seater/Sleeper,22:00:00,06:00:00,08h 00m,4.7,800,11
+588,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Jakhar Travels,AC Seater/Sleeper,22:00:00,05:30:00,07h 30m,4.7,700,15
+589,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Lake City Travels,AC Seater/Sleeper,22:20:00,06:45:00,08h 25m,4.7,650,21
+590,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Gajraj Travels,AC Seater/Sleeper,19:30:00,02:45:00,07h 15m,4.7,1200,18
+591,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Rishabh travels,AC Seater/Sleeper,22:00:00,05:00:00,07h 00m,4.7,720,9
+592,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Lake City Travels,Non AC Seater/Sleeper,21:01:00,06:11:00,09h 10m,4.7,500,18
+593,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shree Parshwanath Travels,Non AC Seater/Sleeper,21:45:00,06:15:00,08h 30m,4.7,500,12
+594,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shrinath® Travel Agency Pvt. Ltd.,AC Seater/Sleeper,22:45:00,05:30:00,06h 45m,4.7,714,20
+595,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Vijay Tour and Travels,AC Seater/Sleeper,15:00:00,23:45:00,08h 45m,4.7,674,23
+596,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Lake City Travels,Non AC Seater/Sleeper,20:30:00,05:50:00,09h 20m,4.7,550,18
+597,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Parshwanath Travel Pvt. Ltd,AC Seater/Sleeper,23:50:00,08:00:00,08h 10m,4.7,634,12
+598,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Chartered Bus,AC Seater/Sleeper,23:30:00,06:45:00,07h 15m,4.7,755.58,12
+599,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Thar Bus Service,AC Seater/Sleeper,16:00:00,01:10:00,09h 10m,4.7,599,18
+600,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,VGO BUS,AC Seater/Sleeper,22:45:00,04:30:00,05h 45m,4.7,499,21
+601,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Jain Parshwanath Travels,Non AC Seater/Sleeper,22:30:00,06:30:00,08h 00m,4.7,1500,37
+602,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Rishabh Travels Ajay Raj,AC Seater/Sleeper,21:55:00,05:05:00,07h 10m,4.7,540,29
+603,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Chandra Travel Singhana,AC Seater/Sleeper,19:15:00,05:00:00,09h 45m,4.7,450,32
+604,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Rishabh Travels-Neeraj,AC Seater/Sleeper,18:30:00,03:00:00,08h 30m,4.7,405,26
+605,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Raj travels Jhunjhunu,AC Seater/Sleeper,19:00:00,02:55:00,07h 55m,4.7,540,31
+606,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Gujarat Travels,AC Seater/Sleeper,22:30:00,06:55:00,08h 25m,4.7,700,43
+607,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Raj travels Jhunjhunu,AC Seater/Sleeper,18:00:00,02:00:00,08h 00m,4.7,540,34
+608,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shrinath® Travel Agency Pvt. Ltd.,AC Seater/Sleeper,19:40:00,02:55:00,07h 15m,4.7,925,11
+609,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shrinath Solitaire,AC Seater/Sleeper,18:45:00,02:45:00,08h 00m,4.7,900,18
+610,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Ashok tour and travels,Non AC Seater/Sleeper,17:00:00,02:14:00,09h 14m,4.7,700,19
+611,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shri Rishabh Travels,Non AC Seater/Sleeper,18:00:00,01:25:00,07h 25m,4.7,850,33
+612,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shri Rishabh Travels,AC Seater/Sleeper,19:00:00,02:30:00,07h 30m,4.7,990,30
+613,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,VIKAS TRAVELS ®,AC Seater/Sleeper,18:15:00,01:45:00,07h 30m,4.7,1000,14
+614,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,VIKAS TRAVELS ®,AC Seater/Sleeper,19:00:00,02:20:00,07h 20m,4.7,1000,11
+615,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Natraj Travels,AC Seater/Sleeper,19:45:00,04:15:00,08h 30m,4.7,450,18
+616,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Amit Travels,AC Seater/Sleeper,14:00:00,23:00:00,09h 00m,4.7,450,27
+617,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Devraj Travels,AC Seater/Sleeper,16:50:00,23:59:00,07h 09m,4.7,500,27
+618,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Jain Travels Regd Udaipur,AC Seater/Sleeper,16:30:00,00:25:00,07h 55m,4.7,500,28
+619,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Kalpana Travels Pvt. Ltd.,AC Seater/Sleeper,22:15:00,06:15:00,08h 00m,4.7,400,29
+620,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Western Bus,AC Seater/Sleeper,20:00:00,03:00:00,07h 00m,4.7,1510,36
+621,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,PAL BUS(Patel Travels®),Non AC Seater/Sleeper,22:00:00,07:05:00,09h 05m,4.7,380,19
+622,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Mahaveer Travels Agency,Non AC Seater/Sleeper,22:55:00,06:15:00,07h 20m,4.7,500,42
+623,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,AMIT TRAVELS REGD.,Non AC Seater/Sleeper,15:00:00,00:25:00,09h 25m,4.7,500,33
+624,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Ajay Raj Travel Agency,AC Seater/Sleeper,18:30:00,03:15:00,08h 45m,4.7,416,34
+625,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Ravina Travels (Regd),AC Seater/Sleeper,18:30:00,02:30:00,08h 00m,4.7,799,16
+626,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,B.R. Travels,AC Seater/Sleeper,23:55:00,06:30:00,06h 35m,4.7,999,22
+627,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,SHREE MARUTIKRUPA TRAVELS AND CARGO,Non AC Seater/Sleeper,15:00:00,23:15:00,08h 15m,4.7,1080,21
+628,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Gajraj bus service,AC Seater/Sleeper,19:40:00,04:30:00,08h 50m,4.7,699,38
+629,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Ankit Travels,AC Seater/Sleeper,18:10:00,01:40:00,07h 30m,4.7,900,38
+630,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Ashok Travels Mandsaur Group,Non AC Seater/Sleeper,19:02:00,04:15:00,09h 13m,4.7,610,34
+631,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Nandu Travels,Non AC Seater/Sleeper,17:30:00,02:03:00,08h 33m,4.7,800,30
+632,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Kalpana Travels,Non AC Seater/Sleeper,16:30:00,02:00:00,09h 30m,4.7,540,24
+633,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Goyal Travels,Non AC Seater/Sleeper,19:20:00,03:40:00,08h 20m,4.7,600,35
+634,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shree Savariya Travels & Transport,AC Seater/Sleeper,23:15:00,07:45:00,08h 30m,4.7,600,20
+635,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Baba Shayam Travels,Non AC Seater/Sleeper,16:47:00,03:17:00,10h 30m,4.7,450,29
+636,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,SHEKHAR TRAVELS,AC Seater/Sleeper,18:10:00,01:40:00,07h 30m,4.7,750,36
+637,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Shrinath Solitaire,AC Seater/Sleeper,20:30:00,03:30:00,07h 00m,4.7,1000,9
+638,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Om shree ji travles,Non AC Seater/Sleeper,17:15:00,02:30:00,09h 15m,4.7,740,28
+639,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,AMIT TRAVELS REGD.,Non AC Seater/Sleeper,16:45:00,03:00:00,10h 15m,4.7,800,24
+640,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,SHREE KAMBESHWAR TRAVELS,Non AC Seater/Sleeper,20:05:00,04:35:00,08h 30m,4.7,699,36
+641,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Nirman Travels,AC Seater/Sleeper,19:00:00,03:40:00,08h 40m,4.7,1200,34
+642,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Nirman Travels,AC Seater/Sleeper,18:00:00,02:15:00,08h 15m,4.7,999,31
+643,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Mahaveer Travels Agency,Non AC Seater/Sleeper,22:05:00,05:15:00,07h 10m,4.7,500,23
+644,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Mahaveer Travels Agency,Non AC Seater/Sleeper,20:55:00,04:45:00,07h 50m,4.7,600,11
+645,Udaipur,Jaipur,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Vinayak Travel Agency,AC Seater/Sleeper,19:15:00,05:30:00,10h 15m,4.7,429,36
+646,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,RSRTC - 194319,AC Seater,16:30:00,19:45:00,03h 15m,4.9,446,32
+647,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,RSRTC - 195158,Non AC Seater,17:00:00,22:00:00,05h 00m,4.9,240,42
+648,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,RSRTC - 182762,Non AC Seater,21:55:00,02:45:00,04h 50m,4.9,231,42
+649,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Maharaja Travels,AC Seater/Sleeper,13:38:00,17:20:00,03h 42m,4.9,333.33,20
+650,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Maharaja Travels,AC Seater/Sleeper,14:15:00,18:05:00,03h 50m,4.9,333,42
+651,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Milan Travels,AC Seater/Sleeper,14:30:00,18:10:00,03h 40m,4.9,571,3
+652,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,RATHORE TRAVELS AGENCY,AC Seater/Sleeper,14:40:00,17:52:00,03h 12m,4.9,714,14
+653,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,New Deep Travels,AC Seater/Sleeper,15:30:00,18:40:00,03h 10m,4.9,700,6
+654,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Maharaja Travels,AC Seater/Sleeper,16:30:00,20:45:00,04h 15m,4.9,429,16
+655,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Milan Travels,AC Seater/Sleeper,17:00:00,20:30:00,03h 30m,4.9,476,7
+656,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Neelam Travels,AC Seater/Sleeper,17:00:00,21:15:00,04h 15m,4.9,400,38
+657,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Neelam Travels,AC Seater/Sleeper,18:30:00,23:00:00,04h 30m,4.9,400,28
+658,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Maharaja Travels,AC Seater/Sleeper,18:50:00,23:20:00,04h 30m,4.9,333,40
+659,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Milan Travels,AC Seater/Sleeper,19:15:00,22:30:00,03h 15m,4.9,476,28
+660,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Milan Travels,AC Seater/Sleeper,19:15:00,22:30:00,03h 15m,4.9,476,35
+661,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,VishwaKarma Nandu Travels,AC Seater/Sleeper,19:30:00,23:15:00,03h 45m,4.9,700,40
+662,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,SHEKHAR TRAVELS,AC Seater/Sleeper,20:00:00,23:45:00,03h 45m,4.9,700,39
+663,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Royal Travels,Non AC Seater/Sleeper,20:00:00,00:30:00,04h 30m,4.9,400,38
+664,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,VishwaKarma Nandu Travels,AC Seater/Sleeper,20:00:00,23:45:00,03h 45m,4.9,648,37
+665,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Royal Travels,AC Seater/Sleeper,21:30:00,01:45:00,04h 15m,4.9,400,40
+666,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Milan Travels,AC Seater/Sleeper,22:30:00,02:30:00,04h 00m,4.9,476,27
+667,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Maharaja Travels,AC Seater/Sleeper,22:30:00,02:30:00,04h 00m,4.9,333,42
+668,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Milan Travels,AC Seater/Sleeper,23:30:00,03:30:00,04h 00m,4.9,476,33
+669,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,RATHORE TRAVELS AGENCY,AC Seater/Sleeper,22:30:00,02:59:00,04h 29m,4.9,350,31
+670,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Maharaja Travels,Non AC Seater/Sleeper,22:45:00,02:35:00,03h 50m,4.9,350,42
+671,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Milan Travels,AC Seater/Sleeper,23:00:00,03:00:00,04h 00m,4.9,714,24
+672,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Suman Supreme Travels,AC Seater/Sleeper,23:00:00,03:25:00,04h 25m,4.9,350,44
+673,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,RATHORE TRAVELS AGENCY,AC Seater/Sleeper,23:00:00,03:05:00,04h 05m,4.9,714,36
+674,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Maharaja Travels,AC Seater/Sleeper,23:15:00,03:25:00,04h 10m,4.9,333,40
+675,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Milan Travels,AC Seater/Sleeper,23:15:00,03:15:00,04h 00m,4.9,476,17
+676,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Maharaja Travels,AC Seater/Sleeper,23:50:00,04:00:00,04h 10m,4.9,333,26
+677,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Sharma travels,AC Seater/Sleeper,14:30:00,18:30:00,04h 00m,4.9,381,38
+678,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Sharma travels,AC Seater/Sleeper,16:50:00,20:45:00,03h 55m,4.9,429,44
+679,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Rathore Travels Madho,AC Seater/Sleeper,17:00:00,20:30:00,03h 30m,4.9,450,28
+680,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Amar Travels(Jaipur),Non AC Seater/Sleeper,17:15:00,21:30:00,04h 15m,4.9,760,38
+681,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Amar Travels(Jaipur),AC Seater,18:00:00,22:05:00,04h 05m,4.9,323,41
+682,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Nandu V.K. Travels,Non AC Seater/Sleeper,19:30:00,23:45:00,04h 15m,4.9,600,30
+683,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Amar Travels(Jaipur),AC Seater/Sleeper,22:00:00,02:45:00,04h 45m,4.9,475,34
+684,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Sharma travels,Non AC Seater/Sleeper,22:30:00,03:00:00,04h 30m,4.9,350,36
+685,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Amar Travels(Jaipur),AC Seater/Sleeper,22:45:00,03:30:00,04h 45m,4.9,380,44
+686,Bikaner,Sikar,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Supreme Zamindara Travels,Non AC Seater/Sleeper,17:15:00,21:15:00,04h 00m,4.9,850,28
+687,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,RSRTC - 193234,Non AC Seater,15:31:00,20:35:00,05h 04m,4.1,268,42
+688,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,RSRTC - 191266,Non AC Seater/Sleeper,18:05:00,23:40:00,05h 35m,4.1,365,17
+689,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,RSRTC - 190078,Non AC Seater,18:30:00,00:45:00,06h 15m,4.1,290,42
+690,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,RSRTC - 191912,Non AC Seater,19:00:00,01:00:00,06h 00m,4.1,290,42
+691,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,RSRTC - 193248,Non AC Seater,20:15:00,02:00:00,05h 45m,4.1,313,33
+692,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,RSRTC - 195346,Non AC Seater/Sleeper,20:30:00,02:50:00,06h 20m,4.1,369,30
+693,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,RSRTC - 195800,AC Seater,21:31:00,02:00:00,04h 29m,4.1,485,23
+694,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,RSRTC - 184201,Non AC Seater,22:55:00,04:00:00,05h 05m,4.1,290,41
+695,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Zingbus Plus,AC Seater/Sleeper,23:35:00,03:55:00,04h 20m,4.1,424,17
+696,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Sagwan Travels,AC Seater/Sleeper,22:30:00,04:10:00,05h 40m,4.1,630,28
+697,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Gajraj Travels,AC Seater/Sleeper,18:15:00,22:35:00,04h 20m,4.1,850,22
+698,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Shrinath® Travel Agency Pvt. Ltd.,AC Seater/Sleeper,23:45:00,03:30:00,03h 45m,4.1,900,20
+699,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Anita Maya Travels,AC Seater/Sleeper,20:30:00,01:15:00,04h 45m,4.1,857,41
+700,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Raj travels,AC Seater/Sleeper,21:00:00,02:00:00,05h 00m,4.1,699,18
+701,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Rishabh travels,AC Seater/Sleeper,23:11:00,04:31:00,05h 20m,4.1,629,15
+702,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,B R Travels,AC Seater/Sleeper,22:30:00,02:00:00,03h 30m,4.1,1700,36
+703,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Raj Travel,AC Seater/Sleeper,21:00:00,02:00:00,05h 00m,4.1,1100,36
+704,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,SURYAVANSHI TRAVELS,AC Seater/Sleeper,20:20:00,01:20:00,05h 00m,4.1,700,19
+705,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Mahalaxmi Travels,AC Seater/Sleeper,19:00:00,23:40:00,04h 40m,4.1,499,19
+706,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Jain Parshwanath Travels,AC Seater/Sleeper,22:30:00,03:30:00,05h 00m,4.1,650,36
+707,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Mahalaxmi Travels,AC Seater/Sleeper,21:30:00,02:30:00,05h 00m,4.1,499,26
+708,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Shrinath® Travel Agency Pvt. Ltd.,AC Seater/Sleeper,17:30:00,22:20:00,04h 50m,4.1,1000,36
+709,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Gayatri Travels,Non AC Seater/Sleeper,22:30:00,05:00:00,06h 30m,4.1,360,25
+710,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Neeraj travels,AC Seater/Sleeper,23:20:00,04:25:00,05h 05m,4.1,600,31
+711,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Parshwanath Travel Pvt. Ltd,AC Seater/Sleeper,19:30:00,00:30:00,05h 00m,4.1,452,29
+712,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Mahalaxmi Travels,AC Seater/Sleeper,22:15:00,02:45:00,04h 30m,4.1,399,24
+713,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Neeraj travels,AC Seater/Sleeper,21:45:00,04:15:00,06h 30m,4.1,400,37
+714,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Sagwan Travels,AC Seater/Sleeper,20:10:00,01:35:00,05h 25m,4.1,540,35
+715,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,VGO BUS,AC Seater/Sleeper,23:30:00,04:20:00,04h 50m,4.1,1249,15
+716,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,New Babu Travels,AC Seater/Sleeper,22:45:00,03:45:00,05h 00m,4.1,498.1,19
+717,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Jain Pareek Travels,AC Seater/Sleeper,19:15:00,23:15:00,04h 00m,4.1,500,29
+718,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Chouhan travels and Cargo,Non AC Seater/Sleeper,19:29:00,01:15:00,05h 46m,4.1,700,36
+719,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Laxmi Shatabdi Travels,Non AC Seater/Sleeper,21:30:00,02:00:00,04h 30m,4.1,800,40
+720,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Shre Ganesh Travels (VR SIYOL),AC Seater/Sleeper,16:00:00,19:00:00,03h 00m,4.1,1100,32
+721,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Jain Pareek Travels,Non AC Seater/Sleeper,18:30:00,23:14:00,04h 44m,4.1,475,32
+722,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Western Bus,AC Seater/Sleeper,22:00:00,03:00:00,05h 00m,4.1,800,30
+723,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Gujarat Travels,AC Seater/Sleeper,17:30:00,23:30:00,06h 00m,4.1,1100,29
+724,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Goyal Travels,AC Seater/Sleeper,20:00:00,01:00:00,05h 00m,4.1,500,17
+725,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Gujarat Travels,AC Seater/Sleeper,22:50:00,03:15:00,04h 25m,4.1,1500,35
+726,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Ravi Travels,AC Seater/Sleeper,19:30:00,00:35:00,05h 05m,4.1,500,27
+727,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Thar Bus Service,AC Seater/Sleeper,23:40:00,05:05:00,05h 25m,4.1,499,27
+728,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Laxmi Shatabdi Travels,Non AC Seater/Sleeper,19:30:00,00:40:00,05h 10m,4.1,1700,24
+729,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Humsafar Travels,AC Seater/Sleeper,16:00:00,21:30:00,05h 30m,4.1,874,8
+730,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Bharat Travels,Non AC Seater/Sleeper,18:00:00,23:55:00,05h 55m,4.1,648,36
+731,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Gajraj bus service,AC Seater/Sleeper,16:15:00,21:05:00,04h 50m,4.1,2400,24
+732,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Shrinath Solitaire,AC Seater/Sleeper,23:45:00,03:45:00,04h 00m,4.1,1000,6
+733,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Goyal Travels,AC Seater/Sleeper,19:30:00,00:15:00,04h 45m,4.1,500,39
+734,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Dhariwal Travels,AC Seater/Sleeper,19:30:00,23:20:00,03h 50m,4.1,1000,30
+735,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Hans Travels (I) Private Limited,AC Seater/Sleeper,20:15:00,01:00:00,04h 45m,4.1,800,32
+736,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Ravi Travels,AC Seater/Sleeper,20:00:00,01:15:00,05h 15m,4.1,700,29
+737,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Goyal Travels,Non AC Seater/Sleeper,20:30:00,02:00:00,05h 30m,4.1,650,30
+738,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Kalpana Travels Pvt. Ltd.,Non AC Seater/Sleeper,22:35:00,05:05:00,06h 30m,4.1,350,33
+739,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Sagwan Travels,AC Seater/Sleeper,22:00:00,03:19:00,05h 19m,4.1,360,33
+740,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Raj travels Jhunjhunu,AC Seater/Sleeper,23:15:00,04:40:00,05h 25m,4.1,539,37
+741,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Raj travels Jhunjhunu,AC Seater/Sleeper,22:45:00,04:10:00,05h 25m,4.1,539,37
+742,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Chandra Travel Singhana,AC Seater/Sleeper,21:10:00,03:15:00,06h 05m,4.1,405,36
+743,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Giriraj Tour And Travels,AC Seater/Sleeper,14:15:00,18:45:00,04h 30m,4.1,630,34
+744,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Ajay Raj Travel Agency,AC Seater/Sleeper,22:05:00,03:30:00,05h 25m,4.1,555,36
+745,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Mahalaxmi Travels,AC Seater/Sleeper,20:15:00,01:15:00,05h 00m,4.1,499,20
+746,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Ajay Raj Travel Agency,AC Seater/Sleeper,23:05:00,03:50:00,04h 45m,4.1,463,31
+747,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Western Bus,AC Seater/Sleeper,23:35:00,03:45:00,04h 10m,4.1,1310,36
+748,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Pareek Travels,Non AC Seater/Sleeper,17:30:00,23:55:00,06h 25m,4.1,500,19
+749,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Pareek Travels,AC Seater/Sleeper,20:00:00,00:45:00,04h 45m,4.1,450,28
+750,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,SHRI SOLANKI TRAVELS,AC Seater/Sleeper,22:15:00,03:05:00,04h 50m,4.1,599,40
+751,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Raj Travels(EXPRESS),AC Seater/Sleeper,18:35:00,00:35:00,06h 00m,4.1,800,36
+752,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Kothari Travels (Shri Solanki Travels),Non AC Seater/Sleeper,20:00:00,02:30:00,06h 30m,4.1,600,37
+753,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Raj Travels(EXPRESS),AC Seater/Sleeper,22:30:00,03:00:00,04h 30m,4.1,500,33
+754,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,MJ Bhati Travels JJN,AC Seater/Sleeper,20:00:00,01:00:00,05h 00m,4.1,2589,30
+755,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Jai Shree Ganesh Travels,Non AC Seater/Sleeper,19:30:00,01:34:00,06h 04m,4.1,665,37
+756,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,BG Travels,Non AC Seater/Sleeper,20:30:00,02:30:00,06h 00m,4.1,740,37
+757,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Mahadev Travels,AC Seater/Sleeper,14:30:00,19:00:00,04h 30m,4.1,3000,44
+758,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Mahadev Travels,AC Seater/Sleeper,17:15:00,22:30:00,05h 15m,4.1,4000,40
+759,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Rajat Rides Tours and Travels,AC Seater/Sleeper,14:15:00,20:00:00,05h 45m,4.1,1000,22
+760,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Amit Travels,AC Seater/Sleeper,23:50:00,04:50:00,05h 00m,4.1,799,34
+761,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Shree Balaji Travels,AC Seater/Sleeper,14:15:00,19:35:00,05h 20m,4.1,1141.9,36
+762,Jaipur,Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara,Jain Mahaveer Travels,Non AC Seater/Sleeper,20:25:00,02:15:00,05h 50m,4.1,600,30
+763,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,RSRTC - 183015,Non AC Seater,14:35:00,19:30:00,04h 55m,3.6,209,42
+764,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,RSRTC - 166605,Non AC Seater,15:10:00,20:30:00,05h 20m,3.6,212,40
+765,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,RSRTC - 174532,Non AC Seater,16:00:00,20:45:00,04h 45m,3.6,212,42
+766,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,RSRTC - 163483,Non AC Seater,16:45:00,21:45:00,05h 00m,3.6,212,42
+767,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,RSRTC - 194420,AC Seater,17:15:00,21:00:00,03h 45m,3.6,378,11
+768,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,RSRTC - 194256,Non AC Seater,17:30:00,22:15:00,04h 45m,3.6,212,46
+769,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,RSRTC - 191334,Non AC Seater,22:00:00,03:00:00,05h 00m,3.6,212,42
+770,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jain travels regd,AC Seater/Sleeper,15:20:00,20:00:00,04h 40m,3.6,460,27
+771,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Ashok Travels,Non AC Seater/Sleeper,15:30:00,21:45:00,06h 15m,3.6,585,30
+772,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jain travels regd,Non AC Seater/Sleeper,16:30:00,22:45:00,06h 15m,3.6,350,34
+773,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Ashok Travels Mandsaur Group,Non AC Seater/Sleeper,17:30:00,23:00:00,05h 30m,3.6,400,43
+774,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,M R Travels,AC Seater/Sleeper,17:40:00,21:00:00,03h 20m,3.6,612,51
+775,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Raj Travel (Laxmi Traveller),AC Seater/Sleeper,18:05:00,21:55:00,03h 50m,3.6,499,23
+776,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Shree Devnarayan Travels,AC Seater/Sleeper,18:10:00,21:40:00,03h 30m,3.6,550,19
+777,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,M R Travels,AC Seater/Sleeper,18:45:00,22:45:00,04h 00m,3.6,663,33
+778,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Hans Travels (I) Private Limited,AC Seater/Sleeper,18:45:00,23:15:00,04h 30m,3.6,400,24
+779,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jain travels regd,AC Seater/Sleeper,19:00:00,23:35:00,04h 35m,3.6,400,36
+780,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Gajraj Travels,Non AC Seater/Sleeper,20:45:00,01:15:00,04h 30m,3.6,400,40
+781,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jain travels regd,Non AC Seater/Sleeper,21:00:00,01:44:00,04h 44m,3.6,360,42
+782,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Gajraj Travels,Non AC Seater/Sleeper,21:30:00,02:00:00,04h 30m,3.6,400,40
+783,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,M R Travels,Non AC Seater/Sleeper,21:45:00,02:30:00,04h 45m,3.6,396,39
+784,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Gajraj Travels,Non AC Seater/Sleeper,22:30:00,03:50:00,05h 20m,3.6,360,34
+785,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Shri Mahadev Travelss,AC Seater/Sleeper,22:30:00,03:30:00,05h 00m,3.6,650,20
+786,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jain travels regd,Non AC Seater/Sleeper,23:00:00,04:35:00,05h 35m,3.6,360,42
+787,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jain travels regd,Non AC Seater/Sleeper,23:30:00,04:20:00,04h 50m,3.6,360,41
+788,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Gajraj Travels,Non AC Seater/Sleeper,23:34:00,04:50:00,05h 16m,3.6,360,20
+789,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jain travels regd,AC Seater/Sleeper,23:35:00,04:15:00,04h 40m,3.6,460,32
+790,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Raj Travel (Laxmi Traveller),AC Seater/Sleeper,23:43:00,05:00:00,05h 17m,3.6,600,29
+791,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Gajraj Travels,AC Seater/Sleeper,23:44:00,05:15:00,05h 31m,3.6,600,25
+792,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,CHANDRA RAJ TRAVELS,AC Seater/Sleeper,23:45:00,04:45:00,05h 00m,3.6,460,37
+793,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jakhar Travels,AC Seater/Sleeper,23:45:00,04:30:00,04h 45m,3.6,401,36
+794,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,Jai Bajrang Travels,AC Seater/Sleeper,23:50:00,04:50:00,05h 00m,3.6,350,33
+795,Pali,Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur,M R Travels,AC Seater/Sleeper,23:50:00,05:05:00,05h 15m,3.6,612,37
+796,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,RSRTC - 195763,Non AC Seater,16:00:00,19:40:00,03h 40m,2,269,42
+797,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,UPSRTC - KSN0274,Non AC Seater,18:00:00,00:01:00,06h 01m,2,289,49
+798,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,Thar Bus Service,AC Seater/Sleeper,16:40:00,23:40:00,07h 00m,2,499,24
+799,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,Rinku Travels,AC Seater/Sleeper,23:30:00,05:22:00,05h 52m,2,400,19
+800,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,Rinku Travels,AC Seater/Sleeper,23:35:00,06:15:00,06h 40m,2,400,29
+801,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,Bhagwati Travel Agency,AC Seater/Sleeper,22:40:00,04:40:00,06h 00m,2,719,18
+802,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,Om Travels,Non AC Seater/Sleeper,23:00:00,04:29:00,05h 29m,2,450,38
+803,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,BG Travels,AC Seater/Sleeper,14:30:00,20:10:00,05h 40m,2,925,35
+804,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,Amar Travels (Agra),Non AC Seater/Sleeper,16:15:00,23:30:00,07h 15m,2,1620,16
+805,Mathura,Jaipur,https://www.redbus.in/bus-tickets/mathura-to-jaipur,janta shatabdi travels,AC Seater/Sleeper,23:15:00,04:20:00,05h 05m,2,800,36

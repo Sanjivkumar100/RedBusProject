@@ -1,0 +1,425 @@
+Bus_no,From,To,Link,Bus_Name,Bus_Type,Bus_Dept,Bus_Arrival,Duration,Rating,Price,Seats
+0,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 370,AC Seater,15:25:00,23:20:00,07h 55m,3,1099,21
+1,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 97,Non AC Seater,16:00:00,00:45:00,08h 45m,3,740,2
+2,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 380,Non AC Seater,16:15:00,01:00:00,08h 45m,3,740,3
+3,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 553,Non AC Seater,16:45:00,02:15:00,09h 30m,3,832,11
+4,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 51,Non AC Seater,19:00:00,04:30:00,09h 30m,3,832,2
+5,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 1585,Non AC Seater,20:40:00,06:10:00,09h 30m,3,832,1
+6,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 2853,Non AC Seater,23:16:00,08:31:00,09h 15m,3,688,21
+7,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 56,AC Seater,23:40:00,10:00:00,10h 20m,3,945,2
+8,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,MMK Travels,AC Seater/Sleeper,22:30:00,07:30:00,09h 00m,3,899,13
+9,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SKS Tours & Travels,AC Sleeper,21:15:00,05:45:00,08h 30m,3,1299,17
+10,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,FAST LINE BUS,AC Sleeper,21:15:00,06:15:00,09h 00m,3,1169,12
+11,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,AdSAAM BUS,AC Seater/Sleeper,21:45:00,05:50:00,08h 05m,3,1200,5
+12,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,MMK Travels,AC Sleeper,23:00:00,07:30:00,08h 30m,3,1099,11
+13,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,DLT BUS,AC Sleeper,22:30:00,07:30:00,09h 00m,3,1299,12
+14,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,NS Transports,Non AC Seater/Sleeper,22:15:00,06:30:00,08h 15m,3,900,8
+15,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,AdSuraj Holidays,AC Sleeper,22:30:00,07:30:00,09h 00m,3,1250,16
+16,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,DA Transports,AC Sleeper,21:45:00,06:55:00,09h 10m,3,1200,11
+17,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,P K Travels,AC Seater/Sleeper,21:30:00,06:00:00,08h 30m,3,1000,12
+18,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Silver Line Travels,Non AC Seater/Sleeper,22:15:00,06:45:00,08h 30m,3,855,8
+19,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,NS Transports,Non AC Seater/Sleeper,22:30:00,06:45:00,08h 15m,3,899,6
+20,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,National travels and logistics,AC Sleeper,22:45:00,07:00:00,08h 15m,3,1190,11
+21,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,NS Transports,Non AC Seater/Sleeper,21:45:00,06:10:00,08h 25m,3,899,12
+22,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SAAM BUS,AC Sleeper,21:45:00,06:45:00,09h 00m,3,1200,13
+23,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Kyros Connect,AC Semi Sleeper,23:00:00,09:00:00,10h 00m,3,1099,27
+24,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,P K Travels,AC Sleeper,18:45:00,06:30:00,11h 45m,3,1300,9
+25,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,LEGEND HOLIDAYS,AC Semi Sleeper,21:20:00,06:00:00,08h 40m,3,899,14
+26,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Balaji Tourist,AC Semi Sleeper,20:15:00,03:15:00,07h 00m,3,2250,49
+27,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Sam Tourist,Non AC Seater/Sleeper,22:05:00,07:05:00,09h 00m,3,799,20
+28,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Suraj Holidays,Non AC Seater/Sleeper,20:30:00,06:00:00,09h 30m,3,850,14
+29,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SKS Tourist Corporation (REGD),Non AC Seater/Sleeper,22:00:00,06:00:00,08h 00m,3,899,23
+30,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,National travels and logistics,Non AC Sleeper,22:30:00,06:15:00,07h 45m,3,899,11
+31,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SKS Tourist Corporation (REGD),AC Sleeper,21:00:00,05:30:00,08h 30m,3,1299,16
+32,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Kalpaka Travels,Non AC Semi Sleeper,22:15:00,04:45:00,06h 30m,3,900,6
+33,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Usha Transport,Non AC Sleeper,22:00:00,07:15:00,09h 15m,3,899,21
+34,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,NS Transports,AC Sleeper,22:45:00,07:30:00,08h 45m,3,1250,7
+35,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,Kallada Travels (Suresh Kallada),AC Sleeper,22:00:00,07:05:00,09h 05m,3,1299,20
+36,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,P K Travels,Non AC Seater/Sleeper,18:45:00,05:15:00,10h 30m,3,900,6
+37,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,A1 Travels,Non AC Seater/Sleeper,21:00:00,06:45:00,09h 45m,3,900,18
+38,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,A1 Travels,AC Seater/Sleeper,22:30:00,06:30:00,08h 00m,3,925,26
+39,Bangalore,Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,A1 Travels,AC Seater/Sleeper,21:45:00,07:00:00,09h 15m,3,1000,27
+40,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2810,Non AC Seater,15:25:00,21:05:00,05h 40m,2.1,269,46
+41,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 720,Non AC Seater,15:40:00,21:15:00,05h 35m,2.1,269,47
+42,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2898,AC Seater,16:00:00,22:15:00,06h 15m,2.1,383,9
+43,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2874,Non AC Seater,16:20:00,22:30:00,06h 10m,2.1,230,34
+44,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 323,Non AC Seater,17:25:00,22:40:00,05h 15m,2.1,269,29
+45,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 556,Non AC Seater,18:00:00,22:50:00,04h 50m,2.1,309,18
+46,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2900,AC Seater,18:00:00,00:15:00,06h 15m,2.1,383,10
+47,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 46,Non AC Seater,20:25:00,01:01:00,04h 36m,2.1,309,4
+48,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2393,AC Seater,20:30:00,01:44:00,05h 14m,2.1,383,2
+49,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 3090,Non AC Seater,20:55:00,00:55:00,04h 00m,2.1,309,6
+50,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 827,Non AC Seater,21:00:00,02:35:00,05h 35m,2.1,269,32
+51,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 531,Non AC Seater,21:15:00,01:10:00,03h 55m,2.1,309,8
+52,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2954,Non AC Seater,21:25:00,02:35:00,05h 10m,2.1,309,5
+53,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1789,Non AC Seater,21:40:00,02:49:00,05h 09m,2.1,269,49
+54,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 700,Non AC Seater,22:15:00,03:49:00,05h 34m,2.1,255,38
+55,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 666,Non AC Seater,22:25:00,04:19:00,05h 54m,2.1,269,36
+56,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 582,Non AC Seater,22:40:00,03:40:00,05h 00m,2.1,288,13
+57,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1704,Non AC Seater,22:40:00,03:50:00,05h 10m,2.1,255,23
+58,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 1011,Non AC Seater,23:00:00,04:30:00,05h 30m,2.1,261,22
+59,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 279,Non AC Seater,23:05:00,04:40:00,05h 35m,2.1,269,38
+60,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 426,Non AC Seater,23:15:00,03:05:00,03h 50m,2.1,268,2
+61,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 370,AC Seater,23:20:00,03:40:00,04h 20m,2.1,750,29
+62,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,A1 Travels,AC Seater/Sleeper,20:05:00,23:59:00,03h 54m,2.1,648,14
+63,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,A1 Travels,Non AC Semi Sleeper,21:00:00,01:30:00,04h 30m,2.1,600,20
+64,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Galaxy Tours,AC Seater/Sleeper,21:45:00,02:00:00,04h 15m,2.1,800,8
+65,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Galaxy Tours,AC Semi Sleeper,21:45:00,02:01:00,04h 16m,2.1,800,10
+66,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Arjun Holidays,AC Seater,21:50:00,02:50:00,05h 00m,2.1,799,1
+67,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,A1 Travels,AC Seater/Sleeper,22:30:00,01:29:00,02h 59m,2.1,800,13
+68,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,UFO Bus,AC Semi Sleeper,23:55:00,05:30:00,05h 35m,2.1,650,11
+69,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Sonia Travels,AC Seater/Sleeper,23:30:00,04:29:00,04h 59m,2.1,680,6
+70,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Madhavi Travels,AC Semi Sleeper,23:30:00,03:10:00,03h 40m,2.1,899,36
+71,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Madhavi Travels,AC Semi Sleeper,23:30:00,02:35:00,03h 05m,2.1,899,23
+72,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,UFO Bus,AC Sleeper,23:55:00,05:30:00,05h 35m,2.1,874,13
+73,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Madhavi Travels,AC Sleeper,23:40:00,05:00:00,05h 20m,2.1,799,11
+74,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Sonia Travels,AC Semi Sleeper,23:45:00,03:30:00,03h 45m,2.1,650,4
+75,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Cochin Bus,AC Sleeper,23:59:00,05:35:00,05h 36m,2.1,850,5
+76,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Arya Travels,AC Sleeper,23:59:00,05:30:00,05h 31m,2.1,795,9
+77,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,SG Travels,AC Sleeper,23:59:00,05:55:00,05h 56m,2.1,799,18
+78,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Cochin Bus,AC Semi Sleeper,23:59:00,05:55:00,05h 56m,2.1,600,6
+79,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Kalpaka Travels 1,AC Sleeper,23:59:00,06:00:00,06h 01m,2.1,800,6
+80,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,A1 Travels,AC Seater/Sleeper,22:15:00,01:45:00,03h 30m,2.1,700,16
+81,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Shajees Motors,AC Semi Sleeper,22:30:00,03:05:00,04h 35m,2.1,630,13
+82,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Kallada Travels (Suresh Kallada),AC Sleeper,22:45:00,02:40:00,03h 55m,2.1,850,3
+83,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Kalpaka Travels 1,AC Semi Sleeper,23:59:00,05:00:00,05h 01m,2.1,600,14
+84,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Arya Travels,AC Seater/Sleeper,23:59:00,05:30:00,05h 31m,2.1,545,28
+85,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Madhavi Travels,AC Sleeper,22:20:00,02:35:00,04h 15m,2.1,999,9
+86,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,A1 Travels,AC Sleeper,23:30:00,03:15:00,03h 45m,2.1,1000,17
+87,Kozhikode,Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KP Travels,AC Seater,21:15:00,01:45:00,04h 30m,2.1,1599,1
+88,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,MMK Travels,AC Seater/Sleeper,21:30:00,06:00:00,08h 30m,4.4,700,15
+89,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,DLT BUS,AC Sleeper,21:45:00,06:30:00,08h 45m,4.4,999,11
+90,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,MMK Travels,AC Sleeper,21:00:00,05:30:00,08h 30m,4.4,900,10
+91,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,AdSAAM BUS,AC Sleeper,20:30:00,06:15:00,09h 45m,4.4,850,6
+92,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,P K Travels,AC Sleeper,20:00:00,06:00:00,10h 00m,4.4,850,21
+93,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,National travels and logistics,AC Sleeper,21:00:00,06:15:00,09h 15m,4.4,699,18
+94,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,NS Transports,Non AC Seater/Sleeper,20:30:00,06:30:00,10h 00m,4.4,649,19
+95,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SKS Tours & Travels,AC Sleeper,21:00:00,06:00:00,09h 00m,4.4,899,15
+96,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Silver Line Travels,Non AC Seater/Sleeper,20:00:00,05:10:00,09h 10m,4.4,665,30
+97,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SAAM BUS,AC Seater/Sleeper,21:15:00,06:15:00,09h 00m,4.4,630,15
+98,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,NS Transports,Non AC Seater/Sleeper,19:30:00,04:30:00,09h 00m,4.4,649,14
+99,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,FAST LINE BUS,AC Sleeper,21:15:00,06:15:00,09h 00m,4.4,2429,34
+100,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Suraj Holidays,AC Sleeper,22:00:00,07:15:00,09h 15m,4.4,800,19
+101,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,DA Transports,AC Sleeper,22:01:00,07:45:00,09h 44m,4.4,799,12
+102,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,National travels and logistics,Non AC Sleeper,20:45:00,06:15:00,09h 30m,4.4,649,18
+103,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,DA Transports,AC Sleeper,21:50:00,06:45:00,08h 55m,4.4,799,21
+104,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Kallada Travels (Suresh Kallada),AC Sleeper,21:10:00,07:15:00,10h 05m,4.4,900,28
+105,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SKS Tourist Corporation (REGD),Non AC Seater/Sleeper,20:00:00,05:00:00,09h 00m,4.4,599,27
+106,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,NS Transports,AC Sleeper,20:15:00,06:30:00,10h 15m,4.4,899,21
+107,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,P K Travels,AC Seater/Sleeper,21:45:00,06:45:00,09h 00m,4.4,800,22
+108,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SKS Tourist Corporation (REGD),AC Sleeper,21:30:00,06:30:00,09h 00m,4.4,899,20
+109,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,P K Travels,Non AC Seater/Sleeper,21:00:00,06:00:00,09h 00m,4.4,650,20
+110,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Bharathi Travels,AC Sleeper,15:00:00,23:45:00,08h 45m,4.4,800,26
+111,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Kallada Travels (Suresh Kallada),AC Sleeper,14:15:00,23:10:00,08h 55m,4.4,1300,26
+112,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,A1 Travels,AC Seater/Sleeper,22:30:00,06:30:00,08h 00m,4.4,601,22
+113,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,Suraj Holidays,Non AC Seater/Sleeper,20:15:00,05:55:00,09h 40m,4.4,650,26
+114,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,A1 Travels,AC Seater/Sleeper,20:00:00,05:30:00,09h 30m,4.4,600,19
+115,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,A1 Travels,Non AC Seater/Sleeper,21:45:00,06:30:00,08h 45m,4.4,550,4
+116,Kozhikode,Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,PSK Travels,AC Sleeper,14:35:00,23:35:00,09h 00m,4.4,1690,12
+117,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 708,Non AC Seater,16:00:00,22:40:00,06h 40m,3.8,285,43
+118,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 898,Non AC Seater,16:30:00,22:15:00,05h 45m,3.8,273,39
+119,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 578,Non AC Seater,18:00:00,01:00:00,07h 00m,3.8,350,23
+120,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 72,AC Seater,19:05:00,02:05:00,07h 00m,3.8,452,7
+121,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1583,Non AC Seater,20:00:00,03:00:00,07h 00m,3.8,419,6
+122,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 234,Non AC Seater,21:00:00,04:25:00,07h 25m,3.8,398,3
+123,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 1584,Non AC Seater,21:30:00,03:55:00,06h 25m,3.8,419,8
+124,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 50,Non AC Seater,22:00:00,04:55:00,06h 55m,3.8,419,6
+125,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 719,Non AC Seater,23:00:00,05:40:00,06h 40m,3.8,319,32
+126,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,Non AC Seater/Sleeper,19:30:00,02:30:00,07h 00m,3.8,699,22
+127,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tourist Corporation (REGD),Non AC Seater/Sleeper,20:00:00,03:00:00,07h 00m,3.8,599,26
+128,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,AC Seater/Sleeper,20:00:00,04:00:00,08h 00m,3.8,600,23
+129,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,Non AC Seater/Sleeper,20:31:00,02:30:00,05h 59m,3.8,649,22
+130,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,National travels and logistics,Non AC Sleeper,20:45:00,04:00:00,07h 15m,3.8,649,17
+131,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Suraj Holidays,Non AC Seater/Sleeper,21:00:00,03:00:00,06h 00m,3.8,710,26
+132,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,DA Transports,AC Sleeper,21:50:00,04:30:00,06h 40m,3.8,799,24
+133,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Suraj Holidays,AC Sleeper,22:00:00,05:00:00,07h 00m,3.8,800,20
+134,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,National travels and logistics,AC Sleeper,21:00:00,03:15:00,06h 15m,3.8,699,22
+135,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,DA Transports,AC Sleeper,22:01:00,04:40:00,06h 39m,3.8,799,21
+136,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SAAM BUS,AC Seater/Sleeper,21:15:00,04:00:00,06h 45m,3.8,630,16
+137,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,Non AC Seater/Sleeper,21:45:00,04:00:00,06h 15m,3.8,550,5
+138,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,AC Seater/Sleeper,22:30:00,04:15:00,05h 45m,3.8,650,28
+139,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,PSK Travels,AC Sleeper,14:35:00,21:35:00,07h 00m,3.8,1590,14
+140,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Bharathi Travels,AC Sleeper,15:00:00,21:00:00,06h 00m,3.8,1190,28
+141,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,AC Sleeper,20:15:00,03:30:00,07h 15m,3.8,899,24
+142,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SAAM BUS,AC Sleeper,20:30:00,04:00:00,07h 30m,3.8,850,9
+143,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,MMK Travels,AC Sleeper,21:00:00,03:00:00,06h 00m,3.8,900,22
+144,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tours & Travels,AC Sleeper,21:00:00,04:00:00,07h 00m,3.8,899,26
+145,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,FAST LINE BUS,AC Sleeper,21:15:00,04:00:00,06h 45m,3.8,2429,34
+146,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,SKS Tourist Corporation (REGD),AC Sleeper,21:30:00,04:45:00,07h 15m,3.8,899,20
+147,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Balaji Tourist,AC Semi Sleeper,23:30:00,05:00:00,05h 30m,3.8,2250,49
+148,Kozhikode,Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,Kallada Travels (Suresh Kallada),AC Sleeper,14:15:00,19:30:00,05h 15m,3.8,900,36
+149,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1210,AC Seater/Sleeper,15:20:00,21:05:00,05h 45m,4.1,576,3
+150,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1193,Non AC Seater,15:45:00,21:35:00,05h 50m,4.1,285,34
+151,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1378,AC Seater,16:20:00,21:25:00,05h 05m,4.1,740,29
+152,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 712,Non AC Seater,16:45:00,22:30:00,05h 45m,4.1,285,43
+153,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 798,Non AC Seater,17:00:00,23:00:00,06h 00m,4.1,285,33
+154,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 235,Non AC Seater,17:35:00,01:00:00,07h 25m,4.1,514,6
+155,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 793,Non AC Seater,18:30:00,00:00:00,05h 30m,4.1,285,8
+156,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 97,Non AC Seater,18:35:00,00:45:00,06h 10m,4.1,463,3
+157,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 380,Non AC Seater,18:50:00,01:00:00,06h 10m,4.1,463,4
+158,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 553,Non AC Seater,19:20:00,02:15:00,06h 55m,4.1,545,11
+159,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 51,Non AC Seater,21:35:00,04:30:00,06h 55m,4.1,545,2
+160,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1077,Non AC Seater,22:30:00,05:50:00,07h 20m,4.1,319,13
+161,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1585,Non AC Seater,23:15:00,06:10:00,06h 55m,4.1,545,1
+162,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,A1 Travels,AC Sleeper,17:30:00,23:30:00,06h 00m,4.1,650,26
+163,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Cochin Bus,AC Sleeper,18:00:00,23:59:00,05h 59m,4.1,699,6
+164,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Sam Tourist,Non AC Seater/Sleeper,00:45:00,07:05:00,06h 20m,4.1,799,20
+165,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Kallada Travels (Suresh Kallada),AC Sleeper,16:30:00,22:45:00,06h 15m,4.1,700,11
+166,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Balaji Tourist,AC Semi Sleeper,22:30:00,03:15:00,04h 45m,4.1,2250,49
+167,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,SKS Tourist Corporation (REGD),Non AC Seater/Sleeper,23:55:00,06:00:00,06h 05m,4.1,899,27
+168,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Suraj Holidays,Non AC Seater/Sleeper,23:55:00,06:00:00,06h 05m,4.1,900,16
+169,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,SKS Tourist Corporation (REGD),AC Sleeper,23:55:00,05:30:00,05h 35m,4.1,1299,15
+170,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,FAST LINE BUS,AC Sleeper,23:59:00,06:15:00,06h 16m,4.1,1169,15
+171,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,NS Transports,Non AC Seater/Sleeper,23:57:00,06:30:00,06h 33m,4.1,900,25
+172,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,SKS Tours & Travels,AC Sleeper,23:59:00,05:40:00,05h 41m,4.1,1299,22
+173,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,NS Transports,AC Sleeper,23:59:00,07:30:00,07h 31m,4.1,1250,18
+174,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,NS Transports,Non AC Seater/Sleeper,23:59:00,06:10:00,06h 11m,4.1,899,12
+175,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,National travels and logistics,Non AC Sleeper,00:40:00,06:15:00,05h 35m,4.1,1000,19
+176,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,A1 Travels,Non AC Seater/Sleeper,23:40:00,06:45:00,07h 05m,4.1,900,18
+177,Mysore,Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,A1 Travels,AC Seater/Sleeper,23:45:00,06:30:00,06h 45m,4.1,1000,26
+178,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 1187,Non AC Seater,22:45:00,06:10:00,07h 25m,4,791,2
+179,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,SAAM BUS,AC Semi Sleeper,21:45:00,05:10:00,07h 25m,4,900,19
+180,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,MMK Travels,AC Seater/Sleeper,22:15:00,05:30:00,07h 15m,4,999,9
+181,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,AdNational travels and logistics,AC Sleeper,22:30:00,05:30:00,07h 00m,4,1190,13
+182,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,AC Sleeper,22:00:00,05:25:00,07h 25m,4,1199,10
+183,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,Non AC Sleeper,22:30:00,04:45:00,06h 15m,4,1099,6
+184,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,NS Transports,Non AC Sleeper,22:45:00,05:20:00,06h 35m,4,1199,1
+185,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,AC Semi Sleeper,22:45:00,04:45:00,06h 00m,4,1299,2
+186,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,AC Sleeper,21:30:00,05:15:00,07h 45m,4,1199,4
+187,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Sugama Tourist,AC Sleeper,22:00:00,05:30:00,07h 30m,4,1200,7
+188,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Blue Lagoon Holidays,AC Semi Sleeper,22:00:00,05:30:00,07h 30m,4,799,21
+189,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,EMERALD TRAVELS,AC Semi Sleeper,21:30:00,04:45:00,07h 15m,4,800,11
+190,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,P K Travels,Non AC Semi Sleeper,21:45:00,05:00:00,07h 15m,4,850,2
+191,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,National travels and logistics,Non AC Seater/Sleeper,22:40:00,05:45:00,07h 05m,4,899,5
+192,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,EMERALD TRAVELS,AC Semi Sleeper,21:30:00,04:45:00,07h 15m,4,800,10
+193,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,NS Transports,Non AC Semi Sleeper/Sleeper,22:00:00,06:00:00,08h 00m,4,949,4
+194,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,P K Travels,AC Sleeper,22:15:00,05:30:00,07h 15m,4,1350,10
+195,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Kalpaka Travels,Non AC Seater/Sleeper,22:00:00,06:10:00,08h 10m,4,900,1
+196,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Kalpaka Travels,Non AC Seater/Sleeper,22:00:00,05:00:00,07h 00m,4,1000,2
+197,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Arya Travels,AC Sleeper,19:45:00,05:10:00,09h 25m,4,1249,2
+198,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Ashoka Travel and Logistics,AC Semi Sleeper,22:30:00,05:45:00,07h 15m,4,1000,4
+199,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,DLT BUS,AC Sleeper,22:30:00,06:00:00,07h 30m,4,1299,12
+200,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Rukma Travels,AC Seater/Sleeper,21:30:00,05:00:00,07h 30m,4,999,5
+201,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Ashoka Travel and Logistics,Non AC Semi Sleeper,22:00:00,05:30:00,07h 30m,4,900,6
+202,Bangalore,Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur,Sam Tourist,AC Sleeper,22:35:00,06:05:00,07h 30m,4,1299,20
+203,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 323,Non AC Seater,17:25:00,03:55:00,10h 30m,1.8,515,31
+204,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2390,AC Seater,17:30:00,03:45:00,10h 15m,1.8,723,5
+205,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 556,Non AC Seater,18:00:00,02:55:00,08h 55m,1.8,586,18
+206,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1872,AC Seater,18:30:00,04:25:00,09h 55m,1.8,742,1
+207,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 48,Non AC Seater,19:00:00,03:40:00,08h 40m,1.8,565,2
+208,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2984,Non AC Seater,19:20:00,06:10:00,10h 50m,1.8,502,36
+209,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 46,Non AC Seater,20:25:00,05:05:00,08h 40m,1.8,586,4
+210,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2393,AC Seater,20:30:00,06:35:00,10h 05m,1.8,742,2
+211,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 3090,Non AC Seater,20:55:00,04:55:00,08h 00m,1.8,586,6
+212,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 827,Non AC Seater,21:00:00,08:35:00,11h 35m,1.8,515,32
+213,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 531,Non AC Seater,21:15:00,05:05:00,07h 50m,1.8,586,8
+214,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 2954,Non AC Seater,21:25:00,07:10:00,09h 45m,1.8,586,8
+215,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1789,Non AC Seater,21:40:00,08:25:00,10h 45m,1.8,515,49
+216,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 44,Non AC Seater,21:50:00,06:45:00,08h 55m,1.8,565,1
+217,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 1200,Non AC Seater,22:35:00,08:25:00,09h 50m,1.8,565,5
+218,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 279,Non AC Seater,23:05:00,09:50:00,10h 45m,1.8,515,39
+219,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 426,Non AC Seater,23:15:00,07:50:00,08h 35m,1.8,545,2
+220,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 370,AC Seater,23:20:00,08:55:00,09h 35m,1.8,1417,29
+221,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KSRTC (Kerala) - 505,Non AC Seater,23:59:00,07:20:00,07h 21m,1.8,565,3
+222,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,AC Seater/Sleeper,20:05:00,05:30:00,09h 25m,1.8,740,14
+223,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,Non AC Semi Sleeper,21:00:00,06:00:00,09h 00m,1.8,555,20
+224,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Madhavi Travels,AC Semi Sleeper,23:30:00,07:30:00,08h 00m,1.8,999,26
+225,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,AC Seater/Sleeper,22:30:00,06:00:00,07h 30m,1.8,740,12
+226,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Madhavi Travels,AC Sleeper,22:20:00,07:00:00,08h 40m,1.8,999,6
+227,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Galaxy Tours,AC Semi Sleeper,21:45:00,06:30:00,08h 45m,1.8,800,4
+228,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Galaxy Tours,AC Seater/Sleeper,21:45:00,06:30:00,08h 45m,1.8,800,8
+229,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,AC Sleeper,23:30:00,08:00:00,08h 30m,1.8,1100,15
+230,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,A1 Travels,AC Seater/Sleeper,22:15:00,05:45:00,07h 30m,1.8,740,14
+231,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Kallada Travels (Suresh Kallada),AC Sleeper,22:45:00,06:40:00,07h 55m,1.8,1100,1
+232,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,Madhavi Travels,AC Semi Sleeper,23:30:00,07:30:00,08h 00m,1.8,899,16
+233,Kozhikode,Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram,KP Travels,AC Seater,21:15:00,05:15:00,08h 00m,1.8,1599,1
+234,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,MMK Travels,AC Seater/Sleeper,23:45:00,06:00:00,06h 15m,4.6,700,14
+235,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kyros Connect,AC Semi Sleeper,14:15:00,21:45:00,07h 30m,4.6,799,25
+236,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,DLT BUS,AC Sleeper,23:45:00,06:30:00,06h 45m,4.6,999,12
+237,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,MMK Travels,AC Seater/Sleeper,23:45:00,06:00:00,06h 15m,4.6,700,14
+238,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,A1 Travels,Non AC Seater/Sleeper,23:10:00,06:30:00,07h 20m,4.6,550,4
+239,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kyros Connect,AC Semi Sleeper,14:17:00,21:45:00,07h 28m,4.6,799,26
+240,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Suraj Holidays,AC Sleeper,23:58:00,07:15:00,07h 17m,4.6,800,19
+241,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,DLT BUS,AC Sleeper,23:59:00,06:30:00,06h 31m,4.6,999,12
+242,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kallada Travels (Suresh Kallada),AC Sleeper,23:30:00,07:15:00,07h 45m,4.6,900,27
+243,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,DA Transports,AC Sleeper,23:50:00,06:45:00,06h 55m,4.6,799,24
+244,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SKS Tourist Corporation (REGD),Non AC Seater/Sleeper,23:15:00,05:45:00,06h 30m,4.6,699,14
+245,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Bharathi Travels,AC Sleeper,17:20:00,23:45:00,06h 25m,4.6,800,26
+246,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SKS Tourist Corporation (REGD),AC Sleeper,23:50:00,06:30:00,06h 40m,4.6,899,20
+247,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,DA Transports,AC Sleeper,00:00:00,07:45:00,07h 45m,4.6,799,12
+248,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Suraj Holidays,AC Sleeper,23:59:00,07:15:00,07h 16m,4.6,800,20
+249,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,A1 Travels,AC Seater/Sleeper,22:30:00,05:30:00,07h 00m,4.6,600,18
+250,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Bharathi Travels,AC Sleeper,17:00:00,23:45:00,06h 45m,4.6,800,26
+251,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SKS Tourist Corporation (REGD),AC Sleeper,23:55:00,06:30:00,06h 35m,4.6,899,20
+252,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,PSK Travels,AC Sleeper,17:35:00,23:35:00,06h 00m,4.6,1690,12
+253,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SKS Tourist Corporation (REGD),Non AC Seater/Sleeper,23:16:00,05:45:00,06h 29m,4.6,699,14
+254,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,FAST LINE BUS,AC Sleeper,23:15:00,06:15:00,07h 00m,4.6,2699,34
+255,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SAAM BUS,AC Sleeper,23:06:00,06:00:00,06h 54m,4.6,800,7
+256,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,SAAM BUS,AC Sleeper,23:05:00,06:00:00,06h 55m,4.6,800,7
+257,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,DA Transports,AC Sleeper,23:55:00,06:45:00,06h 50m,4.6,799,21
+258,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kallada Travels (Suresh Kallada),AC Sleeper,15:50:00,23:10:00,07h 20m,4.6,1300,26
+259,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Kallada Travels (Suresh Kallada),AC Sleeper,15:50:00,23:10:00,07h 20m,4.6,1300,27
+260,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,A1 Travels,AC Seater/Sleeper,23:45:00,06:30:00,06h 45m,4.6,700,20
+261,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,Orange Tours And Travels,AC Sleeper,16:30:00,23:30:00,07h 00m,4.6,1400,27
+262,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,PSK Travels,AC Sleeper,17:05:00,23:35:00,06h 30m,4.6,1690,12
+263,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,P K Travels,AC Seater/Sleeper,23:50:00,06:45:00,06h 55m,4.6,800,29
+264,Kalpetta,Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore,DA Transports,AC Sleeper,00:00:00,07:45:00,07h 45m,4.6,799,12
+265,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 758,Non AC Seater,15:45:00,22:45:00,07h 00m,2.4,332,37
+266,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 726,Non AC Seater,17:00:00,00:05:00,07h 05m,2.4,332,40
+267,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2390,AC Seater,17:30:00,00:25:00,06h 55m,2.4,475,5
+268,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 48,Non AC Seater,19:00:00,00:40:00,05h 40m,2.4,381,3
+269,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2984,Non AC Seater,19:20:00,02:20:00,07h 00m,2.4,332,39
+270,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1506,Non AC Seater,20:30:00,04:00:00,07h 30m,2.4,332,46
+271,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 567,Non AC Seater,20:45:00,04:05:00,07h 20m,2.4,463,32
+272,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 3294,Non AC Seater,21:00:00,04:00:00,07h 00m,2.4,332,40
+273,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1210,AC Seater/Sleeper,21:05:00,02:50:00,05h 45m,2.4,494,19
+274,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1378,AC Seater,21:25:00,03:55:00,06h 30m,2.4,924,34
+275,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 344,Non AC Seater,21:45:00,04:25:00,06h 40m,2.4,332,35
+276,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 44,Non AC Seater,21:50:00,03:45:00,05h 55m,2.4,381,6
+277,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 560,Non AC Seater,22:10:00,04:30:00,06h 20m,2.4,381,26
+278,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1200,Non AC Seater,22:35:00,05:00:00,06h 25m,2.4,381,9
+279,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1704,Non AC Seater,22:40:00,05:41:00,07h 01m,2.4,341,23
+280,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 582,Non AC Seater,22:40:00,05:15:00,06h 35m,2.4,370,26
+281,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 128,Non AC Seater,22:55:00,04:10:00,05h 15m,2.4,494,33
+282,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 2784,Non AC Seater,23:20:00,06:30:00,07h 10m,2.4,386,30
+283,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 673,Non AC Seater,23:25:00,05:55:00,06h 30m,2.4,332,39
+284,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 1963,Non AC Seater,23:45:00,06:00:00,06h 15m,2.4,332,48
+285,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KSRTC (Kerala) - 505,Non AC Seater,23:59:00,04:45:00,04h 46m,2.4,381,17
+286,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Sonia Travels,AC Seater/Sleeper,23:30:00,06:38:00,07h 08m,2.4,750,6
+287,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Sonia Travels,AC Semi Sleeper,23:45:00,06:25:00,06h 40m,2.4,750,4
+288,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Cochin Bus,AC Sleeper,23:59:00,07:00:00,07h 01m,2.4,900,15
+289,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Madhavi Travels,AC Semi Sleeper,23:30:00,04:50:00,05h 20m,2.4,999,37
+290,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,Madhavi Travels,AC Sleeper,23:40:00,06:40:00,07h 00m,2.4,999,11
+291,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,A1 Travels,AC Seater/Sleeper,20:05:00,03:00:00,06h 55m,2.4,800,25
+292,Kozhikode,Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam,KP Travels,AC Seater,21:15:00,03:00:00,05h 45m,2.4,1599,1
+293,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 100,Non AC Seater,19:00:00,03:05:00,08h 05m,3.7,548,19
+294,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 1766,Non AC Seater,20:15:00,04:25:00,08h 10m,3.7,568,30
+295,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 99,Non AC Seater,21:30:00,05:45:00,08h 15m,3.7,579,12
+296,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,KSRTC (Kerala) - 133,Non AC Seater,21:30:00,05:20:00,07h 50m,3.7,568,21
+297,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,MMK Travels,AC Seater/Sleeper,21:30:00,06:00:00,08h 30m,3.7,700,19
+298,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Sugama Tourist,AC Sleeper,22:00:00,05:30:00,07h 30m,3.7,800,10
+299,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,NS Transports,Non AC Semi Sleeper/Sleeper,20:30:00,05:20:00,08h 50m,3.7,699,14
+300,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Ashoka Travel and Logistics,AC Sleeper,21:15:00,05:30:00,08h 15m,3.7,1000,10
+301,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,AC Sleeper,21:45:00,05:10:00,07h 25m,3.7,849,17
+302,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,NS Transports,AC Sleeper,21:15:00,05:30:00,08h 15m,3.7,949,9
+303,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,NS Transports,Non AC Sleeper,21:45:00,05:45:00,08h 00m,3.7,749,5
+304,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,AC Semi Sleeper,21:45:00,04:50:00,07h 05m,3.7,899,18
+305,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Ashoka Travel and Logistics,AC Semi Sleeper,21:00:00,05:15:00,08h 15m,3.7,900,34
+306,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,National travels and logistics,Non AC Seater/Sleeper,21:15:00,05:30:00,08h 15m,3.7,499,15
+307,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Arya Travels,AC Sleeper,21:20:00,05:30:00,08h 10m,3.7,895,15
+308,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,P K Travels,AC Sleeper,21:00:00,05:00:00,08h 00m,3.7,999,19
+309,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,Non AC Sleeper,21:30:00,05:00:00,07h 30m,3.7,749,6
+310,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Ashoka Travel and Logistics,Non AC Semi Sleeper,21:30:00,05:00:00,07h 30m,3.7,800,30
+311,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,AC Sleeper,21:15:00,05:00:00,07h 45m,3.7,899,7
+312,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,P K Travels,Non AC Semi Sleeper,20:30:00,06:30:00,10h 00m,3.7,750,21
+313,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,National travels and logistics,AC Sleeper,21:45:00,05:45:00,08h 00m,3.7,899,2
+314,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,AC Sleeper,21:45:00,05:00:00,07h 15m,3.7,1100,11
+315,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,Non AC Seater/Sleeper,21:15:00,05:00:00,07h 45m,3.7,800,24
+316,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,Non AC Seater/Sleeper,21:00:00,05:00:00,08h 00m,3.7,800,33
+317,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,Non AC Semi Sleeper,20:45:00,05:00:00,08h 15m,3.7,800,9
+318,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Kalpaka Travels,Non AC Seater/Sleeper,21:30:00,05:00:00,07h 30m,3.7,800,22
+319,Kannur,Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore,Golden Travels,Non AC Semi Sleeper,21:15:00,05:00:00,07h 45m,3.7,799,11
+320,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Surya Connect,Non AC Seater,23:40:00,02:45:00,03h 05m,4.4,450,22
+321,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Sheraton Tours and Travels,AC Seater/Sleeper,22:27:00,01:45:00,03h 18m,4.4,580,14
+322,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Ubc travels,AC Semi Sleeper,22:30:00,01:00:00,02h 30m,4.4,700,12
+323,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Kallada Travels (Suresh Kallada),AC Sleeper,22:31:00,01:25:00,02h 54m,4.4,1100,20
+324,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,PSK Travels,AC Seater/Sleeper,23:00:00,02:00:00,03h 00m,3,1190,28
+325,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Adrin Travels,AC Seater/Sleeper,23:05:00,02:00:00,02h 55m,3,1000,11
+326,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Blue Bird Travels,AC Seater,23:15:00,02:50:00,03h 35m,3,699,10
+327,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,AC Semi Sleeper,23:20:00,02:15:00,02h 55m,3,699,22
+328,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Sona Travels,AC Sleeper,23:20:00,02:45:00,03h 25m,3,799,19
+329,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,AC Semi Sleeper,23:20:00,03:35:00,04h 15m,3,749,23
+330,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,AC Sleeper,23:35:00,02:45:00,03h 10m,3,924,23
+331,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Ubc travels,AC Seater/Sleeper,23:20:00,03:00:00,03h 40m,3,900,45
+332,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,AC Seater,23:25:00,03:00:00,03h 35m,3,670,31
+333,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,AC Sleeper,23:30:00,03:00:00,03h 30m,3,1299,30
+334,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Madhavi Travels,AC Sleeper,23:30:00,02:05:00,02h 35m,3,1199,26
+335,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Cochin Bus,AC Semi Sleeper,23:30:00,02:30:00,03h 00m,3,667,25
+336,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Kalpaka Travels 1,AC Sleeper,23:40:00,02:30:00,02h 50m,3,900,28
+337,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Cochin Bus,AC Sleeper,23:40:00,02:30:00,02h 50m,3,800,11
+338,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,AC Semi Sleeper,23:40:00,02:45:00,03h 05m,3,775,5
+339,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,LIYAS TOURS,AC Sleeper,23:47:00,03:40:00,03h 53m,3,1049,9
+340,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,AC Semi Sleeper,23:55:00,02:40:00,02h 45m,3,675,20
+341,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,SG Travels,AC Sleeper,23:50:00,02:30:00,02h 40m,3,849,21
+342,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Greenline kerala,AC Seater,23:50:00,02:45:00,02h 55m,3,650,31
+343,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Cochin Bus,AC Sleeper,23:50:00,03:00:00,03h 10m,3,900,14
+344,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,AC Semi Sleeper,23:55:00,01:50:00,01h 55m,3,724,49
+345,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Kalpaka Travels 1,AC Semi Sleeper,23:55:00,03:00:00,03h 05m,3,700,36
+346,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Arya Travels,AC Sleeper,23:59:00,03:15:00,03h 16m,3,795,4
+347,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Arya Travels,AC Sleeper,23:59:00,03:15:00,03h 16m,3,895,17
+348,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,EMERALD TRAVELS,AC Seater,00:15:00,04:15:00,04h 00m,3,600,35
+349,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,EMERALD TRAVELS,AC Sleeper,02:30:00,04:30:00,02h 00m,3,1100,12
+350,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Aadithya Travels,AC Seater/Sleeper,23:00:00,01:45:00,02h 45m,3,1350,17
+351,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Galaxy Tours,AC Seater/Sleeper,02:45:00,06:00:00,03h 15m,3,700,37
+352,Thrissur,Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Galaxy Tours,AC Semi Sleeper,02:45:00,06:00:00,03h 15m,3,650,11
+353,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 486,Non AC Seater,15:45:00,00:30:00,08h 45m,2.7,586,12
+354,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 1377,AC Seater,16:01:00,02:20:00,10h 19m,2.7,904,12
+355,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 667,Non AC Seater,16:15:00,02:30:00,10h 15m,2.7,477,38
+356,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 862,Non AC Seater,16:20:00,04:40:00,12h 20m,2.7,502,37
+357,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 368,AC Seater,16:25:00,03:05:00,10h 40m,2.7,935,17
+358,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2985,Non AC Seater,16:45:00,03:35:00,10h 50m,2.7,502,32
+359,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 431,Non AC Seater,17:15:00,04:45:00,11h 30m,2.7,515,18
+360,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 43,Non AC Seater,17:40:00,03:21:00,09h 41m,2.7,586,6
+361,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 1199,Non AC Seater,18:11:00,04:05:00,09h 54m,2.7,565,7
+362,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 47,Non AC Seater,18:30:00,03:52:00,09h 22m,2.7,586,1
+363,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2956,Non AC Seater,18:45:00,05:25:00,10h 40m,2.7,586,25
+364,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 49,Non AC Seater,19:10:00,04:20:00,09h 10m,2.7,565,6
+365,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 425,Non AC Seater,19:15:00,04:10:00,08h 55m,2.7,545,1
+366,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 453,Non AC Seater,19:40:00,05:05:00,09h 25m,2.7,586,25
+367,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 507,Non AC Seater,20:00:00,03:35:00,07h 35m,2.7,565,5
+368,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2894,AC Seater,20:01:00,06:26:00,10h 25m,2.7,742,13
+369,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 528,Non AC Seater,20:45:00,04:40:00,07h 55m,2.7,586,2
+370,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 325,Non AC Seater,22:05:00,08:35:00,10h 30m,2.7,515,32
+371,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 2366,AC Seater,23:00:00,09:15:00,10h 15m,2.7,723,14
+372,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,KSRTC (Kerala) - 500,Non AC Seater,23:45:00,07:25:00,07h 40m,2.7,586,2
+373,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Madhavi Travels,AC Sleeper,19:50:00,04:30:00,08h 40m,2.7,999,11
+374,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,AC Seater/Sleeper,20:30:00,05:00:00,08h 30m,2.7,800,14
+375,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,Non AC Semi Sleeper,21:00:00,06:30:00,09h 30m,2.7,650,23
+376,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,AC Sleeper,19:00:00,04:00:00,09h 00m,2.7,925,15
+377,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Kallada Travels (Suresh Kallada),AC Sleeper,18:01:00,05:00:00,10h 59m,2.7,1000,5
+378,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,BLM Transports,AC Sleeper,20:15:00,05:00:00,08h 45m,2.7,1071,11
+379,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Galaxy Tours,AC Seater/Sleeper,21:00:00,06:00:00,09h 00m,2.7,650,25
+380,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Madhavi Travels,AC Semi Sleeper,20:40:00,04:30:00,07h 50m,2.7,899,31
+381,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,AC Seater/Sleeper,21:35:00,07:00:00,09h 25m,2.7,750,28
+382,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Madhavi Travels,AC Semi Sleeper,20:45:00,04:50:00,08h 05m,2.7,899,24
+383,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,A1 Travels,AC Seater/Sleeper,20:15:00,05:30:00,09h 15m,2.7,740,16
+384,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Blue Bird Travels,AC Seater,20:45:00,06:30:00,09h 45m,2.7,599,29
+385,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,LIYAS TOURS,AC Sleeper,16:45:00,03:40:00,10h 55m,2.7,1049,6
+386,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Galaxy Tours,AC Semi Sleeper,21:00:00,06:00:00,09h 00m,2.7,650,11
+387,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Perinchery Travels,AC Semi Sleeper,20:00:00,05:00:00,09h 00m,2.7,1199,32
+388,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,Aadithya Travels,AC Seater/Sleeper,14:25:00,01:45:00,11h 20m,2.7,1350,17
+389,Thiruvananthapuram,Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode,EMERALD TRAVELS,AC Sleeper,19:30:00,04:30:00,09h 00m,2.7,1100,10
+390,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1902,Non AC Seater,15:45:00,23:00:00,07h 15m,3.7,332,35
+391,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 757,Non AC Seater,16:05:00,23:20:00,07h 15m,3.7,332,35
+392,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1877,AC Seater,16:30:00,23:20:00,06h 50m,3.7,475,10
+393,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1962,Non AC Seater,17:00:00,23:59:00,06h 59m,3.7,332,39
+394,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2783,Non AC Seater,17:30:00,01:00:00,07h 30m,3.7,386,8
+395,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1703,Non AC Seater,17:40:00,01:25:00,07h 45m,3.7,341,34
+396,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 561,Non AC Seater,18:00:00,01:55:00,07h 55m,3.7,360,22
+397,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 125,Non AC Seater,18:05:00,23:35:00,05h 30m,3.7,381,23
+398,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2131,Non AC Seater,18:30:00,01:50:00,07h 20m,3.7,370,17
+399,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 475,Non AC Seater,18:45:00,00:35:00,05h 50m,3.7,381,24
+400,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2996,Non AC Seater,19:15:00,02:30:00,07h 15m,3.7,332,44
+401,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1377,AC Seater,19:35:00,02:20:00,06h 45m,3.7,606,13
+402,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 559,Non AC Seater,19:46:00,02:10:00,06h 24m,3.7,381,12
+403,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1028,Non AC Seater,20:10:00,03:30:00,07h 20m,3.7,355,40
+404,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2071,Non AC Seater,20:30:00,02:30:00,06h 00m,3.7,350,11
+405,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2985,Non AC Seater,20:35:00,03:35:00,07h 00m,3.7,332,34
+406,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 847,Non AC Seater,21:15:00,03:45:00,06h 30m,3.7,332,51
+407,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 862,Non AC Seater,21:20:00,04:40:00,07h 20m,3.7,332,44
+408,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 523,Non AC Seater,21:30:00,02:20:00,04h 50m,3.7,381,9
+409,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 672,Non AC Seater,21:50:00,04:15:00,06h 25m,3.7,332,26
+410,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 1199,Non AC Seater,21:55:00,04:05:00,06h 10m,3.7,381,8
+411,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 3276,Non AC Seater,22:00:00,04:20:00,06h 20m,3.7,381,7
+412,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 49,Non AC Seater,22:20:00,04:20:00,06h 00m,3.7,381,6
+413,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 507,Non AC Seater,22:50:00,03:35:00,04h 45m,3.7,381,6
+414,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,KSRTC (Kerala) - 2690,Non AC Seater,23:06:00,05:30:00,06h 24m,3.7,332,47
+415,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Madhavi Travels,AC Sleeper,18:50:00,03:00:00,08h 10m,3.7,1299,10
+416,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Madhavi Travels,AC Semi Sleeper,23:59:00,04:30:00,04h 31m,3.7,899,35
+417,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Sonia Travels,AC Seater/Sleeper,19:10:00,02:29:00,07h 19m,3.7,750,19
+418,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Ubc travels,AC Seater/Sleeper,18:00:00,03:00:00,09h 00m,3.7,900,29
+419,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,A1 Travels,AC Seater/Sleeper,23:59:00,07:00:00,07h 01m,3.7,750,31
+420,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Kallada Travels (Suresh Kallada),AC Sleeper,18:15:00,01:25:00,07h 10m,3.7,1100,20
+421,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Ubc travels,AC Semi Sleeper,17:30:00,01:00:00,07h 30m,3.7,700,13
+422,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,Jacobs Travels,AC Semi Sleeper,18:30:00,02:30:00,08h 00m,3.7,700,22
+423,Kottayam,Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode,EMERALD TRAVELS,AC Sleeper,23:20:00,04:30:00,05h 10m,3.7,1100,11

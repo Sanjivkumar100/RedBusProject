@@ -1,0 +1,17 @@
+Bus_no,From,To,Link,Bus_Name,Bus_Type,Bus_Dept,Bus_Arrival,Duration,Rating,Price,Seats
+0,Delhi,Srinagar,https://www.redbus.in/bus-tickets/delhi-to-srinagar,Zingbus Plus,AC Seater/Sleeper,20:00:00,15:20:00,19h 20m,4.5,2102,4
+1,Delhi,Srinagar,https://www.redbus.in/bus-tickets/delhi-to-srinagar,Big Bus,AC Seater/Sleeper,17:35:00,11:59:00,18h 24m,4.5,3239,18
+2,Jammu,Katra,https://www.redbus.in/bus-tickets/jammu-to-katra,Bhawani Travels,AC Seater/Sleeper,19:50:00,21:30:00,01h 40m,3.8,400,40
+3,Jammu,Katra,https://www.redbus.in/bus-tickets/jammu-to-katra,Bhawani Travels,AC Seater/Sleeper,20:00:00,21:45:00,01h 45m,3.8,400,26
+4,Jammu,Katra,https://www.redbus.in/bus-tickets/jammu-to-katra,Namdev Travels,Non AC Seater,16:00:00,18:00:00,02h 00m,3.8,100,34
+5,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,FlixBus,AC Sleeper,18:30:00,20:00:00,01h 30m,4.2,88.39,22
+6,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Zingbus Plus,AC Seater/Sleeper,18:45:00,20:10:00,01h 25m,4.2,103,39
+7,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,City Land Travels,AC Seater/Sleeper,19:00:00,20:30:00,01h 30m,4.2,540,36
+8,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,KN Nehra Travels,AC Seater/Sleeper,19:00:00,20:30:00,01h 30m,4.2,699,30
+9,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Zingbus Plus,AC Sleeper,19:50:00,21:20:00,01h 30m,4.2,120,28
+10,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),AC Sleeper,20:00:00,21:00:00,01h 00m,4.2,899,48
+11,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,FlixBus,AC Sleeper,21:00:00,22:25:00,01h 25m,4.2,92.86,15
+12,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Royal Golden,AC Seater/Sleeper,23:00:00,00:00:00,01h 00m,4.2,360,32
+13,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,VGO BUS,AC Seater/Sleeper,18:30:00,19:30:00,01h 00m,4.2,1800,40
+14,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),AC Seater/Sleeper,19:00:00,20:00:00,01h 00m,4.2,1099,38
+15,Katra,Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Perfect Holiday,AC Sleeper,20:30:00,22:15:00,01h 45m,4.2,1259,48

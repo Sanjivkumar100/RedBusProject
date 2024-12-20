@@ -1,0 +1,36 @@
+Bus_no,From,To,Link,Bus_Name,Bus_Type,Bus_Dept,Bus_Arrival,Duration,Rating,Price,Seats
+0,Digha,Barasat West Bengal,https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,The Joy Ride,AC Seater/Sleeper,21:15:00,03:35:00,06h 20m,3.8,488,50
+1,Digha,Barasat West Bengal,https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Satya Paribahan,AC Seater/Sleeper,23:00:00,05:10:00,06h 10m,3.8,320,22
+2,Digha,Barasat West Bengal,https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Aradhana Travel,Non AC Seater,21:45:00,04:40:00,06h 55m,3.8,500,13
+3,Digha,Barasat West Bengal,https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal,Aradhana Travel,AC Seater/Sleeper,18:35:00,23:55:00,05h 20m,3.8,600,19
+4,Durgapur,Kolkata,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Express Line,AC Seater,19:00:00,23:20:00,04h 20m,4.5,486,14
+5,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater,22:45:00,04:10:00,05h 25m,3.8,320,26
+6,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),AC Seater/Sleeper,22:45:00,04:10:00,05h 25m,3.8,320,30
+7,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,The Joy Ride,AC Seater/Sleeper,21:15:00,02:30:00,05h 15m,3.8,488,49
+8,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan (Shinjini),AC Seater,23:35:00,04:15:00,04h 40m,3.8,320,30
+9,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travel,AC Seater/Sleeper,19:35:00,23:59:00,04h 24m,3.8,500,39
+10,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travel,Non AC Seater,21:45:00,03:25:00,05h 40m,3.8,500,13
+11,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,AC Seater,21:00:00,03:00:00,06h 00m,3.8,238,15
+12,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,AC Seater,20:00:00,01:35:00,05h 35m,3.8,238,15
+13,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Aradhana Travel,AC Seater/Sleeper,18:35:00,23:00:00,04h 25m,3.8,500,19
+14,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,AC Seater,18:10:00,23:30:00,05h 20m,3.8,285,31
+15,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,AC Seater/Sleeper,23:00:00,03:45:00,04h 45m,3.8,320,22
+16,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan,AC Seater/Sleeper,23:30:00,04:00:00,04h 30m,3.8,370,45
+17,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Arunita Paribahan,AC Seater/Sleeper,23:35:00,04:30:00,04h 55m,3.8,370,21
+18,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,AC Seater/Sleeper,23:30:00,03:40:00,04h 10m,3.8,300,28
+19,Digha,Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Satya Paribahan,AC Seater/Sleeper,18:20:00,23:00:00,04h 40m,3.8,320,61
+20,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SHYAMOLI Pvt. Ltd.(Karunamoyee),AC Seater,18:15:00,21:30:00,03h 25m,4.4,486,8
+21,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SHYAMOLI Pvt. Ltd.(Karunamoyee),AC Seater,18:15:00,21:30:00,03h 25m,4.4,486,8
+22,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline (Karunamoyee),AC Seater,18:15:00,22:00:00,03h 45m,4.4,486,20
+23,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline (Karunamoyee),AC Seater,18:16:00,22:00:00,03h 44m,4.4,486,20
+24,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline,AC Seater,18:20:00,22:05:00,03h 45m,4.4,486,16
+25,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Shyamoli Paribahan Pvt Ltd,AC Seater,18:40:00,21:15:00,02h 35m,4.4,486,31
+26,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Royal Cruiser,AC Seater,19:30:00,23:15:00,03h 45m,4.4,500,28
+27,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Pammi Travels,Non AC Seater,21:15:00,01:30:00,04h 15m,4.4,694,21
+28,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Pariwartan Bus Service,Non AC Seater,18:30:00,23:00:00,04h 30m,4.4,500,54
+29,Kolkata,Durgapur,https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Maharani Travels,AC Seater/Sleeper,21:05:00,01:30:00,04h 25m,4.4,800,17
+30,Kolkata,Asansol,https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),AC Seater,18:35:00,22:30:00,04h 00m,4.1,524,9
+31,Kolkata,Asansol,https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline,AC Seater,18:35:00,23:05:00,04h 30m,4.1,524,25
+32,Kolkata,Asansol,https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),AC Seater,18:40:00,23:00:00,04h 20m,4.1,524,19
+33,Kolkata,Asansol,https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),AC Seater,18:40:00,23:00:00,04h 20m,4.1,524,20
+34,Kolkata,Asansol,https://www.redbus.in/bus-tickets/kolkata-to-asansol,,,,,,4.1,,
